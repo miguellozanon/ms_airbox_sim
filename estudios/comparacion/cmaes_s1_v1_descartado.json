@@ -1,0 +1,542 @@
+{
+ "id": "cmaes_s1_v1_descartado",
+ "metodo": "descartado",
+ "semilla": 1,
+ "presupuesto": 40,
+ "objetivo": "dp0_ext",
+ "inicio": "2026-11-20 20:18:55",
+ "evaluaciones": [
+  {
+   "origen": "inicial",
+   "caso": "doe003",
+   "params": {
+    "rb": 10.81,
+    "R": 29.53,
+    "L2": 1.41,
+    "x_rear": -44.29,
+    "z_left": -77.79,
+    "Lt": 19.47,
+    "r_plan": 30.32
+   },
+   "y": 91.5,
+   "info": {
+    "dp0_O": 43.4,
+    "mezcla_ext": 48.1,
+    "runner_O": 26.2,
+    "plenum": 7.5,
+    "conducto": 9.8,
+    "backflow_O": 0.072,
+    "vol_plenum_L": 2.688
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe028",
+   "params": {
+    "rb": 7.51,
+    "R": 42.06,
+    "L2": 2.65,
+    "x_rear": -42.29,
+    "z_left": -75.59,
+    "Lt": 29.86,
+    "r_plan": 42.96
+   },
+   "y": 74.1,
+   "info": {
+    "dp0_O": 45.1,
+    "mezcla_ext": 29.1,
+    "runner_O": 28.0,
+    "plenum": 7.4,
+    "conducto": 9.7,
+    "backflow_O": 0.048,
+    "vol_plenum_L": 2.612
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe075",
+   "params": {
+    "rb": 7.77,
+    "R": 46.69,
+    "L2": 2.15,
+    "x_rear": -41.77,
+    "z_left": -68.76,
+    "Lt": 18.86,
+    "r_plan": 33.11
+   },
+   "y": 72.4,
+   "info": {
+    "dp0_O": 41.3,
+    "mezcla_ext": 31.1,
+    "runner_O": 25.3,
+    "plenum": 6.2,
+    "conducto": 9.7,
+    "backflow_O": 0.039,
+    "vol_plenum_L": 2.578
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe089",
+   "params": {
+    "rb": 6.23,
+    "R": 24.48,
+    "L2": 4.95,
+    "x_rear": -46.93,
+    "z_left": -74.14,
+    "Lt": 15.97,
+    "r_plan": 21.94
+   },
+   "y": 124.5,
+   "info": {
+    "dp0_O": 54.2,
+    "mezcla_ext": 70.3,
+    "runner_O": 36.1,
+    "plenum": 8.3,
+    "conducto": 9.8,
+    "backflow_O": 0.097,
+    "vol_plenum_L": 2.61
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe115",
+   "params": {
+    "rb": 11.76,
+    "R": 29.56,
+    "L2": 6.58,
+    "x_rear": -40.8,
+    "z_left": -65.48,
+    "Lt": 1.99,
+    "r_plan": 4.75
+   },
+   "y": 95.2,
+   "info": {
+    "dp0_O": 43.5,
+    "mezcla_ext": 51.7,
+    "runner_O": 27.0,
+    "plenum": 6.7,
+    "conducto": 9.8,
+    "backflow_O": 0.094,
+    "vol_plenum_L": 2.635
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe119",
+   "params": {
+    "rb": 0.66,
+    "R": 30.92,
+    "L2": 12.8,
+    "x_rear": -42.88,
+    "z_left": -71.48,
+    "Lt": 14.81,
+    "r_plan": 15.88
+   },
+   "y": 146.6,
+   "info": {
+    "dp0_O": 98.8,
+    "mezcla_ext": 47.8,
+    "runner_O": 86.2,
+    "plenum": 2.8,
+    "conducto": 9.8,
+    "backflow_O": 0.038,
+    "vol_plenum_L": 2.644
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe129",
+   "params": {
+    "rb": 2.74,
+    "R": 21.79,
+    "L2": 6.11,
+    "x_rear": -41.46,
+    "z_left": -70.55,
+    "Lt": 27.79,
+    "r_plan": 19.17
+   },
+   "y": 144.4,
+   "info": {
+    "dp0_O": 77.4,
+    "mezcla_ext": 67.0,
+    "runner_O": 61.4,
+    "plenum": 6.3,
+    "conducto": 9.7,
+    "backflow_O": 0.071,
+    "vol_plenum_L": 2.589
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "inicial",
+   "caso": "doe130",
+   "params": {
+    "rb": 5.5,
+    "R": 50.45,
+    "L2": 3.51,
+    "x_rear": -40.73,
+    "z_left": -75.06,
+    "Lt": 19.4,
+    "r_plan": 0.31
+   },
+   "y": 75.4,
+   "info": {
+    "dp0_O": 49.5,
+    "mezcla_ext": 25.9,
+    "runner_O": 31.5,
+    "plenum": 8.2,
+    "conducto": 9.8,
+    "backflow_O": 0.01,
+    "vol_plenum_L": 2.726
+   },
+   "t": "2026-11-20 20:18:57"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_01",
+   "params": {
+    "rb": 5.48,
+    "R": 34.92,
+    "L2": 8.85,
+    "x_rear": -40.19,
+    "z_left": -68.43,
+    "Lt": 0.43,
+    "r_plan": 35.05
+   },
+   "y": 101.2,
+   "info": {
+    "dp0_O": 50.9,
+    "mezcla_ext": 50.3,
+    "runner_O": 35.8,
+    "plenum": 5.2,
+    "conducto": 9.9,
+    "backflow_O": 0.092,
+    "vol_plenum_L": 2.675
+   },
+   "ask": {},
+   "t": "2026-11-20 20:34:29"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_02",
+   "params": {
+    "rb": 10.17,
+    "R": 51.72,
+    "L2": 0.02,
+    "x_rear": -41.11,
+    "z_left": -73.78,
+    "Lt": 26.13,
+    "r_plan": 19.02
+   },
+   "y": 66.2,
+   "info": {
+    "dp0_O": 41.8,
+    "mezcla_ext": 24.4,
+    "runner_O": 23.8,
+    "plenum": 8.2,
+    "conducto": 9.8,
+    "backflow_O": 0.026,
+    "vol_plenum_L": 2.656
+   },
+   "ask": {},
+   "t": "2026-11-20 20:52:41"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_03",
+   "params": {
+    "rb": 2.79,
+    "R": 42.81,
+    "L2": 7.26,
+    "x_rear": -40.04,
+    "z_left": -69.95,
+    "Lt": 24.31,
+    "r_plan": 8.53
+   },
+   "y": 106.9,
+   "info": {
+    "dp0_O": 70.1,
+    "mezcla_ext": 36.8,
+    "runner_O": 53.8,
+    "plenum": 6.5,
+    "conducto": 9.8,
+    "backflow_O": 0.027,
+    "vol_plenum_L": 2.625
+   },
+   "ask": {},
+   "t": "2026-11-20 21:07:22"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_04",
+   "params": {
+    "rb": 7.1,
+    "R": 47.05,
+    "L2": 1.57,
+    "x_rear": -41.56,
+    "z_left": -70.37,
+    "Lt": 17.3,
+    "r_plan": 41.5
+   },
+   "y": 73.9,
+   "info": {
+    "dp0_O": 44.0,
+    "mezcla_ext": 30.0,
+    "runner_O": 27.6,
+    "plenum": 6.7,
+    "conducto": 9.7,
+    "backflow_O": 0.05,
+    "vol_plenum_L": 2.601
+   },
+   "ask": {},
+   "t": "2026-11-20 21:23:50"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_05",
+   "params": {
+    "rb": 6.35,
+    "R": 33.82,
+    "L2": 6.32,
+    "x_rear": -42.42,
+    "z_left": -73.01,
+    "Lt": 13.23,
+    "r_plan": 17.41
+   },
+   "y": 91.0,
+   "info": {
+    "dp0_O": 48.2,
+    "mezcla_ext": 42.8,
+    "runner_O": 32.3,
+    "plenum": 6.2,
+    "conducto": 9.7,
+    "backflow_O": 0.075,
+    "vol_plenum_L": 2.685
+   },
+   "ask": {},
+   "t": "2026-11-20 21:37:24"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_06",
+   "params": {
+    "rb": 5.36,
+    "R": 41.01,
+    "L2": 1.41,
+    "x_rear": -40.62,
+    "z_left": -69.63,
+    "Lt": 18.96,
+    "r_plan": 44.98
+   },
+   "y": 90.2,
+   "info": {
+    "dp0_O": 51.4,
+    "mezcla_ext": 38.8,
+    "runner_O": 35.0,
+    "plenum": 6.6,
+    "conducto": 9.8,
+    "backflow_O": 0.055,
+    "vol_plenum_L": 2.589
+   },
+   "ask": {},
+   "t": "2026-11-20 21:52:02"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_07",
+   "params": {
+    "rb": 7.11,
+    "R": 38.2,
+    "L2": 0.94,
+    "x_rear": -41.37,
+    "z_left": -70.59,
+    "Lt": 25.67,
+    "r_plan": 0.22
+   },
+   "y": 84.4,
+   "info": {
+    "dp0_O": 44.9,
+    "mezcla_ext": 39.4,
+    "runner_O": 27.5,
+    "plenum": 7.7,
+    "conducto": 9.8,
+    "backflow_O": 0.055,
+    "vol_plenum_L": 2.609
+   },
+   "ask": {},
+   "t": "2026-11-20 22:05:59"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_08",
+   "params": {
+    "rb": 3.23,
+    "R": 48.2,
+    "L2": 0.02,
+    "x_rear": -40.34,
+    "z_left": -69.02,
+    "Lt": 23.72,
+    "r_plan": 0.82
+   },
+   "y": 93.9,
+   "info": {
+    "dp0_O": 64.6,
+    "mezcla_ext": 29.3,
+    "runner_O": 47.5,
+    "plenum": 7.3,
+    "conducto": 9.8,
+    "backflow_O": 0.005,
+    "vol_plenum_L": 2.609
+   },
+   "ask": {},
+   "t": "2026-11-20 22:25:07"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_09",
+   "params": {
+    "rb": 6.6,
+    "R": 32.66,
+    "L2": 3.97,
+    "x_rear": -43.96,
+    "z_left": -70.74,
+    "Lt": 14.2,
+    "r_plan": 29.24
+   },
+   "y": 95.4,
+   "info": {
+    "dp0_O": 50.8,
+    "mezcla_ext": 44.6,
+    "runner_O": 33.6,
+    "plenum": 7.4,
+    "conducto": 9.7,
+    "backflow_O": 0.075,
+    "vol_plenum_L": 2.602
+   },
+   "ask": {},
+   "t": "2026-11-21 02:48:23"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_10",
+   "params": {
+    "rb": 9.4,
+    "R": 49.67,
+    "L2": 3.86,
+    "x_rear": -40.02,
+    "z_left": -71.43,
+    "Lt": 34.62,
+    "r_plan": 20.54
+   },
+   "y": 67.4,
+   "info": {
+    "dp0_O": 42.2,
+    "mezcla_ext": 25.2,
+    "runner_O": 26.2,
+    "plenum": 6.3,
+    "conducto": 9.7,
+    "backflow_O": 0.027,
+    "vol_plenum_L": 2.593
+   },
+   "ask": {},
+   "t": "2026-11-21 03:22:43"
+  },
+  {
+   "origen": "nuevo",
+   "caso": "cmaes_s1_11",
+   "params": {
+    "rb": 12.31,
+    "R": 46.88,
+    "L2": 0.64,
+    "x_rear": -40.05,
+    "z_left": -72.98,
+    "Lt": 23.62,
+    "r_plan": 46.96
+   },
+   "y": 69.9,
+   "info": {
+    "dp0_O": 39.3,
+    "mezcla_ext": 30.6,
+    "runner_O": 21.9,
+    "plenum": 7.7,
+    "conducto": 9.7,
+    "backflow_O": 0.043,
+    "vol_plenum_L": 2.629
+   },
+   "ask": {},
+   "t": "2026-11-21 09:05:50"
+  },
+  {
+   "origen": "cache",
+   "caso": "cmaes_s1_10",
+   "params": {
+    "rb": 9.4,
+    "R": 49.67,
+    "L2": 3.86,
+    "x_rear": -40.02,
+    "z_left": -71.43,
+    "Lt": 34.62,
+    "r_plan": 20.54
+   },
+   "y": 67.4,
+   "info": {
+    "dp0_O": 42.2,
+    "mezcla_ext": 25.2,
+    "runner_O": 26.2,
+    "plenum": 6.3,
+    "conducto": 9.7,
+    "backflow_O": 0.027,
+    "vol_plenum_L": 2.593
+   },
+   "ask": {},
+   "t": "2026-11-21 09:09:43"
+  },
+  {
+   "origen": "cache",
+   "caso": "cmaes_s1_11",
+   "params": {
+    "rb": 12.31,
+    "R": 46.88,
+    "L2": 0.64,
+    "x_rear": -40.05,
+    "z_left": -72.98,
+    "Lt": 23.62,
+    "r_plan": 46.96
+   },
+   "y": 69.9,
+   "info": {
+    "dp0_O": 39.3,
+    "mezcla_ext": 30.6,
+    "runner_O": 21.9,
+    "plenum": 7.7,
+    "conducto": 9.7,
+    "backflow_O": 0.043,
+    "vol_plenum_L": 2.629
+   },
+   "ask": {},
+   "t": "2026-11-21 09:09:44"
+  }
+ ],
+ "pendiente": {
+  "caso": "cmaes_s1_14",
+  "params": {
+   "rb": 10.78,
+   "R": 51.23,
+   "L2": 0.3,
+   "x_rear": -40.01,
+   "z_left": -75.85,
+   "Lt": 37.84,
+   "r_plan": 40.46
+  },
+  "pedido": "2026-11-21 09:09:44",
+  "ask": {}
+ },
+ "motivo": "21/11: al retomar, CMA-ES se reiniciaba desde el mejor punto (estado no guardado) y llegó a repetir dos diseños ya calculados contados como evaluaciones nuevas. Se repite cmaes_s1 desde cero con reconstrucción determinista; los diseños coincidentes se reutilizan de la cola sin coste."
+}

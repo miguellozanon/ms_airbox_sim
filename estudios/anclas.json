@@ -1,0 +1,40 @@
+[
+ {
+  "name": "D_ref2",
+  "params": {
+   "rb": 10,
+   "R": 55,
+   "L2": 0,
+   "D": 44,
+   "x_rear": -40,
+   "z_left": -79.2,
+   "z_right": 80.8,
+   "Lt": 0,
+   "r_plan": 100,
+   "r_edge": 3,
+   "theta": 0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "Referencia: variante D con la geometr\u00eda nueva (arco exacto), 4 procesos"
+ },
+ {
+  "name": "E44",
+  "params": {
+   "rb": 5,
+   "R": 38,
+   "L2": 0,
+   "D": 44,
+   "x_rear": -53.3,
+   "z_left": -79.2,
+   "z_right": 80.8,
+   "Lt": 0,
+   "r_plan": 100,
+   "r_edge": 3,
+   "theta": 0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "Referencia: variante E (\u2248 v5) con D = 44"
+ }
+]

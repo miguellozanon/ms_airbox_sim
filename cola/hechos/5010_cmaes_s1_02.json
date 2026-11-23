@@ -1,0 +1,75 @@
+{
+ "job": {
+  "name": "cmaes_s1_02",
+  "params": {
+   "rb": 10.17,
+   "R": 51.72,
+   "L2": 0.02,
+   "x_rear": -41.11,
+   "z_left": -73.78,
+   "Lt": 26.13,
+   "r_plan": 19.02,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio cmaes_s1 (cmaes), evaluación 2/40"
+ },
+ "inicio": "2026-11-20 20:34:46",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 9.0,
+ "geom_info": {
+  "rb": 10.17,
+  "R": 51.72,
+  "L2": 0.02,
+  "x_rear": -41.11,
+  "z_left": -73.78,
+  "Lt": 26.13,
+  "r_plan": 19.02,
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "name": "cmaes_s1_02",
+  "Lt_efectivo": 26.13,
+  "vol_total_L": 6.982893741509977,
+  "vol_plenum_box_L": 2.672319290300067,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235573308,
+  "entry_xz": [
+   -67.4,
+   38.4
+  ],
+  "Lv": 16.3
+ },
+ "vol_plenum_L": 2.656,
+ "celdas": 293781,
+ "malla": {
+  "no_ortog_max": 63.838546,
+  "asimetria_max": 3.4820301,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 1036.7,
+ "metrics": {
+  "caso": "cmaes_s1_02",
+  "dp0_O": 41.8,
+  "dp0_O_std": 2.6,
+  "dp0_ext": 66.2,
+  "conducto": 9.8,
+  "plenum": 8.2,
+  "runner_O": 23.8,
+  "mezcla_ext": 24.4,
+  "backflow_O": 0.026,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 1053.7,
+ "fin": "2026-11-20 20:52:20",
+ "modo": "modo normal · 2 a la vez × 4 procesos"
+}

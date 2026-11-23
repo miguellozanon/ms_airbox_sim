@@ -1,0 +1,19 @@
+{
+ "name": "llmA_fisico_s1_11",
+ "params": {
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 7.8,
+  "R": 51.0,
+  "L2": 2.0,
+  "x_rear": -40.0,
+  "z_left": -70.4,
+  "Lt": 19.0,
+  "r_plan": 34.0
+ },
+ "h": 0.007,
+ "niter": 1000,
+ "nota": "estudio comparacion/llmA_fisico_s1 (llm_fisico, espacio base), evaluación 11/40"
+}

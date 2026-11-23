@@ -1,0 +1,75 @@
+{
+ "job": {
+  "name": "bayes_s1_06",
+  "params": {
+   "rb": 14.0,
+   "R": 55.5,
+   "L2": 0.02,
+   "x_rear": -40.0,
+   "z_left": -76.66,
+   "Lt": 0.13,
+   "r_plan": 95.0,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio bayes_s1 (bayes), evaluación 6/40"
+ },
+ "inicio": "2026-11-20 21:39:01",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 19.9,
+ "geom_info": {
+  "rb": 14.0,
+  "R": 55.5,
+  "L2": 0.02,
+  "x_rear": -40.0,
+  "z_left": -76.66,
+  "Lt": 0.13,
+  "r_plan": 95.0,
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "name": "bayes_s1_06",
+  "Lt_efectivo": 0.0,
+  "vol_total_L": 6.99334034156013,
+  "vol_plenum_box_L": 2.679494226712817,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235557685,
+  "entry_xz": [
+   -65.1,
+   38.9
+  ],
+  "Lv": 12.8
+ },
+ "vol_plenum_L": 2.644,
+ "celdas": 295553,
+ "malla": {
+  "no_ortog_max": 62.780847,
+  "asimetria_max": 3.4814513,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 904.6,
+ "metrics": {
+  "caso": "bayes_s1_06",
+  "dp0_O": 34.5,
+  "dp0_O_std": 0.7,
+  "dp0_ext": 57.0,
+  "conducto": 9.8,
+  "plenum": 5.2,
+  "runner_O": 19.5,
+  "mezcla_ext": 22.4,
+  "backflow_O": 0.025,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 933.3,
+ "fin": "2026-11-20 21:54:34",
+ "modo": "modo normal · 2 a la vez × 4 procesos"
+}

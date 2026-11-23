@@ -1,0 +1,54 @@
+{
+ "host": "DESKTOP-RI929MO",
+ "pid": 71965,
+ "pgid": 71965,
+ "cpus": 16,
+ "python": "3.12.3",
+ "actualizado": "2026-11-22 12:20:40",
+ "t": 1795346440.8311024,
+ "pendientes": 1,
+ "ros2": false,
+ "mpi": true,
+ "trabajos": [
+  {
+   "archivo": "4610_conj_bayes_s1_31.json",
+   "name": "conj_bayes_s1_31",
+   "desde": "2026-11-22 12:06:08",
+   "niter": 1000,
+   "np": 4,
+   "fase": "cálculo",
+   "iter": 475,
+   "log_caso": "log.simpleFoam (12:20:40):\nsmoothSolver:  Solving for Ux, Initial residual = 0.0021212533, Final residual = 0.00016364365, No Iterations 2\nsmoothSolver:  Solving for Uy, Initial residual = 0.0024227979, Final residual = 0.00018254643, No Iterations 2\nsmoothSolver:  Solving for Uz, Initial residual = 0.0081048701, Final residual = 0.00061783174, No Iterations 2\nGAMG:  Solving for p, Initial residual = 0.057856222, Final residual = 0.0011285294, No Iterations 3\nGAMG:  Solving for p, Initial residual = 0.0075613316, Final residual = 0.00036747705, No Iterations 2\ntime step continuity errors : sum local = 0.037188735, global = -0.0017143754, cumulative = 0.47352976\nsmoothSolver:  Solving for omega, Initial residual = 0.0022826658, Final residual = 0.00018115926, No Iterations 1\nsmoothSolver:  Solving for k, Initial residual = 0.0081938278, Final residual = 0.00062934912, No Iterations 1\nExecutionTime = 490.16 s  ClockTime = 490 s\n\nTime = 475\n"
+  },
+  {
+   "archivo": "4610_conj_llmA_fisico_s1_27.json",
+   "name": "conj_llmA_fisico_s1_27",
+   "desde": "2026-11-22 12:16:00",
+   "niter": 1000,
+   "np": 4,
+   "fase": "cálculo",
+   "iter": 120,
+   "log_caso": "log.simpleFoam (12:20:40):\nsmoothSolver:  Solving for Ux, Initial residual = 0.0036629583, Final residual = 0.00026560254, No Iterations 2\nsmoothSolver:  Solving for Uy, Initial residual = 0.0039467327, Final residual = 0.00028110028, No Iterations 2\nsmoothSolver:  Solving for Uz, Initial residual = 0.012682292, Final residual = 0.00091724483, No Iterations 2\nGAMG:  Solving for p, Initial residual = 0.091288498, Final residual = 0.001970573, No Iterations 3\nGAMG:  Solving for p, Initial residual = 0.012645934, Final residual = 0.00061396476, No Iterations 2\ntime step continuity errors : sum local = 0.064755343, global = -0.00050223659, cumulative = -0.59211953\nsmoothSolver:  Solving for omega, Initial residual = 0.0029928367, Final residual = 0.00023053563, No Iterations 1\nsmoothSolver:  Solving for k, Initial residual = 0.012833474, Final residual = 0.00096945764, No Iterations 1\nExecutionTime = 140.39 s  ClockTime = 140 s\n\nTime = 120\n"
+  },
+  {
+   "archivo": "5010_llmA_fisico_s1_11.json",
+   "name": "llmA_fisico_s1_11",
+   "desde": "2026-11-22 12:16:20",
+   "niter": 1000,
+   "np": 4,
+   "fase": "cálculo",
+   "iter": 28,
+   "log_caso": "log.simpleFoam (12:20:40):\nsmoothSolver:  Solving for omega, Initial residual = 0.0039360425, Final residual = 0.00033318327, No Iterations 1\nsmoothSolver:  Solving for k, Initial residual = 0.017683146, Final residual = 0.0014740264, No Iterations 1\nExecutionTime = 39.96 s  ClockTime = 40 s\n\nTime = 28\n\nsmoothSolver:  Solving for Ux, Initial residual = 0.0056637478, Final residual = 0.00037710234, No Iterations 2\nsmoothSolver:  Solving for Uy, Initial residual = 0.0060686236, Final residual = 0.00041628527, No Iterations 2\nsmoothSolver:  Solving for Uz, Initial residual = 0.013320413, Final residual = 0.00097690507, No Iterations 2\nGAMG:  Solving for p, Initial residual = 0.12858094, Final residual = 0.0054945138, No Iterations 3\nGAMG:  Solving for p, Initial residual = 0.023432235, Final residual = 0.0010297794, No Iterations 10\ntime step continuity errors : sum local = 0.093689485, global = -0.022287057, cumulative = 0.20378983"
+  }
+ ],
+ "nota": "modo normal · 3 a la vez × 4 procesos",
+ "trabajo": "conj_bayes_s1_31",
+ "desde": "2026-11-22 12:06:08",
+ "niter": 1000,
+ "np": 4,
+ "fase": "cálculo",
+ "iter": 475,
+ "log_caso": "log.simpleFoam (12:20:40):\nsmoothSolver:  Solving for Ux, Initial residual = 0.0021212533, Final residual = 0.00016364365, No Iterations 2\nsmoothSolver:  Solving for Uy, Initial residual = 0.0024227979, Final residual = 0.00018254643, No Iterations 2\nsmoothSolver:  Solving for Uz, Initial residual = 0.0081048701, Final residual = 0.00061783174, No Iterations 2\nGAMG:  Solving for p, Initial residual = 0.057856222, Final residual = 0.0011285294, No Iterations 3\nGAMG:  Solving for p, Initial residual = 0.0075613316, Final residual = 0.00036747705, No Iterations 2\ntime step continuity errors : sum local = 0.037188735, global = -0.0017143754, cumulative = 0.47352976\nsmoothSolver:  Solving for omega, Initial residual = 0.0022826658, Final residual = 0.00018115926, No Iterations 1\nsmoothSolver:  Solving for k, Initial residual = 0.0081938278, Final residual = 0.00062934912, No Iterations 1\nExecutionTime = 490.16 s  ClockTime = 490 s\n\nTime = 475\n",
+ "wsl_mem_total_gb": 15.3,
+ "wsl_mem_libre_gb": 11.6
+}

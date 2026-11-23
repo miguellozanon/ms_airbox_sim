@@ -1,0 +1,23 @@
+{
+ "name": "conj_bayes_s1_31",
+ "params": {
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 17.42,
+  "R": 58.81,
+  "L2": 0.0,
+  "x_rear": -39.07,
+  "z_left": -64.78,
+  "Lt": 0.0,
+  "r_plan": 34.03,
+  "c_sB": 1.0,
+  "c_dy": 0.64,
+  "c_sw": 0.95,
+  "c_sh": 0.99
+ },
+ "h": 0.007,
+ "niter": 1000,
+ "nota": "estudio conjunto/conj_bayes_s1 (bayes, espacio conjunto), evaluación 31/60"
+}

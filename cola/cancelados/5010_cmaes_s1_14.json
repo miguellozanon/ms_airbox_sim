@@ -1,0 +1,19 @@
+{
+ "name": "cmaes_s1_14",
+ "params": {
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 10.78,
+  "R": 51.23,
+  "L2": 0.3,
+  "x_rear": -40.01,
+  "z_left": -75.85,
+  "Lt": 37.84,
+  "r_plan": 40.46
+ },
+ "h": 0.007,
+ "niter": 1000,
+ "nota": "estudio comparacion/cmaes_s1 (cmaes, espacio base), evaluación 14/40"
+}

@@ -1,0 +1,29 @@
+{
+ "job": {
+  "name": "conj_llmA_fisico_s1_26",
+  "params": {
+   "D": 44.0,
+   "z_right": 80.87,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 11.61,
+   "R": 60.27,
+   "L2": 0.0,
+   "x_rear": -34.9,
+   "z_left": -69.03,
+   "Lt": 0.0,
+   "r_plan": 100.0,
+   "c_sB": 1.0,
+   "c_dy": 0.0,
+   "c_sw": 1.0,
+   "c_sh": 1.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio conjunto/conj_llmA_fisico_s1 (llm_fisico, espacio conjunto), evaluación 26/40"
+ },
+ "status": "failed",
+ "error": "runcase: conj_llmA_fisico_s1_26 fondo ampliado 1 celdas hasta x=-0.0180 m\nFALLO blockMesh (ver log.blockMesh)\n",
+ "trace": "Traceback (most recent call last):\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 278, in job_thread\n    res = run_job(job, NP)\n          ^^^^^^^^^^^^^^^^\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 261, in run_job\n    raise RuntimeError('runcase: ' + (r.stdout[-600:] + r.stderr[-600:]))\nRuntimeError: runcase: conj_llmA_fisico_s1_26 fondo ampliado 1 celdas hasta x=-0.0180 m\nFALLO blockMesh (ver log.blockMesh)\n\n",
+ "fin": "2026-11-22 10:39:48"
+}

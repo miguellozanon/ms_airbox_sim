@@ -1,0 +1,75 @@
+{
+ "job": {
+  "name": "doe056",
+  "params": {
+   "rb": 2.69,
+   "R": 21.02,
+   "L2": 2.35,
+   "x_rear": -49.12,
+   "z_left": -78.66,
+   "Lt": 16.56,
+   "r_plan": 6.62,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 56; volumen estimado 2.67 L",
+  "keep_case": false
+ },
+ "inicio": "2026-11-20 02:23:29",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 14.9,
+ "geom_info": {
+  "rb": 2.69,
+  "R": 21.02,
+  "L2": 2.35,
+  "x_rear": -49.12,
+  "z_left": -78.66,
+  "Lt": 16.56,
+  "r_plan": 6.62,
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "name": "doe056",
+  "vol_total_L": 6.96784851344316,
+  "vol_plenum_box_L": 2.6699382508580474,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235573308,
+  "entry_xz": [
+   -83.7,
+   34.9
+  ],
+  "Lv": 43.7
+ },
+ "vol_plenum_L": 2.653,
+ "celdas": 286325,
+ "malla": {
+  "no_ortog_max": 62.780816,
+  "asimetria_max": 3.4748439,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 772.6,
+ "metrics": {
+  "caso": "doe056",
+  "dp0_O": 70.6,
+  "dp0_O_std": 4.1,
+  "dp0_ext": 155.1,
+  "conducto": 9.7,
+  "plenum": 6.1,
+  "runner_O": 54.8,
+  "mezcla_ext": 84.4,
+  "backflow_O": 0.069,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 799.4,
+ "fin": "2026-11-20 02:36:48",
+ "modo": "modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos"
+}

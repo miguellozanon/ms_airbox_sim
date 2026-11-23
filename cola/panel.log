@@ -1,0 +1,208 @@
+---- 2026-11-19 13:02:51 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+---- 2026-11-19 14:02:03 panel cerrado
+---- 2026-11-19 14:08:27 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+---- 2026-11-20 22:50:58 panel cerrado
+---- 2026-11-20 23:44:32 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 64446)
+----------------------------------------
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 55943)
+Exception occurred during processing of request from ('127.0.0.1', 61966)
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 49208)
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+  File "C:\ms_airbox\app\panel.py", line 565, in do_GET
+    return self._send(200, status())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 565, in do_GET
+    return self._send(200, status())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 565, in do_GET
+    return self._send(200, status())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 555, in _send
+    self.wfile.write(body)
+  File "C:\ms_airbox\app\panel.py", line 555, in _send
+    self.wfile.write(body)
+  File "C:\ms_airbox\app\panel.py", line 565, in do_GET
+    return self._send(200, status())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 555, in _send
+    self.wfile.write(body)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "C:\ms_airbox\app\panel.py", line 555, in _send
+    self.wfile.write(body)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+
+During handling of the above exception, another exception occurred:
+
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+Traceback (most recent call last):
+Traceback (most recent call last):
+
+During handling of the above exception, another exception occurred:
+
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+Traceback (most recent call last):
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 440, in handle
+    self.handle_one_request()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 428, in handle_one_request
+    method()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 440, in handle
+    self.handle_one_request()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 428, in handle_one_request
+    method()
+  File "C:\ms_airbox\app\panel.py", line 590, in do_GET
+    return self._send(500, {'error': str(e)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 440, in handle
+    self.handle_one_request()
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 440, in handle
+    self.handle_one_request()
+  File "C:\ms_airbox\app\panel.py", line 554, in _send
+    self.end_headers()
+  File "C:\ms_airbox\app\panel.py", line 590, in do_GET
+    return self._send(500, {'error': str(e)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 554, in _send
+    self.end_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 542, in end_headers
+    self.flush_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 428, in handle_one_request
+    method()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 542, in end_headers
+    self.flush_headers()
+  File "C:\ms_airbox\app\panel.py", line 590, in do_GET
+    return self._send(500, {'error': str(e)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 554, in _send
+    self.end_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 542, in end_headers
+    self.flush_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 428, in handle_one_request
+    method()
+  File "C:\ms_airbox\app\panel.py", line 590, in do_GET
+    return self._send(500, {'error': str(e)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 546, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 546, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 546, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+  File "C:\ms_airbox\app\panel.py", line 554, in _send
+    self.end_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 542, in end_headers
+    self.flush_headers()
+----------------------------------------
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+----------------------------------------
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 546, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+----------------------------------------
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+----------------------------------------
+---- 2026-11-21 16:24:51 panel cerrado
+---- 2026-11-21 16:25:13 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+----------------------------------------
+Exception occurred during processing of request from ('127.0.0.1', 49238)
+Traceback (most recent call last):
+  File "C:\ms_airbox\app\panel.py", line 597, in do_GET
+    return self._send(200, status())
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 574, in _send
+    self.wfile.write(body)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 697, in process_request_thread
+    self.finish_request(request, client_address)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 362, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 766, in __init__
+    self.handle()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 440, in handle
+    self.handle_one_request()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 428, in handle_one_request
+    method()
+  File "C:\ms_airbox\app\panel.py", line 640, in do_GET
+    return self._send(500, {'error': str(e)})
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\ms_airbox\app\panel.py", line 573, in _send
+    self.end_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 542, in end_headers
+    self.flush_headers()
+  File "C:\isaacsim\kit\python\Lib\http\server.py", line 546, in flush_headers
+    self.wfile.write(b"".join(self._headers_buffer))
+  File "C:\isaacsim\kit\python\Lib\socketserver.py", line 845, in write
+    self._sock.sendall(b)
+ConnectionAbortedError: [WinError 10053] An established connection was aborted by the software in your host machine
+----------------------------------------
+---- 2026-11-21 17:22:38 panel cerrado
+---- 2026-11-21 17:22:38 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+---- 2026-11-22 10:59:07 panel cerrado
+---- 2026-11-22 10:59:08 panel en http://127.0.0.1:8780
+WSL: Ubuntu-24.04
+---- 2026-11-22 12:23:51 panel cerrado

@@ -1,0 +1,1692 @@
+2026-11-19 13:02:52  [panel] trabajador arrancado al abrir el panel
+2026-11-19 13:02:53  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:02:53  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (ROS 2))
+2026-11-19 13:03:15  D_ref: FALLO   import polygons
+  File "/home/laptop/airbox_env/lib/python3.12/site-packages/trimesh/path/polygons.py", line 2, in <module>
+    from shapely import ops
+ModuleNotFoundError: No module named 'shapely'
+
+2026-11-19 13:03:15  Cola vacía: espero trabajos nuevos.
+2026-11-19 13:05:10  [panel] trabajador detenido de inmediato (detenidos: 3 procesos)
+2026-11-19 13:05:29  [panel] 000_D_ref.json: fallidos → pendientes
+2026-11-19 13:05:33  [panel] trabajador arrancado
+2026-11-19 13:05:40  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:05:40  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (Isaac Sim, ROS 2))
+2026-11-19 13:12:42  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:12:45  [panel] trabajador arrancado
+2026-11-19 13:12:50  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:12:50  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (Isaac Sim, ROS 2))
+2026-11-19 13:14:57  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:15:01  [panel] trabajador arrancado
+2026-11-19 13:15:06  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:15:06  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (Isaac Sim, ROS 2))
+2026-11-19 13:17:36  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:17:39  [panel] trabajador arrancado
+2026-11-19 13:17:44  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:17:44  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (Isaac Sim, ROS 2))
+2026-11-19 13:19:46  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:19:49  [panel] trabajador arrancado
+2026-11-19 13:24:00  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:24:02  [panel] trabajador arrancado
+2026-11-19 13:24:48  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:24:48  D_ref: empiezo (h=0.007, iter=1000, 1 procesos, en serie (MPI no funciona en este WSL; ver cola/mpi_test.log))
+2026-11-19 13:26:02  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 9 procesos)
+2026-11-19 13:26:04  [panel] trabajador arrancado
+2026-11-19 13:27:01  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:27:01  D_ref: empiezo (h=0.007, iter=1000, 1 procesos, en serie (MPI no funciona en este WSL; ver cola/mpi_test.log))
+2026-11-19 13:27:29  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 3 procesos)
+2026-11-19 13:27:31  [panel] trabajador arrancado
+2026-11-19 13:27:37  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 13:27:37  D_ref: empiezo (h=0.007, iter=1000, 4 procesos, modo compartido (Isaac Sim, ROS 2))
+2026-11-19 13:40:09  D_ref: done  dp0_ext=58.3 Pa  dp0_O=36.7 Pa  celdas=295661  t=752.2 s
+2026-11-19 13:40:09  Cola vacía: espero trabajos nuevos.
+2026-11-19 14:02:02  [panel] panel apagado
+2026-11-19 14:08:28  [panel] trabajador arrancado al abrir el panel
+2026-11-19 14:08:37  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 14:08:37  Cola vacía: espero trabajos nuevos.
+2026-11-19 14:47:28  [panel] trabajador detenido de inmediato (detenidos: 3 procesos)
+2026-11-19 14:47:31  [panel] añadidos 2 casos: D_ref2, E44
+2026-11-19 14:47:31  [panel] trabajador arrancado
+2026-11-19 14:47:40  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 14:47:40  D_ref2: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 15:01:09  D_ref2: done  dp0_ext=57.2 Pa  dp0_O=35.6 Pa  celdas=295654  t=809.2 s
+2026-11-19 15:01:12  E44: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 15:01:33  E44: infeasible  dp0_ext=None Pa  dp0_O=None Pa  celdas=None  t=None s
+2026-11-19 15:01:36  Cola vacía: espero trabajos nuevos.
+2026-11-19 15:20:21  [panel] trabajador detenido de inmediato (detenidos: 3 procesos)
+2026-11-19 15:20:24  [panel] trabajador arrancado
+2026-11-19 15:20:33  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-19 15:20:33  Cola vacía: espero trabajos nuevos.
+2026-11-19 15:21:03  E44_ref: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 15:35:49  E44_ref: done  dp0_ext=86.6 Pa  dp0_O=46.4 Pa  celdas=283175  t=886.6 s
+2026-11-19 15:35:49  Cola vacía: espero trabajos nuevos.
+2026-11-19 15:44:06  doe001: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 15:59:24  doe001: done  dp0_ext=113.3 Pa  dp0_O=73.7 Pa  celdas=296030  t=917.7 s
+2026-11-19 15:59:27  doe002: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 16:15:46  doe002: done  dp0_ext=91.2 Pa  dp0_O=46.5 Pa  celdas=294402  t=979.4 s
+2026-11-19 16:15:46  doe003: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 16:21:23  doe004: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 16:33:17  doe003: done  dp0_ext=91.5 Pa  dp0_O=43.4 Pa  celdas=290515  t=1050.7 s
+2026-11-19 16:39:18  doe004: done  dp0_ext=102.0 Pa  dp0_O=51.7 Pa  celdas=294352  t=1074.8 s
+2026-11-19 16:39:21  doe005: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 16:47:27  doe006: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 16:59:11  doe005: done  dp0_ext=75.6 Pa  dp0_O=37.4 Pa  celdas=294141  t=1190.6 s
+2026-11-19 17:02:22  doe007: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 17:08:22  doe006: done  dp0_ext=131.6 Pa  dp0_O=61.5 Pa  celdas=286599  t=1254.9 s
+2026-11-19 17:21:43  doe007: done  dp0_ext=135.1 Pa  dp0_O=53.9 Pa  celdas=291674  t=1160.4 s
+2026-11-19 17:21:46  doe008: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 17:38:48  doe008: done  dp0_ext=157.5 Pa  dp0_O=96.5 Pa  celdas=295741  t=1022.3 s
+2026-11-19 17:38:51  doe009: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 17:54:32  doe009: done  dp0_ext=71.7 Pa  dp0_O=42.7 Pa  celdas=293931  t=940.9 s
+2026-11-19 17:54:32  doe010: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 18:08:16  doe011: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 18:11:25  doe010: done  dp0_ext=82.9 Pa  dp0_O=42.3 Pa  celdas=291350  t=1012.5 s
+2026-11-19 18:25:50  doe011: done  dp0_ext=124.9 Pa  dp0_O=77.4 Pa  celdas=286165  t=1052.7 s
+2026-11-19 18:25:50  doe012: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 18:43:27  doe012: done  dp0_ext=136.5 Pa  dp0_O=64.5 Pa  celdas=291202  t=1056.6 s
+2026-11-19 18:43:29  doe013: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 18:57:08  doe014: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 18:59:04  doe013: done  dp0_ext=90.8 Pa  dp0_O=46.7 Pa  celdas=290783  t=934.5 s
+2026-11-19 19:12:55  doe014: done  dp0_ext=114.2 Pa  dp0_O=49.2 Pa  celdas=293641  t=947.3 s
+2026-11-19 19:12:58  doe015: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 19:30:39  doe015: done  dp0_ext=87.9 Pa  dp0_O=52.9 Pa  celdas=294737  t=1061.5 s
+2026-11-19 19:30:40  doe016: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 19:48:21  doe016: done  dp0_ext=105.5 Pa  dp0_O=50.3 Pa  celdas=291440  t=1061.3 s
+2026-11-19 19:48:22  doe017: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-19 19:48:30  doe018: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 20:12:34  doe018: done  dp0_ext=126.7 Pa  dp0_O=55.7 Pa  celdas=292543  t=1441.1 s
+2026-11-19 20:12:43  doe017: done  dp0_ext=66.7 Pa  dp0_O=39.9 Pa  celdas=293323  t=1461.2 s
+2026-11-19 20:12:44  doe019: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 20:30:34  doe019: done  dp0_ext=83.5 Pa  dp0_O=45.3 Pa  celdas=293462  t=1069.9 s
+2026-11-19 20:30:35  doe020: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 20:47:24  doe020: done  dp0_ext=89.7 Pa  dp0_O=46.4 Pa  celdas=294440  t=1009.4 s
+2026-11-19 20:47:27  doe021: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 21:02:59  doe021: done  dp0_ext=118.7 Pa  dp0_O=61.5 Pa  celdas=283247  t=931.9 s
+2026-11-19 21:03:00  doe022: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 21:11:21  doe023: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 21:16:32  doe022: done  dp0_ext=87.8 Pa  dp0_O=44.7 Pa  celdas=289829  t=812.3 s
+2026-11-19 21:24:23  doe023: done  dp0_ext=140.5 Pa  dp0_O=82.2 Pa  celdas=294667  t=782.5 s
+2026-11-19 21:24:24  doe024: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 21:28:56  doe025: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 21:40:49  doe024: done  dp0_ext=143.5 Pa  dp0_O=71.7 Pa  celdas=290148  t=985.2 s
+2026-11-19 21:46:52  doe025: done  dp0_ext=110.5 Pa  dp0_O=48.8 Pa  celdas=292148  t=1075.6 s
+2026-11-19 21:46:54  doe026: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 22:00:36  doe026: done  dp0_ext=143.0 Pa  dp0_O=61.1 Pa  celdas=291883  t=821.8 s
+2026-11-19 22:00:37  doe027: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 22:15:34  doe027: done  dp0_ext=103.8 Pa  dp0_O=48.7 Pa  celdas=290253  t=897.2 s
+2026-11-19 22:15:35  doe028: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-19 22:20:21  doe029: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 22:32:09  doe028: done  dp0_ext=74.1 Pa  dp0_O=45.1 Pa  celdas=289761  t=993.7 s
+2026-11-19 22:32:10  doe030: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 22:36:50  doe029: done  dp0_ext=135.7 Pa  dp0_O=80.1 Pa  celdas=291522  t=989.0 s
+2026-11-19 22:36:52  doe031: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 22:48:18  doe030: done  dp0_ext=92.8 Pa  dp0_O=59.3 Pa  celdas=293069  t=968.4 s
+2026-11-19 22:48:20  doe032: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 22:52:52  doe031: done  dp0_ext=80.6 Pa  dp0_O=40.9 Pa  celdas=285947  t=959.3 s
+2026-11-19 22:52:53  doe033: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 23:04:27  doe032: done  dp0_ext=126.0 Pa  dp0_O=60.8 Pa  celdas=291440  t=967.3 s
+2026-11-19 23:04:29  doe034: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 23:08:30  doe033: done  dp0_ext=125.8 Pa  dp0_O=81.3 Pa  celdas=291473  t=937.2 s
+2026-11-19 23:08:31  doe035: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 23:19:20  doe034: done  dp0_ext=92.0 Pa  dp0_O=41.7 Pa  celdas=290110  t=890.6 s
+2026-11-19 23:19:21  doe036: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 23:23:25  doe035: done  dp0_ext=96.3 Pa  dp0_O=43.5 Pa  celdas=290453  t=893.3 s
+2026-11-19 23:23:27  doe037: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-19 23:33:49  doe036: done  dp0_ext=103.0 Pa  dp0_O=57.7 Pa  celdas=291359  t=867.0 s
+2026-11-19 23:36:22  doe037: done  dp0_ext=116.7 Pa  dp0_O=55.4 Pa  celdas=296268  t=775.1 s
+2026-11-19 23:36:24  doe038: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-19 23:45:09  doe038: done  dp0_ext=81.6 Pa  dp0_O=43.9 Pa  celdas=295925  t=524.7 s
+2026-11-19 23:45:11  doe039: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-19 23:53:44  doe039: done  dp0_ext=130.7 Pa  dp0_O=52.9 Pa  celdas=291395  t=513.3 s
+2026-11-19 23:53:45  doe040: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:02:22  doe040: done  dp0_ext=164.3 Pa  dp0_O=74.7 Pa  celdas=292312  t=517.7 s
+2026-11-20 00:02:24  doe041: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:10:56  doe041: done  dp0_ext=115.8 Pa  dp0_O=53.8 Pa  celdas=289104  t=511.3 s
+2026-11-20 00:10:58  doe042: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:19:29  doe042: done  dp0_ext=86.0 Pa  dp0_O=41.4 Pa  celdas=291698  t=510.5 s
+2026-11-20 00:19:32  doe043: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:28:01  doe043: done  dp0_ext=122.4 Pa  dp0_O=58.2 Pa  celdas=294628  t=509.0 s
+2026-11-20 00:28:03  doe044: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:36:40  doe044: done  dp0_ext=166.6 Pa  dp0_O=112.7 Pa  celdas=292965  t=517.2 s
+2026-11-20 00:36:42  doe045: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:45:12  doe045: done  dp0_ext=113.0 Pa  dp0_O=69.4 Pa  celdas=288963  t=509.5 s
+2026-11-20 00:45:12  doe046: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 00:53:45  doe046: done  dp0_ext=80.9 Pa  dp0_O=42.1 Pa  celdas=295998  t=512.2 s
+2026-11-20 00:53:46  doe047: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 01:02:11  doe047: done  dp0_ext=125.8 Pa  dp0_O=62.2 Pa  celdas=288373  t=504.5 s
+2026-11-20 01:02:14  doe048: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 01:10:44  doe048: done  dp0_ext=84.9 Pa  dp0_O=43.2 Pa  celdas=289405  t=510.6 s
+2026-11-20 01:10:47  doe049: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 01:19:29  doe049: done  dp0_ext=131.4 Pa  dp0_O=59.2 Pa  celdas=298308  t=522.2 s
+2026-11-20 01:19:30  doe050: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 01:23:19  doe051: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 01:29:45  doe050: done  dp0_ext=126.6 Pa  dp0_O=76.3 Pa  celdas=288982  t=615.2 s
+2026-11-20 01:29:47  doe052: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 01:35:14  doe051: done  dp0_ext=186.8 Pa  dp0_O=121.1 Pa  celdas=290851  t=715.0 s
+2026-11-20 01:42:37  doe052: done  dp0_ext=121.1 Pa  dp0_O=65.2 Pa  celdas=295070  t=770.4 s
+2026-11-20 01:42:39  doe053: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 01:56:27  doe053: done  dp0_ext=96.8 Pa  dp0_O=48.3 Pa  celdas=295627  t=827.6 s
+2026-11-20 01:56:29  doe054: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 02:10:11  doe054: done  dp0_ext=89.2 Pa  dp0_O=49.3 Pa  celdas=293793  t=822.0 s
+2026-11-20 02:10:12  doe055: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 02:23:28  doe055: done  dp0_ext=85.9 Pa  dp0_O=40.3 Pa  celdas=288997  t=795.5 s
+2026-11-20 02:23:29  doe056: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 02:32:53  doe057: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 02:36:48  doe056: done  dp0_ext=155.1 Pa  dp0_O=70.6 Pa  celdas=286325  t=799.4 s
+2026-11-20 02:47:00  doe057: done  dp0_ext=112.2 Pa  dp0_O=53.2 Pa  celdas=296788  t=846.9 s
+2026-11-20 02:47:03  doe058: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 03:00:44  doe058: done  dp0_ext=148.5 Pa  dp0_O=84.7 Pa  celdas=291435  t=821.6 s
+2026-11-20 03:00:46  doe059: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 03:14:28  doe059: done  dp0_ext=110.8 Pa  dp0_O=47.5 Pa  celdas=293270  t=821.6 s
+2026-11-20 03:14:29  doe060: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 03:28:14  doe060: done  dp0_ext=161.7 Pa  dp0_O=108.1 Pa  celdas=289819  t=824.9 s
+2026-11-20 03:28:16  doe061: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 03:33:55  doe062: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 03:43:51  doe061: done  dp0_ext=137.8 Pa  dp0_O=70.9 Pa  celdas=294921  t=935.6 s
+2026-11-20 03:49:27  doe062: done  dp0_ext=95.9 Pa  dp0_O=52.6 Pa  celdas=289018  t=931.9 s
+2026-11-20 03:49:30  doe063: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 04:03:44  doe063: done  dp0_ext=139.7 Pa  dp0_O=90.0 Pa  celdas=296562  t=854.6 s
+2026-11-20 04:03:47  doe064: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 04:17:00  doe064: done  dp0_ext=90.5 Pa  dp0_O=47.7 Pa  celdas=289557  t=792.8 s
+2026-11-20 04:17:01  doe065: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 04:30:30  doe065: done  dp0_ext=100.6 Pa  dp0_O=47.2 Pa  celdas=293441  t=808.8 s
+2026-11-20 04:30:32  doe066: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 04:36:20  doe067: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 04:46:32  doe066: done  dp0_ext=95.2 Pa  dp0_O=57.1 Pa  celdas=289219  t=960.0 s
+2026-11-20 04:52:18  doe067: done  dp0_ext=104.8 Pa  dp0_O=55.4 Pa  celdas=288815  t=957.5 s
+2026-11-20 04:52:21  doe068: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 05:06:14  doe068: done  dp0_ext=126.6 Pa  dp0_O=53.8 Pa  celdas=289340  t=833.2 s
+2026-11-20 05:06:17  doe069: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 05:20:01  doe069: done  dp0_ext=112.1 Pa  dp0_O=74.0 Pa  celdas=292705  t=824.2 s
+2026-11-20 05:20:03  doe070: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 05:31:50  doe071: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 05:33:10  doe070: done  dp0_ext=119.9 Pa  dp0_O=46.4 Pa  celdas=294323  t=786.7 s
+2026-11-20 05:44:33  doe071: done  dp0_ext=126.1 Pa  dp0_O=57.9 Pa  celdas=292347  t=762.6 s
+2026-11-20 05:44:36  doe072: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 05:58:11  doe072: done  dp0_ext=121.6 Pa  dp0_O=81.2 Pa  celdas=289447  t=814.5 s
+2026-11-20 05:58:11  doe073: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 06:11:48  doe073: done  dp0_ext=114.2 Pa  dp0_O=64.8 Pa  celdas=295933  t=817.0 s
+2026-11-20 06:11:49  doe074: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 06:25:26  doe074: done  dp0_ext=84.9 Pa  dp0_O=44.3 Pa  celdas=293026  t=816.6 s
+2026-11-20 06:25:26  doe075: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 06:28:27  doe076: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 06:42:03  doe075: done  dp0_ext=72.4 Pa  dp0_O=41.3 Pa  celdas=290169  t=996.9 s
+2026-11-20 06:45:17  doe076: done  dp0_ext=105.7 Pa  dp0_O=46.2 Pa  celdas=287641  t=1009.8 s
+2026-11-20 06:45:20  doe077: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 06:58:51  doe077: done  dp0_ext=147.7 Pa  dp0_O=84.5 Pa  celdas=288684  t=810.4 s
+2026-11-20 06:58:51  doe078: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 07:12:23  doe078: done  dp0_ext=102.8 Pa  dp0_O=52.5 Pa  celdas=293515  t=811.5 s
+2026-11-20 07:12:26  doe079: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 07:18:51  doe080: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 07:27:46  doe079: done  dp0_ext=176.2 Pa  dp0_O=110.7 Pa  celdas=288611  t=920.5 s
+2026-11-20 07:34:13  doe080: done  dp0_ext=127.7 Pa  dp0_O=54.7 Pa  celdas=294305  t=921.7 s
+2026-11-20 07:34:16  doe081: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 07:47:56  doe081: done  dp0_ext=66.7 Pa  dp0_O=40.2 Pa  celdas=290961  t=820.4 s
+2026-11-20 07:47:57  doe082: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 08:01:44  doe082: done  dp0_ext=108.1 Pa  dp0_O=66.0 Pa  celdas=294999  t=826.9 s
+2026-11-20 08:01:44  doe083: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 08:11:54  doe084: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 08:14:48  doe083: done  dp0_ext=80.0 Pa  dp0_O=43.5 Pa  celdas=294786  t=783.7 s
+2026-11-20 08:25:22  doe084: done  dp0_ext=99.5 Pa  dp0_O=50.1 Pa  celdas=286541  t=807.8 s
+2026-11-20 08:25:23  doe085: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 08:39:20  doe085: done  dp0_ext=121.2 Pa  dp0_O=48.7 Pa  celdas=294710  t=837.2 s
+2026-11-20 08:39:22  doe086: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 08:47:21  doe087: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 08:53:44  doe086: done  dp0_ext=141.8 Pa  dp0_O=73.3 Pa  celdas=290319  t=861.7 s
+2026-11-20 09:02:30  doe087: done  dp0_ext=127.9 Pa  dp0_O=56.1 Pa  celdas=291446  t=908.9 s
+2026-11-20 09:02:33  doe088: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 09:16:15  doe088: done  dp0_ext=104.3 Pa  dp0_O=62.5 Pa  celdas=297412  t=822.7 s
+2026-11-20 09:16:16  doe089: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 09:26:04  doe090: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 09:30:24  doe089: done  dp0_ext=124.5 Pa  dp0_O=54.2 Pa  celdas=290281  t=847.5 s
+2026-11-20 09:41:09  doe090: done  dp0_ext=117.5 Pa  dp0_O=53.8 Pa  celdas=290596  t=904.1 s
+2026-11-20 09:41:12  doe091: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 09:54:54  doe091: done  dp0_ext=125.5 Pa  dp0_O=73.7 Pa  celdas=290088  t=822.2 s
+2026-11-20 09:54:55  doe092: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 10:09:15  doe092: done  dp0_ext=93.7 Pa  dp0_O=54.2 Pa  celdas=288933  t=859.3 s
+2026-11-20 10:09:16  doe093: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 10:24:44  doe093: done  dp0_ext=91.9 Pa  dp0_O=40.3 Pa  celdas=291889  t=927.5 s
+2026-11-20 10:24:44  doe094: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 10:39:39  doe094: done  dp0_ext=80.4 Pa  dp0_O=40.9 Pa  celdas=288737  t=894.0 s
+2026-11-20 10:39:39  doe095: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 10:55:26  doe095: done  dp0_ext=178.7 Pa  dp0_O=101.9 Pa  celdas=289307  t=946.8 s
+2026-11-20 10:55:29  doe096: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 10:59:04  doe097: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 11:14:42  doe096: done  dp0_ext=122.6 Pa  dp0_O=54.4 Pa  celdas=290379  t=1153.1 s
+2026-11-20 11:19:05  doe097: done  dp0_ext=116.4 Pa  dp0_O=60.3 Pa  celdas=289706  t=1201.5 s
+2026-11-20 11:19:06  doe098: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 11:33:15  doe098: done  dp0_ext=101.9 Pa  dp0_O=48.5 Pa  celdas=294006  t=849.2 s
+2026-11-20 11:33:17  doe099: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 11:46:42  doe099: done  dp0_ext=111.1 Pa  dp0_O=49.0 Pa  celdas=286822  t=805.2 s
+2026-11-20 11:46:42  doe100: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 12:01:14  doe100: done  dp0_ext=126.6 Pa  dp0_O=76.0 Pa  celdas=291601  t=871.4 s
+2026-11-20 12:01:15  doe101: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 12:14:48  doe101: done  dp0_ext=76.5 Pa  dp0_O=41.2 Pa  celdas=292440  t=812.8 s
+2026-11-20 12:14:50  doe102: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 12:28:47  doe102: done  dp0_ext=119.6 Pa  dp0_O=77.1 Pa  celdas=288375  t=836.4 s
+2026-11-20 12:28:49  doe103: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 12:43:26  doe103: done  dp0_ext=87.8 Pa  dp0_O=42.9 Pa  celdas=291631  t=877.2 s
+2026-11-20 12:43:27  doe104: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 12:56:03  doe105: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 12:56:54  doe104: done  dp0_ext=114.1 Pa  dp0_O=70.4 Pa  celdas=289034  t=806.8 s
+2026-11-20 13:11:45  doe105: done  dp0_ext=91.9 Pa  dp0_O=46.1 Pa  celdas=291780  t=941.7 s
+2026-11-20 13:11:46  doe106: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 13:28:35  doe106: done  dp0_ext=98.9 Pa  dp0_O=45.3 Pa  celdas=289912  t=1008.9 s
+2026-11-20 13:28:38  doe107: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 13:42:15  doe107: done  dp0_ext=78.0 Pa  dp0_O=42.5 Pa  celdas=294113  t=816.6 s
+2026-11-20 13:42:17  doe108: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 13:55:11  doe108: done  dp0_ext=84.6 Pa  dp0_O=40.5 Pa  celdas=289435  t=773.4 s
+2026-11-20 13:55:12  doe109: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 14:09:32  doe109: done  dp0_ext=119.0 Pa  dp0_O=64.2 Pa  celdas=294175  t=860.6 s
+2026-11-20 14:09:33  doe110: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 14:13:47  doe111: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 14:26:35  doe110: done  dp0_ext=111.3 Pa  dp0_O=49.3 Pa  celdas=290084  t=1021.6 s
+2026-11-20 14:28:51  doe112: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 14:30:16  doe111: done  dp0_ext=105.0 Pa  dp0_O=42.5 Pa  celdas=289647  t=989.5 s
+2026-11-20 14:43:05  doe112: done  dp0_ext=92.2 Pa  dp0_O=50.9 Pa  celdas=294568  t=853.4 s
+2026-11-20 14:43:08  doe113: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 14:57:00  doe113: done  dp0_ext=96.0 Pa  dp0_O=62.8 Pa  celdas=291559  t=832.4 s
+2026-11-20 14:57:01  doe114: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 15:11:58  doe114: done  dp0_ext=130.4 Pa  dp0_O=52.5 Pa  celdas=291784  t=896.8 s
+2026-11-20 15:12:01  doe115: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 15:26:50  doe115: done  dp0_ext=95.2 Pa  dp0_O=43.5 Pa  celdas=295656  t=888.8 s
+2026-11-20 15:26:52  doe116: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 15:38:19  doe117: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 15:39:55  doe116: done  dp0_ext=91.2 Pa  dp0_O=45.3 Pa  celdas=289187  t=782.1 s
+2026-11-20 15:48:19  doe117: FALLO  tiempo agotado (10 min) en geom.py
+2026-11-20 15:48:20  doe118: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 16:02:14  doe118: done  dp0_ext=121.2 Pa  dp0_O=63.3 Pa  celdas=293703  t=834.0 s
+2026-11-20 16:02:17  doe119: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 16:15:59  doe119: done  dp0_ext=146.6 Pa  dp0_O=98.8 Pa  celdas=293184  t=821.8 s
+2026-11-20 16:16:00  doe120: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 16:29:45  doe120: done  dp0_ext=125.1 Pa  dp0_O=67.4 Pa  celdas=291915  t=824.8 s
+2026-11-20 16:29:47  doe121: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-20 16:30:53  doe122: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 16:43:02  doe121: done  dp0_ext=69.4 Pa  dp0_O=39.1 Pa  celdas=297435  t=794.7 s
+2026-11-20 16:43:03  doe123: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 16:44:10  doe122: done  dp0_ext=102.2 Pa  dp0_O=43.7 Pa  celdas=290553  t=796.8 s
+2026-11-20 16:44:12  doe124: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 16:56:49  doe123: done  dp0_ext=109.9 Pa  dp0_O=52.3 Pa  celdas=297026  t=826.0 s
+2026-11-20 16:56:51  doe125: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 16:57:51  doe124: done  dp0_ext=147.6 Pa  dp0_O=83.1 Pa  celdas=291139  t=818.7 s
+2026-11-20 16:57:54  doe126: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 17:12:13  doe125: done  dp0_ext=110.2 Pa  dp0_O=45.3 Pa  celdas=293078  t=922.2 s
+2026-11-20 17:12:16  doe127: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 17:13:06  doe126: done  dp0_ext=116.8 Pa  dp0_O=76.0 Pa  celdas=290389  t=911.5 s
+2026-11-20 17:13:07  doe128: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 17:27:30  doe127: done  dp0_ext=112.8 Pa  dp0_O=48.0 Pa  celdas=293535  t=914.0 s
+2026-11-20 17:27:32  doe129: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 17:28:03  doe128: done  dp0_ext=83.9 Pa  dp0_O=44.0 Pa  celdas=290816  t=896.5 s
+2026-11-20 17:28:05  doe130: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 17:39:41  [panel] 2170_doe117.json: fallidos → pendientes
+2026-11-20 17:39:46  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 31 procesos)
+2026-11-20 17:39:49  [panel] trabajador arrancado
+2026-11-20 17:39:55  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-20 17:39:55  doe129: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 17:51:49  doe129: done  dp0_ext=144.4 Pa  dp0_O=77.4 Pa  celdas=290063  t=713.4 s
+2026-11-20 17:51:50  doe130: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 17:54:54  doe131: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:04:15  doe130: done  dp0_ext=75.4 Pa  dp0_O=49.5 Pa  celdas=296187  t=745.1 s
+2026-11-20 18:04:18  doe132: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:08:14  doe131: done  dp0_ext=104.6 Pa  dp0_O=46.8 Pa  celdas=289520  t=800.2 s
+2026-11-20 18:08:15  doe133: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:17:54  doe132: done  dp0_ext=116.3 Pa  dp0_O=58.5 Pa  celdas=295861  t=816.2 s
+2026-11-20 18:17:57  doe134: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:21:45  doe133: done  dp0_ext=99.4 Pa  dp0_O=48.4 Pa  celdas=292974  t=810.3 s
+2026-11-20 18:21:47  doe135: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:31:08  doe134: done  dp0_ext=117.3 Pa  dp0_O=52.1 Pa  celdas=290760  t=791.7 s
+2026-11-20 18:31:10  doe136: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:34:50  doe135: done  dp0_ext=81.1 Pa  dp0_O=52.5 Pa  celdas=290169  t=782.9 s
+2026-11-20 18:34:51  doe137: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:45:06  doe136: done  dp0_ext=117.6 Pa  dp0_O=54.1 Pa  celdas=296094  t=836.0 s
+2026-11-20 18:45:07  doe138: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:48:08  doe137: done  dp0_ext=78.6 Pa  dp0_O=42.6 Pa  celdas=291526  t=796.6 s
+2026-11-20 18:48:11  doe139: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 18:57:44  doe138: done  dp0_ext=98.7 Pa  dp0_O=48.3 Pa  celdas=296113  t=757.1 s
+2026-11-20 18:57:46  doe140: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:00:28  doe139: done  dp0_ext=98.6 Pa  dp0_O=56.7 Pa  celdas=291883  t=736.9 s
+2026-11-20 19:00:29  doe141: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:10:28  doe140: done  dp0_ext=139.7 Pa  dp0_O=94.4 Pa  celdas=297347  t=761.7 s
+2026-11-20 19:10:30  doe142: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:13:24  doe141: done  dp0_ext=135.8 Pa  dp0_O=81.5 Pa  celdas=294643  t=774.3 s
+2026-11-20 19:13:25  doe143: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:22:28  doe142: done  dp0_ext=104.9 Pa  dp0_O=48.7 Pa  celdas=290369  t=718.4 s
+2026-11-20 19:22:30  doe144: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:26:04  doe143: done  dp0_ext=178.6 Pa  dp0_O=109.6 Pa  celdas=296421  t=758.9 s
+2026-11-20 19:26:05  doe145: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:34:34  doe144: done  dp0_ext=119.8 Pa  dp0_O=56.7 Pa  celdas=293868  t=723.3 s
+2026-11-20 19:34:34  doe146: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:38:30  doe145: done  dp0_ext=84.7 Pa  dp0_O=43.8 Pa  celdas=294316  t=744.7 s
+2026-11-20 19:38:33  doe147: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:46:55  doe146: done  dp0_ext=72.0 Pa  dp0_O=41.2 Pa  celdas=294093  t=740.5 s
+2026-11-20 19:46:56  doe148: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 19:51:24  doe147: done  dp0_ext=121.0 Pa  dp0_O=47.6 Pa  celdas=290389  t=771.2 s
+2026-11-20 19:51:25  doe149: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:00:17  doe148: done  dp0_ext=110.5 Pa  dp0_O=72.3 Pa  celdas=289480  t=800.8 s
+2026-11-20 20:00:19  doe150: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:05:40  doe149: done  dp0_ext=130.3 Pa  dp0_O=66.9 Pa  celdas=297382  t=854.8 s
+2026-11-20 20:05:40  doe117: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:14:27  doe150: done  dp0_ext=118.8 Pa  dp0_O=51.6 Pa  celdas=289793  t=848.1 s
+2026-11-20 20:18:15  doe117: done  dp0_ext=122.5 Pa  dp0_O=70.1 Pa  celdas=292343  t=754.0 s
+2026-11-20 20:18:15  Cola vacía: espero trabajos nuevos.
+2026-11-20 20:18:50  [estudio] bayes_s1: empieza con 8 casos del muestreo
+2026-11-20 20:18:57  [estudio] cmaes_s1: empieza con 8 casos del muestreo
+2026-11-20 20:19:15  cmaes_s1_01: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:19:20  bayes_s1_01: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:34:16  cmaes_s1_01: done  dp0_ext=101.2 Pa  dp0_O=50.9 Pa  celdas=297033  t=900.6 s
+2026-11-20 20:34:27  bayes_s1_01: done  dp0_ext=62.7 Pa  dp0_O=36.9 Pa  celdas=290014  t=906.6 s
+2026-11-20 20:34:29  Cola vacía: espero trabajos nuevos.
+2026-11-20 20:34:29  [estudio] cmaes_s1: 1/40  cmaes_s1_01 = 101.2 Pa  (mejor 72.4)
+2026-11-20 20:34:38  [estudio] bayes_s1: 1/40  bayes_s1_01 = 62.7 Pa  (mejor 62.7)
+2026-11-20 20:34:44  bayes_s1_02: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:34:46  cmaes_s1_02: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:52:20  cmaes_s1_02: done  dp0_ext=66.2 Pa  dp0_O=41.8 Pa  celdas=293781  t=1053.7 s
+2026-11-20 20:52:41  [estudio] cmaes_s1: 2/40  cmaes_s1_02 = 66.2 Pa  (mejor 66.2)
+2026-11-20 20:52:42  cmaes_s1_03: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 20:52:50  bayes_s1_02: done  dp0_ext=58.9 Pa  dp0_O=37.7 Pa  celdas=291792  t=1086.1 s
+2026-11-20 20:53:11  [estudio] bayes_s1: 2/40  bayes_s1_02 = 58.9 Pa  (mejor 58.9)
+2026-11-20 20:53:15  bayes_s1_03: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:07:12  cmaes_s1_03: done  dp0_ext=106.9 Pa  dp0_O=70.1 Pa  celdas=294244  t=869.4 s
+2026-11-20 21:07:22  [estudio] cmaes_s1: 3/40  cmaes_s1_03 = 106.9 Pa  (mejor 66.2)
+2026-11-20 21:07:24  cmaes_s1_04: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:07:43  bayes_s1_03: done  dp0_ext=60.4 Pa  dp0_O=39.6 Pa  celdas=290271  t=868.3 s
+2026-11-20 21:07:53  [estudio] bayes_s1: 3/40  bayes_s1_03 = 60.4 Pa  (mejor 58.9)
+2026-11-20 21:07:56  bayes_s1_04: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:23:39  cmaes_s1_04: done  dp0_ext=73.9 Pa  dp0_O=44.0 Pa  celdas=293145  t=975.1 s
+2026-11-20 21:23:50  [estudio] cmaes_s1: 4/40  cmaes_s1_04 = 73.9 Pa  (mejor 66.2)
+2026-11-20 21:23:51  cmaes_s1_05: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:24:42  bayes_s1_04: done  dp0_ext=59.4 Pa  dp0_O=39.1 Pa  celdas=293472  t=1005.5 s
+2026-11-20 21:25:03  [estudio] bayes_s1: 4/40  bayes_s1_04 = 59.4 Pa  (mejor 58.9)
+2026-11-20 21:25:06  bayes_s1_05: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:37:14  cmaes_s1_05: done  dp0_ext=91.0 Pa  dp0_O=48.2 Pa  celdas=294174  t=802.9 s
+2026-11-20 21:37:25  [estudio] cmaes_s1: 5/40  cmaes_s1_05 = 91.0 Pa  (mejor 66.2)
+2026-11-20 21:37:27  cmaes_s1_06: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:38:45  bayes_s1_05: done  dp0_ext=55.7 Pa  dp0_O=35.3 Pa  celdas=294307  t=819.2 s
+2026-11-20 21:38:58  [estudio] bayes_s1: 5/40  bayes_s1_05 = 55.7 Pa  (mejor 55.7)
+2026-11-20 21:39:01  bayes_s1_06: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:52:00  cmaes_s1_06: done  dp0_ext=90.2 Pa  dp0_O=51.4 Pa  celdas=291343  t=873.1 s
+2026-11-20 21:52:02  [estudio] cmaes_s1: 6/40  cmaes_s1_06 = 90.2 Pa  (mejor 66.2)
+2026-11-20 21:52:04  cmaes_s1_07: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 21:54:34  bayes_s1_06: done  dp0_ext=57.0 Pa  dp0_O=34.5 Pa  celdas=295553  t=933.3 s
+2026-11-20 21:54:40  [estudio] bayes_s1: 6/40  bayes_s1_06 = 57.0 Pa  (mejor 55.7)
+2026-11-20 21:54:41  bayes_s1_07: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 22:05:45  cmaes_s1_07: done  dp0_ext=84.4 Pa  dp0_O=44.9 Pa  celdas=291295  t=820.8 s
+2026-11-20 22:05:59  [estudio] cmaes_s1: 7/40  cmaes_s1_07 = 84.4 Pa  (mejor 66.2)
+2026-11-20 22:07:39  bayes_s1_07: done  dp0_ext=57.6 Pa  dp0_O=37.3 Pa  celdas=299643  t=777.9 s
+2026-11-20 22:07:42  cmaes_s1_08: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 22:07:54  [estudio] bayes_s1: 7/40  bayes_s1_07 = 57.6 Pa  (mejor 55.7)
+2026-11-20 22:12:24  bayes_s1_08: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 22:24:57  cmaes_s1_08: done  dp0_ext=93.9 Pa  dp0_O=64.6 Pa  celdas=293464  t=1034.9 s
+2026-11-20 22:25:07  [estudio] cmaes_s1: 8/40  cmaes_s1_08 = 93.9 Pa  (mejor 66.2)
+2026-11-20 22:25:12  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-20 22:29:43  bayes_s1_08: done  dp0_ext=54.0 Pa  dp0_O=34.2 Pa  celdas=294513  t=1038.7 s
+2026-11-20 22:29:43  STOP encontrado: termino.
+2026-11-20 22:29:48  [estudio] bayes_s1: 8/40  bayes_s1_08 = 54.0 Pa  (mejor 54.0)
+2026-11-20 22:29:48  [estudio] bayes_s1: en pausa
+2026-11-20 22:32:43  [panel] trabajador arrancado
+2026-11-20 22:33:04  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-20 22:33:04  amp001: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 22:33:05  [estudio] llmA_fisico_s1: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmA_ciego_s1: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmC_fisico_s1: en espera, no hay clave de Anthropic en C:\ms_airbox\secretos
+2026-11-20 22:33:05  [estudio] llmA_fisico_s2: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmA_ciego_s2: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmC_fisico_s2: en espera, no hay clave de Anthropic en C:\ms_airbox\secretos
+2026-11-20 22:33:05  [estudio] llmA_fisico_s3: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmA_ciego_s3: en espera, Ollama no está abierto en Windows
+2026-11-20 22:33:05  [estudio] llmC_fisico_s3: en espera, no hay clave de Anthropic en C:\ms_airbox\secretos
+2026-11-20 22:33:06  [estudio] bayes_s1: se retoma con 8/40 simulaciones hechas
+2026-11-20 22:33:14  [estudio] cmaes_s1: se retoma con 8/40 simulaciones hechas
+2026-11-20 22:39:57  amp002: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-20 22:42:01  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-20 22:43:23  amp001: done  dp0_ext=87.8 Pa  dp0_O=42.6 Pa  celdas=297233  t=618.2 s
+2026-11-20 22:50:17  amp002: done  dp0_ext=63.4 Pa  dp0_O=41.3 Pa  celdas=316949  t=620.1 s
+2026-11-20 22:50:19  STOP encontrado: termino.
+2026-11-20 22:50:57  [panel] panel apagado
+2026-11-20 23:46:12  [panel] trabajador arrancado
+2026-11-20 23:46:24  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-20 23:46:24  amp003: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-20 23:46:24  [estudio] llmA_fisico_s1: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmA_ciego_s1: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmB_fisico_s1: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmA_fisico_s2: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmA_ciego_s2: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmB_fisico_s2: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmA_fisico_s3: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmA_ciego_s3: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:24  [estudio] llmB_fisico_s3: en espera, Ollama no está abierto en Windows
+2026-11-20 23:46:25  [estudio] bayes_s1: se retoma con 8/40 simulaciones hechas
+2026-11-20 23:46:30  [estudio] cmaes_s1: se retoma con 8/40 simulaciones hechas
+2026-11-20 23:54:58  amp003: done  dp0_ext=85.4 Pa  dp0_O=49.1 Pa  celdas=308710  t=513.9 s
+2026-11-20 23:55:01  amp004: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:03:18  amp004: done  dp0_ext=199.0 Pa  dp0_O=129.5 Pa  celdas=297125  t=497.3 s
+2026-11-21 00:03:20  amp005: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:11:55  amp005: done  dp0_ext=112.1 Pa  dp0_O=83.8 Pa  celdas=310735  t=514.8 s
+2026-11-21 00:11:56  amp006: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:20:26  amp006: done  dp0_ext=58.5 Pa  dp0_O=37.7 Pa  celdas=302691  t=509.9 s
+2026-11-21 00:20:27  amp007: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:28:45  amp007: done  dp0_ext=139.1 Pa  dp0_O=53.8 Pa  celdas=300328  t=498.0 s
+2026-11-21 00:28:45  amp008: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:37:06  amp008: done  dp0_ext=111.8 Pa  dp0_O=73.7 Pa  celdas=303230  t=500.1 s
+2026-11-21 00:37:07  amp009: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:46:28  amp009: done  dp0_ext=67.2 Pa  dp0_O=39.4 Pa  celdas=306926  t=560.2 s
+2026-11-21 00:46:30  amp010: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 00:55:32  amp010: done  dp0_ext=120.7 Pa  dp0_O=60.4 Pa  celdas=307110  t=541.6 s
+2026-11-21 00:55:34  amp011: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 01:04:07  amp011: done  dp0_ext=60.6 Pa  dp0_O=39.1 Pa  celdas=304117  t=512.5 s
+2026-11-21 01:04:08  amp012: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 01:12:34  amp012: done  dp0_ext=62.2 Pa  dp0_O=39.0 Pa  celdas=307954  t=505.6 s
+2026-11-21 01:12:36  amp013: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 01:21:23  amp013: done  dp0_ext=115.8 Pa  dp0_O=55.1 Pa  celdas=309374  t=526.6 s
+2026-11-21 01:21:25  amp014: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 01:24:59  amp015: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 01:31:44  amp014: done  dp0_ext=83.9 Pa  dp0_O=44.9 Pa  celdas=304658  t=618.4 s
+2026-11-21 01:31:45  amp016: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 01:36:10  amp015: done  dp0_ext=68.7 Pa  dp0_O=40.9 Pa  celdas=295321  t=671.2 s
+2026-11-21 01:36:11  amp017: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 01:44:05  amp016: done  dp0_ext=107.6 Pa  dp0_O=55.1 Pa  celdas=293299  t=740.0 s
+2026-11-21 01:44:06  amp018: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 01:48:16  amp017: done  dp0_ext=80.3 Pa  dp0_O=42.5 Pa  celdas=312046  t=724.8 s
+2026-11-21 01:48:17  amp019: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 01:56:23  amp018: done  dp0_ext=79.4 Pa  dp0_O=54.1 Pa  celdas=295622  t=736.2 s
+2026-11-21 01:56:25  amp020: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:00:04  amp019: done  dp0_ext=104.2 Pa  dp0_O=58.1 Pa  celdas=308211  t=706.8 s
+2026-11-21 02:00:05  amp021: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:08:38  amp020: done  dp0_ext=105.8 Pa  dp0_O=46.8 Pa  celdas=293071  t=733.0 s
+2026-11-21 02:08:40  amp022: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:12:41  amp021: done  dp0_ext=131.2 Pa  dp0_O=85.4 Pa  celdas=294564  t=755.7 s
+2026-11-21 02:12:42  amp023: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:20:40  amp022: done  dp0_ext=64.5 Pa  dp0_O=40.9 Pa  celdas=304787  t=719.7 s
+2026-11-21 02:20:41  amp024: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:24:40  amp023: done  dp0_ext=101.3 Pa  dp0_O=42.8 Pa  celdas=309337  t=718.2 s
+2026-11-21 02:24:43  bayes_s1_09: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:32:11  amp024: done  dp0_ext=82.4 Pa  dp0_O=45.3 Pa  celdas=305965  t=690.4 s
+2026-11-21 02:32:13  cmaes_s1_09: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:32:34  [estudio] amp_bayes_s1: empieza con 34 casos ya calculados (espacio ampliado)
+2026-11-21 02:32:41  [estudio] amp_llmA_fisico_s1: empieza con 34 casos ya calculados (espacio ampliado)
+2026-11-21 02:37:55  [panel] LLM ollama gemma4:12b: respuesta en 311.2 s
+2026-11-21 02:38:57  bayes_s1_09: done  dp0_ext=54.0 Pa  dp0_O=34.1 Pa  celdas=296701  t=853.8 s
+2026-11-21 02:39:00  amp_bayes_s1_01: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:39:18  [estudio] bayes_s1: 9/40  bayes_s1_09 = 54.0 Pa  (mejor 54.0)
+2026-11-21 02:41:41  [panel] LLM ollama gemma4:12b: respuesta en 223.4 s
+2026-11-21 02:48:18  cmaes_s1_09: done  dp0_ext=95.4 Pa  dp0_O=50.8 Pa  celdas=290424  t=964.1 s
+2026-11-21 02:48:21  bayes_s1_10: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:48:23  [estudio] cmaes_s1: 9/40  cmaes_s1_09 = 95.4 Pa  (mejor 66.2)
+2026-11-21 02:50:20  [panel] LLM ollama gemma4:12b: respuesta en 515.3 s
+2026-11-21 02:53:48  [panel] LLM ollama gemma4:12b: respuesta en 205.4 s
+2026-11-21 02:55:07  amp_bayes_s1_01: done  dp0_ext=62.9 Pa  dp0_O=41.3 Pa  celdas=304025  t=967.4 s
+2026-11-21 02:55:08  amp_llmA_fisico_s1_01: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 02:55:19  [estudio] amp_bayes_s1: 1/40  amp_bayes_s1_01 = 62.9 Pa  (mejor 54.0)
+2026-11-21 03:02:27  bayes_s1_10: done  dp0_ext=55.1 Pa  dp0_O=35.5 Pa  celdas=296158  t=846.2 s
+2026-11-21 03:02:27  amp_bayes_s1_02: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:02:36  [estudio] bayes_s1: 10/40  bayes_s1_10 = 55.1 Pa  (mejor 54.0)
+2026-11-21 03:07:16  amp_llmA_fisico_s1_01: done  dp0_ext=71.7 Pa  dp0_O=41.7 Pa  celdas=311148  t=728.1 s
+2026-11-21 03:07:17  bayes_s1_11: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:07:27  [estudio] amp_llmA_fisico_s1: 1/40  amp_llmA_fisico_s1_01 = 71.7 Pa  (mejor 54.0)
+2026-11-21 03:07:43  bayes_s1_11: FALLO  laptop/ms_airbox/geom.py", line 60, in step_to_mesh
+    T.append(np.array([mp[k] for k in nodes[0]]).reshape(-1, 3))
+                                      ~~~~~^^^
+IndexError: list index out of range
+
+2026-11-21 03:07:44  cmaes_s1_10: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:07:51  [estudio] bayes_s1: 11/40  bayes_s1_11 = 224.2 Pa  (mejor 54.0)
+2026-11-21 03:11:02  [panel] LLM ollama gemma4:12b: respuesta en 214.6 s
+2026-11-21 03:15:57  [panel] LLM ollama gemma4:12b: respuesta en 292.1 s
+2026-11-21 03:16:23  amp_bayes_s1_02: done  dp0_ext=59.5 Pa  dp0_O=40.0 Pa  celdas=305742  t=835.9 s
+2026-11-21 03:16:24  amp_llmA_fisico_s1_02: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:16:38  [estudio] amp_bayes_s1: 2/40  amp_bayes_s1_02 = 59.5 Pa  (mejor 54.0)
+2026-11-21 03:22:22  cmaes_s1_10: done  dp0_ext=67.4 Pa  dp0_O=42.2 Pa  celdas=292106  t=878.0 s
+2026-11-21 03:22:24  amp_bayes_s1_03: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:22:43  [estudio] cmaes_s1: 10/40  cmaes_s1_10 = 67.4 Pa  (mejor 66.2)
+2026-11-21 03:28:55  amp_llmA_fisico_s1_02: done  dp0_ext=53.9 Pa  dp0_O=33.5 Pa  celdas=294533  t=750.7 s
+2026-11-21 03:28:57  bayes_s1_12: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:28:59  [estudio] amp_llmA_fisico_s1: 2/40  amp_llmA_fisico_s1_02 = 53.9 Pa  (mejor 53.9)
+2026-11-21 03:33:00  [panel] LLM ollama gemma4:12b: respuesta en 239.4 s
+2026-11-21 03:36:02  amp_bayes_s1_03: done  dp0_ext=54.7 Pa  dp0_O=33.9 Pa  celdas=295006  t=818.0 s
+2026-11-21 03:36:05  amp_llmA_fisico_s1_03: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:36:23  [estudio] amp_bayes_s1: 3/40  amp_bayes_s1_03 = 54.7 Pa  (mejor 54.0)
+2026-11-21 03:42:09  bayes_s1_12: done  dp0_ext=53.0 Pa  dp0_O=34.2 Pa  celdas=295705  t=791.5 s
+2026-11-21 03:42:11  amp_bayes_s1_04: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 03:42:30  [estudio] bayes_s1: 12/40  bayes_s1_12 = 53.0 Pa  (mejor 53.0)
+2026-11-21 03:44:07  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 03:48:42  amp_llmA_fisico_s1_03: done  dp0_ext=54.0 Pa  dp0_O=33.7 Pa  celdas=294571  t=757.6 s
+2026-11-21 03:48:47  [estudio] amp_llmA_fisico_s1: 3/40  amp_llmA_fisico_s1_03 = 54.0 Pa  (mejor 53.9)
+2026-11-21 03:48:47  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:49:03  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:49:03  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:49:38  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:49:38  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:50:14  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:50:14  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:50:50  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:50:50  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:51:26  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:51:26  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:52:01  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 03:52:01  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 03:52:20  amp_bayes_s1_04: done  dp0_ext=61.2 Pa  dp0_O=35.9 Pa  celdas=301082  t=609.6 s
+2026-11-21 03:52:23  STOP encontrado: termino.
+2026-11-21 03:52:25  [estudio] amp_bayes_s1: 4/40  amp_bayes_s1_04 = 61.2 Pa  (mejor 54.0)
+2026-11-21 03:52:25  [estudio] amp_bayes_s1: en pausa
+2026-11-21 08:49:22  [panel] trabajador arrancado
+2026-11-21 08:49:35  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 08:49:35  bayes_s1_13: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 08:49:35  [estudio] amp_bayes_s1: se retoma con 4/40 simulaciones hechas
+2026-11-21 08:49:35  [estudio] bayes_s1: se retoma con 12/40 simulaciones hechas
+2026-11-21 08:49:37  cmaes_s1_11: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 08:49:42  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 08:49:42  [estudio] cmaes_s1: se retoma con 10/40 simulaciones hechas
+2026-11-21 08:50:52  [estudio] llmA_fisico_s1: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmA_ciego_s1: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmB_fisico_s1: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmA_fisico_s2: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmA_ciego_s2: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmB_fisico_s2: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmA_fisico_s3: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmA_ciego_s3: en espera, Ollama no está abierto en Windows
+2026-11-21 08:50:52  [estudio] llmB_fisico_s3: en espera, Ollama no está abierto en Windows
+2026-11-21 08:58:13  [panel] LLM ollama gemma4:12b: respuesta en 510.3 s
+2026-11-21 09:01:58  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 09:05:44  cmaes_s1_11: done  dp0_ext=69.9 Pa  dp0_O=39.3 Pa  celdas=293604  t=967.6 s
+2026-11-21 09:05:50  [estudio] cmaes_s1: 11/40  cmaes_s1_11 = 69.9 Pa  (mejor 66.2)
+2026-11-21 09:05:50  [estudio] cmaes_s1: en pausa
+2026-11-21 09:06:05  bayes_s1_13: done  dp0_ext=55.5 Pa  dp0_O=35.5 Pa  celdas=295492  t=990.6 s
+2026-11-21 09:06:07  STOP encontrado: termino.
+2026-11-21 09:06:08  [estudio] bayes_s1: 13/40  bayes_s1_13 = 55.5 Pa  (mejor 53.0)
+2026-11-21 09:06:08  [estudio] bayes_s1: en pausa
+2026-11-21 09:06:12  [estudio] bayes_s1: se retoma con 13/40 simulaciones hechas
+2026-11-21 09:06:12  [estudio] bayes_s1: en pausa
+2026-11-21 09:09:15  [panel] 5010_bayes_s1_11.json: fallidos → pendientes
+2026-11-21 09:09:20  [panel] trabajador arrancado
+2026-11-21 09:09:32  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 09:09:32  amp_bayes_s1_05: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 09:09:33  [estudio] amp_bayes_s1: se retoma con 4/40 simulaciones hechas
+2026-11-21 09:09:33  [estudio] bayes_s1: se retoma con 10/40 simulaciones hechas
+2026-11-21 09:09:38  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 09:09:38  [estudio] cmaes_s1: se retoma con 11/40 simulaciones hechas
+2026-11-21 09:09:43  [estudio] cmaes_s1: 12/40  cmaes_s1_10 = 67.4 Pa  (mejor 66.2)
+2026-11-21 09:09:44  [estudio] cmaes_s1: 13/40  cmaes_s1_11 = 69.9 Pa  (mejor 66.2)
+2026-11-21 09:15:07  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 09:19:04  amp_bayes_s1_05: done  dp0_ext=59.9 Pa  dp0_O=37.5 Pa  celdas=304290  t=572.3 s
+2026-11-21 09:19:07  STOP encontrado: termino.
+2026-11-21 09:23:58  [panel] 5010_cmaes_s1_14.json: pendientes → cancelados
+2026-11-21 09:24:04  [panel] trabajador arrancado
+2026-11-21 09:24:15  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 09:24:15  amp_llmA_fisico_s1_04: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 09:24:17  [estudio] amp_bayes_s1: se retoma con 4/40 simulaciones hechas
+2026-11-21 09:24:17  [estudio] bayes_s1: se retoma con 10/40 simulaciones hechas
+2026-11-21 09:24:24  [estudio] amp_llmA_fisico_s1: se retoma con 3/40 simulaciones hechas
+2026-11-21 09:24:24  [estudio] cmaes_s1: empieza con 8 casos ya calculados (espacio base)
+2026-11-21 09:24:24  [estudio] cmaes_s1: estado reconstruido (0 evaluaciones, todas coinciden)
+2026-11-21 09:24:37  [estudio] cmaes_s1: 1/40  cmaes_s1_01 = 101.2 Pa  (mejor 72.4)
+2026-11-21 09:24:44  [estudio] cmaes_s1: 2/40  cmaes_s1_02 = 66.2 Pa  (mejor 66.2)
+2026-11-21 09:24:51  [estudio] cmaes_s1: 3/40  cmaes_s1_03 = 106.9 Pa  (mejor 66.2)
+2026-11-21 09:24:57  [estudio] cmaes_s1: 4/40  cmaes_s1_04 = 73.9 Pa  (mejor 66.2)
+2026-11-21 09:25:04  [estudio] cmaes_s1: 5/40  cmaes_s1_05 = 91.0 Pa  (mejor 66.2)
+2026-11-21 09:25:07  [estudio] amp_bayes_s1: al reconstruir, la propuesta 5 no coincide con la guardada; se sigue con la guardada
+2026-11-21 09:25:07  [estudio] amp_bayes_s1: estado reconstruido (4 evaluaciones, 1 sin coincidir)
+2026-11-21 09:25:09  [estudio] amp_bayes_s1: 5/40  amp_bayes_s1_05 = 59.9 Pa  (mejor 54.0)
+2026-11-21 09:25:10  [estudio] cmaes_s1: 6/40  cmaes_s1_06 = 90.2 Pa  (mejor 66.2)
+2026-11-21 09:25:16  [estudio] cmaes_s1: 7/40  cmaes_s1_07 = 84.4 Pa  (mejor 66.2)
+2026-11-21 09:25:21  [estudio] cmaes_s1: 8/40  cmaes_s1_08 = 93.9 Pa  (mejor 66.2)
+2026-11-21 09:25:28  [estudio] cmaes_s1: 9/40  cmaes_s1_09 = 95.4 Pa  (mejor 66.2)
+2026-11-21 09:25:40  [estudio] bayes_s1: al reconstruir, la propuesta 9 no coincide con la guardada; se sigue con la guardada
+2026-11-21 09:25:41  [estudio] bayes_s1: estado reconstruido (10 evaluaciones, 3 sin coincidir)
+2026-11-21 09:35:06  amp_llmA_fisico_s1_04: done  dp0_ext=55.0 Pa  dp0_O=34.2 Pa  celdas=294544  t=650.0 s
+2026-11-21 09:35:07  amp_bayes_s1_06: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 09:35:18  [estudio] amp_llmA_fisico_s1: 4/40  amp_llmA_fisico_s1_04 = 55.0 Pa  (mejor 53.9)
+2026-11-21 09:35:31  [panel] LLM ollama: en espera mientras Isaac Sim esté abierto
+2026-11-21 09:44:44  amp_bayes_s1_06: done  dp0_ext=54.1 Pa  dp0_O=35.0 Pa  celdas=299346  t=577.2 s
+2026-11-21 09:44:47  bayes_s1_11: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 09:44:48  [estudio] amp_bayes_s1: 6/40  amp_bayes_s1_06 = 54.1 Pa  (mejor 54.0)
+2026-11-21 09:54:11  bayes_s1_11: done  dp0_ext=54.3 Pa  dp0_O=34.7 Pa  celdas=294140  t=564.0 s
+2026-11-21 09:54:12  amp_bayes_s1_07: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 09:54:32  [estudio] bayes_s1: 11/40  bayes_s1_11 = 54.3 Pa  (mejor 54.0)
+2026-11-21 10:03:15  amp_bayes_s1_07: done  dp0_ext=54.5 Pa  dp0_O=34.1 Pa  celdas=297565  t=543.0 s
+2026-11-21 10:03:16  bayes_s1_12r: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 10:03:36  [estudio] amp_bayes_s1: 7/40  amp_bayes_s1_07 = 54.5 Pa  (mejor 54.0)
+2026-11-21 10:12:33  bayes_s1_12r: done  dp0_ext=54.1 Pa  dp0_O=34.6 Pa  celdas=295317  t=556.5 s
+2026-11-21 10:12:36  amp_bayes_s1_08: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 10:12:39  [estudio] bayes_s1: 12/40  bayes_s1_12r = 54.1 Pa  (mejor 54.0)
+2026-11-21 10:22:27  amp_bayes_s1_08: done  dp0_ext=54.1 Pa  dp0_O=34.0 Pa  celdas=298246  t=591.2 s
+2026-11-21 10:22:29  bayes_s1_13r: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 10:22:48  [estudio] amp_bayes_s1: 8/40  amp_bayes_s1_08 = 54.1 Pa  (mejor 54.0)
+2026-11-21 10:32:30  bayes_s1_13r: done  dp0_ext=53.6 Pa  dp0_O=34.6 Pa  celdas=295585  t=601.3 s
+2026-11-21 10:32:31  amp_bayes_s1_09: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim) · 1 a la vez × 4 procesos)
+2026-11-21 10:32:35  [estudio] bayes_s1: 13/40  bayes_s1_13r = 53.6 Pa  (mejor 53.6)
+2026-11-21 10:35:32  [panel] LLM ollama: en espera mientras Isaac Sim esté abierto
+2026-11-21 10:38:18  bayes_s1_14: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 10:42:49  [panel] LLM ollama gemma4:12b: respuesta en 272.2 s
+2026-11-21 10:45:59  amp_bayes_s1_09: done  dp0_ext=53.7 Pa  dp0_O=35.0 Pa  celdas=300719  t=807.3 s
+2026-11-21 10:46:00  cmaes_s1_10r: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 10:46:06  [estudio] amp_bayes_s1: 9/40  amp_bayes_s1_09 = 53.7 Pa  (mejor 53.7)
+2026-11-21 10:48:34  [panel] LLM ollama gemma4:12b: respuesta en 342.7 s
+2026-11-21 10:54:16  bayes_s1_14: done  dp0_ext=67.1 Pa  dp0_O=39.5 Pa  celdas=299806  t=957.1 s
+2026-11-21 10:54:17  amp_bayes_s1_10: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 10:54:37  [estudio] bayes_s1: 14/40  bayes_s1_14 = 67.1 Pa  (mejor 53.6)
+2026-11-21 10:59:03  cmaes_s1_10r: done  dp0_ext=77.8 Pa  dp0_O=44.3 Pa  celdas=294863  t=783.4 s
+2026-11-21 10:59:05  amp_llmA_fisico_s1_05: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 10:59:24  [estudio] cmaes_s1: 10/40  cmaes_s1_10r = 77.8 Pa  (mejor 66.2)
+2026-11-21 11:05:47  amp_bayes_s1_10: done  dp0_ext=54.2 Pa  dp0_O=35.2 Pa  celdas=300546  t=690.0 s
+2026-11-21 11:05:47  bayes_s1_15: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:05:52  [estudio] amp_bayes_s1: 10/40  amp_bayes_s1_10 = 54.2 Pa  (mejor 53.7)
+2026-11-21 11:10:53  amp_llmA_fisico_s1_05: done  dp0_ext=54.3 Pa  dp0_O=34.0 Pa  celdas=294959  t=708.0 s
+2026-11-21 11:10:55  amp_bayes_s1_11: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:11:04  [estudio] amp_llmA_fisico_s1: 5/40  amp_llmA_fisico_s1_05 = 54.3 Pa  (mejor 53.9)
+2026-11-21 11:17:07  [panel] LLM ollama gemma4:12b: respuesta en 361.8 s
+2026-11-21 11:20:29  bayes_s1_15: done  dp0_ext=54.4 Pa  dp0_O=34.4 Pa  celdas=295228  t=881.4 s
+2026-11-21 11:20:30  amp_llmA_fisico_s1_06: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:20:50  [estudio] bayes_s1: 15/40  bayes_s1_15 = 54.4 Pa  (mejor 53.6)
+2026-11-21 11:23:57  amp_bayes_s1_11: done  dp0_ext=58.3 Pa  dp0_O=38.8 Pa  celdas=301536  t=781.4 s
+2026-11-21 11:23:58  bayes_s1_16: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:23:59  [estudio] amp_bayes_s1: 11/40  amp_bayes_s1_11 = 58.3 Pa  (mejor 53.7)
+2026-11-21 11:32:44  amp_llmA_fisico_s1_06: done  dp0_ext=54.6 Pa  dp0_O=34.8 Pa  celdas=294906  t=733.7 s
+2026-11-21 11:32:45  amp_bayes_s1_12: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:33:03  [estudio] amp_llmA_fisico_s1: 6/40  amp_llmA_fisico_s1_06 = 54.6 Pa  (mejor 53.9)
+2026-11-21 11:36:53  [panel] LLM ollama gemma4:12b: respuesta en 229.0 s
+2026-11-21 11:37:10  bayes_s1_16: done  dp0_ext=54.6 Pa  dp0_O=34.6 Pa  celdas=294176  t=791.6 s
+2026-11-21 11:37:13  cmaes_s1_11r: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:37:27  [estudio] bayes_s1: 16/40  bayes_s1_16 = 54.6 Pa  (mejor 53.6)
+2026-11-21 11:42:03  [panel] LLM ollama gemma4:12b: respuesta en 306.5 s
+2026-11-21 11:47:38  amp_bayes_s1_12: done  dp0_ext=53.5 Pa  dp0_O=33.8 Pa  celdas=298017  t=892.5 s
+2026-11-21 11:47:39  amp_llmA_fisico_s1_07: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:47:55  [estudio] amp_bayes_s1: 12/40  amp_bayes_s1_12 = 53.5 Pa  (mejor 53.5)
+2026-11-21 11:50:48  cmaes_s1_11r: done  dp0_ext=77.1 Pa  dp0_O=49.5 Pa  celdas=297549  t=815.0 s
+2026-11-21 11:50:50  amp_bayes_s1_13: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 11:50:57  [estudio] cmaes_s1: 11/40  cmaes_s1_11r = 77.1 Pa  (mejor 66.2)
+2026-11-21 11:59:58  amp_llmA_fisico_s1_07: done  dp0_ext=54.3 Pa  dp0_O=34.4 Pa  celdas=294564  t=738.6 s
+2026-11-21 12:00:01  bayes_s1_17: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:00:04  [estudio] amp_llmA_fisico_s1: 7/40  amp_llmA_fisico_s1_07 = 54.3 Pa  (mejor 53.9)
+2026-11-21 12:03:36  amp_bayes_s1_13: done  dp0_ext=54.6 Pa  dp0_O=33.3 Pa  celdas=309838  t=766.4 s
+2026-11-21 12:03:37  cmaes_s1_12: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:03:58  [estudio] amp_bayes_s1: 13/40  amp_bayes_s1_13 = 54.6 Pa  (mejor 53.5)
+2026-11-21 12:06:14  [panel] LLM ollama gemma4:12b: respuesta en 368.1 s
+2026-11-21 12:13:55  bayes_s1_17: done  dp0_ext=54.6 Pa  dp0_O=34.1 Pa  celdas=295214  t=834.0 s
+2026-11-21 12:13:55  amp_bayes_s1_14: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:14:03  [estudio] bayes_s1: 17/40  bayes_s1_17 = 54.6 Pa  (mejor 53.6)
+2026-11-21 12:16:11  cmaes_s1_12: done  dp0_ext=93.1 Pa  dp0_O=56.0 Pa  celdas=293822  t=754.5 s
+2026-11-21 12:16:14  amp_llmA_fisico_s1_08: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:16:28  [estudio] cmaes_s1: 12/40  cmaes_s1_12 = 93.1 Pa  (mejor 66.2)
+2026-11-21 12:26:15  amp_bayes_s1_14: done  dp0_ext=53.3 Pa  dp0_O=34.4 Pa  celdas=299777  t=739.7 s
+2026-11-21 12:26:17  bayes_s1_18: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:26:17  [estudio] amp_bayes_s1: 14/40  amp_bayes_s1_14 = 53.3 Pa  (mejor 53.3)
+2026-11-21 12:28:24  amp_llmA_fisico_s1_08: done  dp0_ext=53.8 Pa  dp0_O=33.5 Pa  celdas=294534  t=729.7 s
+2026-11-21 12:28:26  [estudio] amp_llmA_fisico_s1: 8/40  amp_llmA_fisico_s1_08 = 53.8 Pa  (mejor 53.8)
+2026-11-21 12:28:26  amp_bayes_s1_15: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 12:32:59  [panel] LLM ollama gemma4:12b: respuesta en 272.4 s
+2026-11-21 12:41:37  bayes_s1_18: done  dp0_ext=55.5 Pa  dp0_O=35.5 Pa  celdas=294821  t=920.6 s
+2026-11-21 12:41:47  [estudio] bayes_s1: 18/40  bayes_s1_18 = 55.5 Pa  (mejor 53.6)
+2026-11-21 12:44:53  amp_bayes_s1_15: done  dp0_ext=55.1 Pa  dp0_O=36.0 Pa  celdas=299516  t=987.3 s
+2026-11-21 12:44:55  amp_llmA_fisico_s1_09: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-21 12:45:15  [estudio] amp_bayes_s1: 15/40  amp_bayes_s1_15 = 55.1 Pa  (mejor 53.3)
+2026-11-21 12:59:13  amp_llmA_fisico_s1_09: done  dp0_ext=54.4 Pa  dp0_O=34.1 Pa  celdas=294533  t=857.8 s
+2026-11-21 12:59:16  [estudio] amp_llmA_fisico_s1: 9/40  amp_llmA_fisico_s1_09 = 54.4 Pa  (mejor 53.8)
+2026-11-21 12:59:16  amp_bayes_s1_16: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-21 12:59:26  [panel] LLM ollama: en espera mientras Isaac Sim esté abierto
+2026-11-21 13:13:05  amp_bayes_s1_16: done  dp0_ext=61.1 Pa  dp0_O=36.2 Pa  celdas=302779  t=828.5 s
+2026-11-21 13:13:07  bayes_s1_19: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-21 13:13:10  [estudio] amp_bayes_s1: 16/40  amp_bayes_s1_16 = 61.1 Pa  (mejor 53.3)
+2026-11-21 13:14:19  amp_bayes_s1_17: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 13:21:01  [panel] LLM ollama gemma4:12b: respuesta en 395.2 s
+2026-11-21 13:25:35  [panel] LLM ollama gemma4:12b: respuesta en 270.6 s
+2026-11-21 13:29:26  bayes_s1_19: done  dp0_ext=53.9 Pa  dp0_O=34.7 Pa  celdas=295507  t=978.5 s
+2026-11-21 13:29:27  amp_llmA_fisico_s1_10: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 13:29:43  [estudio] bayes_s1: 19/40  bayes_s1_19 = 53.9 Pa  (mejor 53.6)
+2026-11-21 13:29:55  amp_bayes_s1_17: done  dp0_ext=72.3 Pa  dp0_O=52.7 Pa  celdas=313911  t=936.0 s
+2026-11-21 13:29:56  bayes_s1_20: empiezo (h=0.007, iter=1000, modo normal · 2 a la vez × 4 procesos)
+2026-11-21 13:30:16  [estudio] amp_bayes_s1: 17/40  amp_bayes_s1_17 = 72.3 Pa  (mejor 53.3)
+2026-11-21 13:32:03  [panel] recursos: 4 procesos por caso; 3 casos a la vez en modo normal, 1 en compartido; pausar con Isaac Sim: no
+2026-11-21 13:32:06  amp_bayes_s1_18: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 13:32:35  [estudio] patron_s1: empieza con 8 casos ya calculados (espacio base)
+2026-11-21 13:32:35  [estudio] patron_s1: estado reconstruido (0 evaluaciones, todas coinciden)
+2026-11-21 13:46:19  amp_llmA_fisico_s1_10: done  dp0_ext=53.8 Pa  dp0_O=33.4 Pa  celdas=294548  t=1012.1 s
+2026-11-21 13:46:21  cmaes_s1_13: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 13:46:23  [estudio] amp_llmA_fisico_s1: 10/40  amp_llmA_fisico_s1_10 = 53.8 Pa  (mejor 53.8)
+2026-11-21 13:47:28  bayes_s1_20: done  dp0_ext=56.2 Pa  dp0_O=34.8 Pa  celdas=297978  t=1051.2 s
+2026-11-21 13:47:28  patron_s1_01: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 13:47:52  [estudio] bayes_s1: 20/40  bayes_s1_20 = 56.2 Pa  (mejor 53.6)
+2026-11-21 13:51:51  amp_bayes_s1_18: done  dp0_ext=53.7 Pa  dp0_O=34.2 Pa  celdas=297950  t=1185.6 s
+2026-11-21 13:51:53  bayes_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 13:52:01  [estudio] amp_bayes_s1: 18/40  amp_bayes_s1_18 = 53.7 Pa  (mejor 53.3)
+2026-11-21 13:56:26  [panel] LLM ollama gemma4:12b: respuesta en 602.2 s
+2026-11-21 14:09:12  cmaes_s1_13: done  dp0_ext=76.9 Pa  dp0_O=43.7 Pa  celdas=293801  t=1371.1 s
+2026-11-21 14:09:14  amp_bayes_s1_19: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:09:34  [estudio] cmaes_s1: 13/40  cmaes_s1_13 = 76.9 Pa  (mejor 66.2)
+2026-11-21 14:09:47  patron_s1_01: done  dp0_ext=68.9 Pa  dp0_O=39.2 Pa  celdas=290383  t=1338.6 s
+2026-11-21 14:09:49  amp_llmA_fisico_s1_11: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:09:56  [estudio] patron_s1: 1/40  patron_s1_01 = 68.9 Pa  (mejor 68.9)
+2026-11-21 14:12:24  bayes_s1_21: done  dp0_ext=53.1 Pa  dp0_O=34.4 Pa  celdas=295369  t=1231.6 s
+2026-11-21 14:12:26  cmaes_s1_14: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:12:31  [estudio] bayes_s1: 21/40  bayes_s1_21 = 53.1 Pa  (mejor 53.1)
+2026-11-21 14:27:50  amp_bayes_s1_19: done  dp0_ext=53.7 Pa  dp0_O=34.7 Pa  celdas=296509  t=1116.5 s
+2026-11-21 14:27:53  bayes_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:28:12  [estudio] amp_bayes_s1: 19/40  amp_bayes_s1_19 = 53.7 Pa  (mejor 53.3)
+2026-11-21 14:28:36  amp_llmA_fisico_s1_11: done  dp0_ext=54.6 Pa  dp0_O=34.3 Pa  celdas=294506  t=1126.8 s
+2026-11-21 14:28:38  amp_bayes_s1_20: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:28:58  [estudio] amp_llmA_fisico_s1: 11/40  amp_llmA_fisico_s1_11 = 54.6 Pa  (mejor 53.8)
+2026-11-21 14:31:20  cmaes_s1_14: done  dp0_ext=64.6 Pa  dp0_O=43.7 Pa  celdas=293670  t=1133.6 s
+2026-11-21 14:31:23  patron_s1_02: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:31:32  [estudio] cmaes_s1: 14/40  cmaes_s1_14 = 64.6 Pa  (mejor 64.6)
+2026-11-21 14:35:22  [panel] LLM ollama gemma4:12b: respuesta en 382.3 s
+2026-11-21 14:48:16  amp_bayes_s1_20: done  dp0_ext=52.1 Pa  dp0_O=34.3 Pa  celdas=295948  t=1178.8 s
+2026-11-21 14:48:19  amp_llmA_fisico_s1_12: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:48:23  [estudio] amp_bayes_s1: 20/40  amp_bayes_s1_20 = 52.1 Pa  (mejor 52.1)
+2026-11-21 14:48:29  bayes_s1_22: done  dp0_ext=55.4 Pa  dp0_O=36.3 Pa  celdas=295203  t=1236.7 s
+2026-11-21 14:48:30  cmaes_s1_15: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:48:41  [estudio] bayes_s1: 22/40  bayes_s1_22 = 55.4 Pa  (mejor 53.1)
+2026-11-21 14:50:28  patron_s1_02: done  dp0_ext=65.6 Pa  dp0_O=38.3 Pa  celdas=290678  t=1145.6 s
+2026-11-21 14:50:31  amp_bayes_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 14:50:35  [estudio] patron_s1: 2/40  patron_s1_02 = 65.6 Pa  (mejor 65.6)
+2026-11-21 15:05:58  cmaes_s1_15: done  dp0_ext=74.7 Pa  dp0_O=40.1 Pa  celdas=291427  t=1047.9 s
+2026-11-21 15:06:00  bayes_s1_23: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:06:23  amp_llmA_fisico_s1_12: done  dp0_ext=54.3 Pa  dp0_O=33.7 Pa  celdas=294623  t=1083.8 s
+2026-11-21 15:06:23  [estudio] cmaes_s1: 15/40  cmaes_s1_15 = 74.7 Pa  (mejor 64.6)
+2026-11-21 15:06:24  patron_s1_03: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:06:44  [estudio] amp_llmA_fisico_s1: 12/40  amp_llmA_fisico_s1_12 = 54.3 Pa  (mejor 53.8)
+2026-11-21 15:07:27  amp_bayes_s1_21: done  dp0_ext=55.4 Pa  dp0_O=37.5 Pa  celdas=298504  t=1015.6 s
+2026-11-21 15:07:27  cmaes_s1_16: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:07:31  [estudio] amp_bayes_s1: 21/40  amp_bayes_s1_21 = 55.4 Pa  (mejor 52.1)
+2026-11-21 15:13:01  [panel] LLM ollama gemma4:12b: respuesta en 375.0 s
+2026-11-21 15:25:23  bayes_s1_23: done  dp0_ext=157.5 Pa  dp0_O=108.4 Pa  celdas=290618  t=1163.0 s
+2026-11-21 15:25:24  amp_bayes_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:25:44  [estudio] bayes_s1: 23/40  bayes_s1_23 = 157.5 Pa  (mejor 53.1)
+2026-11-21 15:25:55  patron_s1_03: done  dp0_ext=66.8 Pa  dp0_O=38.5 Pa  celdas=290306  t=1171.0 s
+2026-11-21 15:25:57  amp_llmA_fisico_s1_13: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:26:06  [estudio] patron_s1: 3/40  patron_s1_03 = 66.8 Pa  (mejor 65.6)
+2026-11-21 15:26:44  cmaes_s1_16: done  dp0_ext=84.2 Pa  dp0_O=58.0 Pa  celdas=292168  t=1156.5 s
+2026-11-21 15:26:45  bayes_s1_24: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:26:47  [estudio] cmaes_s1: 16/40  cmaes_s1_16 = 84.2 Pa  (mejor 64.6)
+2026-11-21 15:41:51  amp_bayes_s1_22: done  dp0_ext=54.4 Pa  dp0_O=34.7 Pa  celdas=302187  t=987.0 s
+2026-11-21 15:41:52  cmaes_s1_17: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:42:11  [estudio] amp_bayes_s1: 22/40  amp_bayes_s1_22 = 54.4 Pa  (mejor 52.1)
+2026-11-21 15:43:43  amp_llmA_fisico_s1_13: done  dp0_ext=53.6 Pa  dp0_O=33.6 Pa  celdas=294527  t=1066.0 s
+2026-11-21 15:43:44  amp_bayes_s1_23: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:44:05  [estudio] amp_llmA_fisico_s1: 13/40  amp_llmA_fisico_s1_13 = 53.6 Pa  (mejor 53.6)
+2026-11-21 15:44:36  bayes_s1_24: done  dp0_ext=53.9 Pa  dp0_O=33.8 Pa  celdas=294202  t=1070.5 s
+2026-11-21 15:44:38  patron_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 15:44:53  [estudio] bayes_s1: 24/40  bayes_s1_24 = 53.9 Pa  (mejor 53.1)
+2026-11-21 15:51:16  [panel] LLM ollama gemma4:12b: respuesta en 431.1 s
+2026-11-21 16:02:33  cmaes_s1_17: done  dp0_ext=76.5 Pa  dp0_O=43.0 Pa  celdas=292447  t=1240.8 s
+2026-11-21 16:02:34  amp_llmA_fisico_s1_14: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:02:44  [estudio] cmaes_s1: 17/40  cmaes_s1_17 = 76.5 Pa  (mejor 64.6)
+2026-11-21 16:04:10  amp_bayes_s1_23: done  dp0_ext=63.0 Pa  dp0_O=36.1 Pa  celdas=312202  t=1226.2 s
+2026-11-21 16:04:11  bayes_s1_25: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:04:32  [estudio] amp_bayes_s1: 23/40  amp_bayes_s1_23 = 63.0 Pa  (mejor 52.1)
+2026-11-21 16:05:06  patron_s1_04: done  dp0_ext=75.0 Pa  dp0_O=36.0 Pa  celdas=289704  t=1227.9 s
+2026-11-21 16:05:08  amp_bayes_s1_24: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:05:28  [estudio] patron_s1: 4/40  patron_s1_04 = 75.0 Pa  (mejor 65.6)
+2026-11-21 16:16:30  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 16:22:18  amp_llmA_fisico_s1_14: done  dp0_ext=54.1 Pa  dp0_O=34.0 Pa  celdas=294509  t=1183.6 s
+2026-11-21 16:22:24  [estudio] amp_llmA_fisico_s1: 14/40  amp_llmA_fisico_s1_14 = 54.1 Pa  (mejor 53.6)
+2026-11-21 16:22:24  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 16:22:51  [estudio] amp_llmA_fisico_s1: se retoma con 14/40 simulaciones hechas
+2026-11-21 16:22:51  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 16:23:28  [estudio] amp_llmA_fisico_s1: se retoma con 14/40 simulaciones hechas
+2026-11-21 16:23:28  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 16:23:56  bayes_s1_25: done  dp0_ext=53.9 Pa  dp0_O=34.2 Pa  celdas=294356  t=1182.8 s
+2026-11-21 16:24:00  amp_bayes_s1_24: done  dp0_ext=183.4 Pa  dp0_O=135.9 Pa  celdas=302698  t=1131.3 s
+2026-11-21 16:24:02  STOP encontrado: termino.
+2026-11-21 16:24:03  [estudio] amp_llmA_fisico_s1: se retoma con 14/40 simulaciones hechas
+2026-11-21 16:24:03  [estudio] amp_llmA_fisico_s1: en pausa
+2026-11-21 16:24:07  [estudio] bayes_s1: 25/40  bayes_s1_25 = 53.9 Pa  (mejor 53.1)
+2026-11-21 16:24:07  [estudio] bayes_s1: en pausa
+2026-11-21 16:24:50  [panel] panel apagado
+2026-11-21 16:26:02  [panel] trabajador arrancado
+2026-11-21 16:26:11  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 16:26:11  cmaes_s1_18: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:26:12  [estudio] amp_bayes_s1: se retoma con 23/40 simulaciones hechas
+2026-11-21 16:26:12  [estudio] bayes_s1: se retoma con 25/40 simulaciones hechas
+2026-11-21 16:26:13  patron_s1_05: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:26:20  [estudio] amp_llmA_fisico_s1: se retoma con 14/40 simulaciones hechas
+2026-11-21 16:26:20  [estudio] cmaes_s1: se retoma con 17/40 simulaciones hechas
+2026-11-21 16:26:24  [estudio] cmaes_s1: estado reconstruido (17 evaluaciones, todas coinciden)
+2026-11-21 16:26:26  [estudio] patron_s1: se retoma con 4/40 simulaciones hechas
+2026-11-21 16:26:26  [estudio] patron_s1: estado reconstruido (4 evaluaciones, todas coinciden)
+2026-11-21 16:27:26  [estudio] amp_bayes_s1: al reconstruir, la propuesta 5 no coincide con la guardada; se sigue con la guardada
+2026-11-21 16:28:43  [estudio] bayes_s1: al reconstruir, la propuesta 9 no coincide con la guardada; se sigue con la guardada
+2026-11-21 16:29:22  [estudio] bayes_s1: estado reconstruido (25 evaluaciones, 3 sin coincidir)
+2026-11-21 16:29:33  [estudio] amp_bayes_s1: estado reconstruido (23 evaluaciones, 1 sin coincidir)
+2026-11-21 16:29:35  [estudio] amp_bayes_s1: 24/40  amp_bayes_s1_24 = 183.4 Pa  (mejor 52.1)
+2026-11-21 16:29:37  bayes_s1_26: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:33:05  [panel] LLM ollama gemma4:12b: respuesta en 404.5 s
+2026-11-21 16:42:55  [panel] LLM ollama gemma4:12b: respuesta en 586.9 s
+2026-11-21 16:53:28  cmaes_s1_18: done  dp0_ext=101.5 Pa  dp0_O=69.6 Pa  celdas=295266  t=1636.2 s
+2026-11-21 16:53:31  amp_bayes_s1_25: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:53:32  patron_s1_05: done  dp0_ext=68.3 Pa  dp0_O=38.0 Pa  celdas=290149  t=1639.5 s
+2026-11-21 16:53:33  [estudio] cmaes_s1: 18/40  cmaes_s1_18 = 101.5 Pa  (mejor 64.6)
+2026-11-21 16:53:33  amp_llmA_fisico_s1_15: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:53:39  bayes_s1_26: done  dp0_ext=129.0 Pa  dp0_O=59.9 Pa  celdas=291428  t=1442.4 s
+2026-11-21 16:53:41  cmaes_s1_19: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 16:53:45  [estudio] bayes_s1: 26/40  bayes_s1_26 = 129.0 Pa  (mejor 53.1)
+2026-11-21 16:53:53  [estudio] patron_s1: 5/40  patron_s1_05 = 68.3 Pa  (mejor 65.6)
+2026-11-21 17:11:38  amp_bayes_s1_25: done  dp0_ext=57.2 Pa  dp0_O=37.2 Pa  celdas=302727  t=1087.4 s
+2026-11-21 17:11:39  bayes_s1_27: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:11:42  [estudio] amp_bayes_s1: 25/40  amp_bayes_s1_25 = 57.2 Pa  (mejor 52.1)
+2026-11-21 17:12:15  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 17:12:29  cmaes_s1_19: done  dp0_ext=81.1 Pa  dp0_O=43.6 Pa  celdas=288823  t=1125.8 s
+2026-11-21 17:12:33  amp_llmA_fisico_s1_15: done  dp0_ext=54.4 Pa  dp0_O=34.1 Pa  celdas=295399  t=1140.4 s
+2026-11-21 17:12:34  [estudio] cmaes_s1: 19/40  cmaes_s1_19 = 81.1 Pa  (mejor 64.6)
+2026-11-21 17:12:34  [estudio] cmaes_s1: en pausa
+2026-11-21 17:12:43  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:12:43  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:12:43  [estudio] cmaes_s1: en pausa
+2026-11-21 17:13:18  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:13:18  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:13:18  [estudio] cmaes_s1: en pausa
+2026-11-21 17:13:55  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:13:55  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:13:55  [estudio] cmaes_s1: en pausa
+2026-11-21 17:14:31  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:14:31  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:14:31  [estudio] cmaes_s1: en pausa
+2026-11-21 17:15:07  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:15:07  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:15:07  [estudio] cmaes_s1: en pausa
+2026-11-21 17:15:43  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:15:43  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:15:43  [estudio] cmaes_s1: en pausa
+2026-11-21 17:16:19  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:16:19  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:16:19  [estudio] cmaes_s1: en pausa
+2026-11-21 17:16:55  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:16:55  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:16:55  [estudio] cmaes_s1: en pausa
+2026-11-21 17:17:31  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:17:31  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:17:31  [estudio] cmaes_s1: en pausa
+2026-11-21 17:18:07  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:18:07  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:18:07  [estudio] cmaes_s1: en pausa
+2026-11-21 17:18:43  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:18:43  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:18:43  [estudio] cmaes_s1: en pausa
+2026-11-21 17:19:19  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:19:19  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:19:19  [estudio] cmaes_s1: en pausa
+2026-11-21 17:19:55  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:19:55  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:19:55  [estudio] cmaes_s1: en pausa
+2026-11-21 17:20:31  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:20:31  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:20:31  [estudio] cmaes_s1: en pausa
+2026-11-21 17:20:49  bayes_s1_27: done  dp0_ext=61.3 Pa  dp0_O=39.2 Pa  celdas=300032  t=549.9 s
+2026-11-21 17:20:50  STOP encontrado: termino.
+2026-11-21 17:22:18  [panel] trabajador arrancado
+2026-11-21 17:22:29  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 17:22:29  conj001: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:22:30  [estudio] bayes_s1: se retoma con 26/40 simulaciones hechas
+2026-11-21 17:22:31  conj002: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:22:33  conj003: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:22:37  [panel] panel reiniciado para cargar código nuevo (el trabajador sigue)
+2026-11-21 17:22:38  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 17:22:41  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 17:22:42  [estudio] patron_s1: se retoma con 5/40 simulaciones hechas
+2026-11-21 17:22:42  [estudio] patron_s1: estado reconstruido (5 evaluaciones, todas coinciden)
+2026-11-21 17:23:45  [estudio] bayes_s1: al reconstruir, la propuesta 9 no coincide con la guardada; se sigue con la guardada
+2026-11-21 17:24:04  [estudio] bayes_s1: estado reconstruido (26 evaluaciones, 3 sin coincidir)
+2026-11-21 17:24:05  [estudio] bayes_s1: 27/40  bayes_s1_27 = 61.3 Pa  (mejor 53.1)
+2026-11-21 17:41:53  conj003: done  dp0_ext=126.6 Pa  dp0_O=84.6 Pa  celdas=307876  t=1159.9 s
+2026-11-21 17:41:53  conj004: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:42:34  conj002: done  dp0_ext=135.6 Pa  dp0_O=69.4 Pa  celdas=311385  t=1202.9 s
+2026-11-21 17:42:35  conj005: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 17:42:51  conj001: done  dp0_ext=96.4 Pa  dp0_O=41.3 Pa  celdas=296952  t=1222.0 s
+2026-11-21 17:42:53  conj006: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:00:38  conj004: done  dp0_ext=105.7 Pa  dp0_O=48.9 Pa  celdas=303335  t=1124.3 s
+2026-11-21 18:00:40  conj007: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:02:18  conj005: done  dp0_ext=73.8 Pa  dp0_O=38.9 Pa  celdas=303306  t=1182.9 s
+2026-11-21 18:02:19  conj008: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:02:32  conj006: done  dp0_ext=64.6 Pa  dp0_O=41.9 Pa  celdas=301469  t=1178.7 s
+2026-11-21 18:02:33  conj009: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:19:55  conj007: done  dp0_ext=107.6 Pa  dp0_O=74.2 Pa  celdas=296719  t=1154.2 s
+2026-11-21 18:19:56  conj010: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:20:06  conj009: done  dp0_ext=126.5 Pa  dp0_O=62.9 Pa  celdas=303551  t=1052.9 s
+2026-11-21 18:20:07  conj011: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:21:57  conj008: done  dp0_ext=61.7 Pa  dp0_O=39.8 Pa  celdas=304563  t=1178.4 s
+2026-11-21 18:21:59  conj012: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:37:11  conj011: done  dp0_ext=113.1 Pa  dp0_O=61.7 Pa  celdas=306192  t=1023.5 s
+2026-11-21 18:37:12  conj013: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:38:06  conj010: done  dp0_ext=82.3 Pa  dp0_O=44.8 Pa  celdas=296726  t=1090.1 s
+2026-11-21 18:38:07  conj014: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:40:33  conj012: done  dp0_ext=156.7 Pa  dp0_O=105.2 Pa  celdas=304442  t=1114.0 s
+2026-11-21 18:40:35  conj015: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:54:11  conj013: done  dp0_ext=90.2 Pa  dp0_O=52.2 Pa  celdas=302594  t=1018.9 s
+2026-11-21 18:54:14  conj016: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:55:52  conj014: done  dp0_ext=70.4 Pa  dp0_O=53.2 Pa  celdas=312032  t=1065.6 s
+2026-11-21 18:55:54  conj017: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 18:58:10  conj015: done  dp0_ext=90.6 Pa  dp0_O=51.3 Pa  celdas=302080  t=1055.3 s
+2026-11-21 18:58:10  conj018: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:13:02  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-21 19:13:29  conj016: done  dp0_ext=92.4 Pa  dp0_O=41.6 Pa  celdas=310333  t=1154.4 s
+2026-11-21 19:14:14  conj017: done  dp0_ext=75.0 Pa  dp0_O=56.4 Pa  celdas=314056  t=1099.9 s
+2026-11-21 19:15:38  conj018: done  dp0_ext=64.3 Pa  dp0_O=42.6 Pa  celdas=304900  t=1047.8 s
+2026-11-21 19:15:40  STOP encontrado: termino.
+2026-11-21 19:20:13  [panel] trabajador arrancado
+2026-11-21 19:20:24  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-21 19:20:24  conj019: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:20:25  [estudio] bayes_s1: se retoma con 27/40 simulaciones hechas
+2026-11-21 19:20:26  conj020: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:20:28  conj021: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:20:35  [estudio] cmaes_s1: se retoma con 19/40 simulaciones hechas
+2026-11-21 19:20:36  [estudio] cmaes_s1: estado reconstruido (19 evaluaciones, todas coinciden)
+2026-11-21 19:20:38  [estudio] patron_s1: se retoma con 5/40 simulaciones hechas
+2026-11-21 19:20:38  [estudio] patron_s1: estado reconstruido (5 evaluaciones, todas coinciden)
+2026-11-21 19:21:38  [estudio] bayes_s1: al reconstruir, la propuesta 9 no coincide con la guardada; se sigue con la guardada
+2026-11-21 19:22:05  [estudio] bayes_s1: estado reconstruido (27 evaluaciones, 3 sin coincidir)
+2026-11-21 19:39:28  conj020: done  dp0_ext=120.4 Pa  dp0_O=75.2 Pa  celdas=301778  t=1139.8 s
+2026-11-21 19:39:30  conj022: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:39:33  conj019: done  dp0_ext=121.4 Pa  dp0_O=85.6 Pa  celdas=307591  t=1147.5 s
+2026-11-21 19:39:35  conj023: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:39:37  conj021: done  dp0_ext=85.0 Pa  dp0_O=40.6 Pa  celdas=316040  t=1148.7 s
+2026-11-21 19:39:38  conj024: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:56:08  conj022: done  dp0_ext=122.3 Pa  dp0_O=56.9 Pa  celdas=293374  t=997.4 s
+2026-11-21 19:56:10  conj025: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:56:36  conj023: done  dp0_ext=88.8 Pa  dp0_O=68.3 Pa  celdas=306528  t=1020.6 s
+2026-11-21 19:56:39  conj026: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 19:56:51  conj024: done  dp0_ext=100.4 Pa  dp0_O=51.2 Pa  celdas=305151  t=1033.4 s
+2026-11-21 19:56:54  conj027: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:13:11  conj025: done  dp0_ext=141.2 Pa  dp0_O=61.1 Pa  celdas=299895  t=1021.2 s
+2026-11-21 20:13:14  conj028: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:14:13  conj026: done  dp0_ext=84.3 Pa  dp0_O=60.2 Pa  celdas=313441  t=1052.1 s
+2026-11-21 20:14:14  conj029: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:14:17  conj027: done  dp0_ext=74.5 Pa  dp0_O=48.3 Pa  celdas=311070  t=1043.7 s
+2026-11-21 20:14:19  conj030: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:34:14  conj028: done  dp0_ext=89.5 Pa  dp0_O=52.3 Pa  celdas=305471  t=1259.5 s
+2026-11-21 20:34:16  fina_D_ref2: empiezo (h=0.005, iter=1500, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:36:37  conj030: done  dp0_ext=75.2 Pa  dp0_O=44.7 Pa  celdas=307121  t=1336.4 s
+2026-11-21 20:36:40  fina_amp_bayes_s1_20: empiezo (h=0.005, iter=1500, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:36:42  conj029: done  dp0_ext=78.9 Pa  dp0_O=51.4 Pa  celdas=314860  t=1347.4 s
+2026-11-21 20:36:42  fina_bayes_s1_21: empiezo (h=0.005, iter=1500, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 20:37:06  [estudio] conj_bayes_s1: empieza con 45 casos ya calculados (espacio conjunto)
+2026-11-21 20:37:06  [estudio] conj_bayes_s1: estado reconstruido (0 evaluaciones, todas coinciden)
+2026-11-21 20:37:12  [estudio] conj_llmA_fisico_s1: empieza con 45 casos ya calculados (espacio conjunto)
+2026-11-21 20:44:16  [panel] LLM ollama gemma4:12b: respuesta en 422.3 s
+2026-11-21 21:43:07  fina_D_ref2: done  dp0_ext=58.1 Pa  dp0_O=36.3 Pa  celdas=695112  t=4129.9 s
+2026-11-21 21:43:08  amp_bayes_s1_26: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 21:45:32  fina_bayes_s1_21: done  dp0_ext=55.2 Pa  dp0_O=34.3 Pa  celdas=695067  t=4125.8 s
+2026-11-21 21:45:36  conj_bayes_s1_01: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 21:45:45  fina_amp_bayes_s1_20: done  dp0_ext=54.6 Pa  dp0_O=34.2 Pa  celdas=699304  t=4144.8 s
+2026-11-21 21:45:48  conj_llmA_fisico_s1_01: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 21:59:09  amp_bayes_s1_26: done  dp0_ext=53.3 Pa  dp0_O=35.5 Pa  celdas=296859  t=961.1 s
+2026-11-21 21:59:09  bayes_s1_28: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:02:39  conj_bayes_s1_01: done  dp0_ext=70.6 Pa  dp0_O=46.3 Pa  celdas=308730  t=1023.0 s
+2026-11-21 22:02:42  cmaes_s1_20: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:02:47  conj_llmA_fisico_s1_01: done  dp0_ext=54.3 Pa  dp0_O=35.5 Pa  celdas=300573  t=1018.8 s
+2026-11-21 22:02:50  patron_s1_06: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:03:01  [estudio] conj_bayes_s1: 1/60  conj_bayes_s1_01 = 70.6 Pa  (mejor 52.1)
+2026-11-21 22:03:01  [estudio] conj_llmA_fisico_s1: 1/40  conj_llmA_fisico_s1_01 = 54.3 Pa  (mejor 52.1)
+2026-11-21 22:09:48  [panel] LLM ollama gemma4:12b: respuesta en 404.8 s
+2026-11-21 22:18:25  bayes_s1_28: done  dp0_ext=55.8 Pa  dp0_O=35.2 Pa  celdas=294649  t=1155.8 s
+2026-11-21 22:18:28  conj_bayes_s1_02: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:18:36  [estudio] bayes_s1: 28/40  bayes_s1_28 = 55.8 Pa  (mejor 53.1)
+2026-11-21 22:21:53  patron_s1_06: done  dp0_ext=66.0 Pa  dp0_O=35.4 Pa  celdas=293965  t=1143.2 s
+2026-11-21 22:21:55  conj_llmA_fisico_s1_02: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:22:17  cmaes_s1_20: done  dp0_ext=69.2 Pa  dp0_O=41.8 Pa  celdas=292953  t=1175.6 s
+2026-11-21 22:22:18  [estudio] patron_s1: 6/40  patron_s1_06 = 66.0 Pa  (mejor 65.6)
+2026-11-21 22:22:19  bayes_s1_29: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:22:39  [estudio] cmaes_s1: 20/40  cmaes_s1_20 = 69.2 Pa  (mejor 64.6)
+2026-11-21 22:35:09  conj_bayes_s1_02: done  dp0_ext=56.7 Pa  dp0_O=36.5 Pa  celdas=303678  t=1000.6 s
+2026-11-21 22:35:12  cmaes_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:35:31  [estudio] conj_bayes_s1: 2/60  conj_bayes_s1_02 = 56.7 Pa  (mejor 52.1)
+2026-11-21 22:38:20  conj_llmA_fisico_s1_02: done  dp0_ext=53.2 Pa  dp0_O=34.6 Pa  celdas=297846  t=985.0 s
+2026-11-21 22:38:23  conj_bayes_s1_03: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:38:30  [estudio] conj_llmA_fisico_s1: 2/40  conj_llmA_fisico_s1_02 = 53.2 Pa  (mejor 52.1)
+2026-11-21 22:40:15  bayes_s1_29: done  dp0_ext=54.1 Pa  dp0_O=35.0 Pa  celdas=294200  t=1076.2 s
+2026-11-21 22:40:15  patron_s1_07: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:40:38  [estudio] bayes_s1: 29/40  bayes_s1_29 = 54.1 Pa  (mejor 53.1)
+2026-11-21 22:46:49  [panel] LLM ollama gemma4:12b: respuesta en 498.7 s
+2026-11-21 22:53:50  cmaes_s1_21: done  dp0_ext=88.0 Pa  dp0_O=49.6 Pa  celdas=290498  t=1118.3 s
+2026-11-21 22:53:51  conj_llmA_fisico_s1_03: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:54:13  [estudio] cmaes_s1: 21/40  cmaes_s1_21 = 88.0 Pa  (mejor 64.6)
+2026-11-21 22:59:41  patron_s1_07: done  dp0_ext=66.5 Pa  dp0_O=39.2 Pa  celdas=292289  t=1164.2 s
+2026-11-21 22:59:43  bayes_s1_30: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:59:45  conj_bayes_s1_03: done  dp0_ext=57.3 Pa  dp0_O=37.7 Pa  celdas=299759  t=1282.2 s
+2026-11-21 22:59:45  cmaes_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 22:59:53  [estudio] conj_bayes_s1: 3/60  conj_bayes_s1_03 = 57.3 Pa  (mejor 52.1)
+2026-11-21 23:00:06  [estudio] patron_s1: 7/40  patron_s1_07 = 66.5 Pa  (mejor 65.6)
+2026-11-21 23:10:02  conj_llmA_fisico_s1_03: done  dp0_ext=53.6 Pa  dp0_O=34.9 Pa  celdas=295850  t=971.2 s
+2026-11-21 23:10:02  conj_bayes_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:10:05  [estudio] conj_llmA_fisico_s1: 3/40  conj_llmA_fisico_s1_03 = 53.6 Pa  (mejor 52.1)
+2026-11-21 23:16:15  [panel] LLM ollama gemma4:12b: respuesta en 370.4 s
+2026-11-21 23:18:36  cmaes_s1_22: done  dp0_ext=78.1 Pa  dp0_O=41.0 Pa  celdas=289300  t=1130.5 s
+2026-11-21 23:18:39  conj_llmA_fisico_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:18:46  [estudio] cmaes_s1: 22/40  cmaes_s1_22 = 78.1 Pa  (mejor 64.6)
+2026-11-21 23:19:45  bayes_s1_30: done  dp0_ext=54.5 Pa  dp0_O=34.1 Pa  celdas=294948  t=1201.6 s
+2026-11-21 23:19:48  cmaes_s1_23: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:19:50  [estudio] bayes_s1: 30/40  bayes_s1_30 = 54.5 Pa  (mejor 53.1)
+2026-11-21 23:28:21  conj_bayes_s1_04: done  dp0_ext=56.0 Pa  dp0_O=37.5 Pa  celdas=297279  t=1098.3 s
+2026-11-21 23:28:22  bayes_s1_31: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:28:30  [estudio] conj_bayes_s1: 4/60  conj_bayes_s1_04 = 56.0 Pa  (mejor 52.1)
+2026-11-21 23:34:57  conj_llmA_fisico_s1_04: done  dp0_ext=52.5 Pa  dp0_O=34.8 Pa  celdas=297238  t=977.7 s
+2026-11-21 23:34:57  conj_bayes_s1_05: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:35:05  [estudio] conj_llmA_fisico_s1: 4/40  conj_llmA_fisico_s1_04 = 52.5 Pa  (mejor 52.1)
+2026-11-21 23:37:35  cmaes_s1_23: done  dp0_ext=72.9 Pa  dp0_O=41.4 Pa  celdas=294227  t=1067.0 s
+2026-11-21 23:37:36  patron_s1_08: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:37:40  [estudio] cmaes_s1: 23/40  cmaes_s1_23 = 72.9 Pa  (mejor 64.6)
+2026-11-21 23:41:37  [panel] LLM ollama gemma4:12b: respuesta en 389.7 s
+2026-11-21 23:48:22  bayes_s1_31: done  dp0_ext=70.8 Pa  dp0_O=38.1 Pa  celdas=291363  t=1200.8 s
+2026-11-21 23:48:23  conj_llmA_fisico_s1_05: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:48:32  [estudio] bayes_s1: 31/40  bayes_s1_31 = 70.8 Pa  (mejor 53.1)
+2026-11-21 23:53:26  conj_bayes_s1_05: done  dp0_ext=64.8 Pa  dp0_O=46.7 Pa  celdas=300876  t=1108.8 s
+2026-11-21 23:53:27  bayes_s1_32: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:53:33  [estudio] conj_bayes_s1: 5/60  conj_bayes_s1_05 = 64.8 Pa  (mejor 52.1)
+2026-11-21 23:56:26  patron_s1_08: done  dp0_ext=67.8 Pa  dp0_O=38.4 Pa  celdas=292787  t=1129.7 s
+2026-11-21 23:56:28  conj_bayes_s1_06: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-21 23:56:49  [estudio] patron_s1: 8/40  patron_s1_08 = 67.8 Pa  (mejor 65.6)
+2026-11-22 00:04:28  conj_llmA_fisico_s1_05: done  dp0_ext=52.8 Pa  dp0_O=34.6 Pa  celdas=297151  t=965.3 s
+2026-11-22 00:04:30  [estudio] conj_llmA_fisico_s1: 5/40  conj_llmA_fisico_s1_05 = 52.8 Pa  (mejor 52.1)
+2026-11-22 00:04:31  cmaes_s1_24: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:14:23  [panel] LLM ollama gemma4:12b: respuesta en 592.1 s
+2026-11-22 00:14:32  bayes_s1_32: done  dp0_ext=63.6 Pa  dp0_O=36.6 Pa  celdas=293851  t=1265.7 s
+2026-11-22 00:14:35  conj_llmA_fisico_s1_06: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:14:49  [estudio] bayes_s1: 32/40  bayes_s1_32 = 63.6 Pa  (mejor 53.1)
+2026-11-22 00:16:28  conj_bayes_s1_06: done  dp0_ext=55.7 Pa  dp0_O=38.6 Pa  celdas=294793  t=1199.7 s
+2026-11-22 00:16:30  bayes_s1_33: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:16:30  [estudio] conj_bayes_s1: 6/60  conj_bayes_s1_06 = 55.7 Pa  (mejor 52.1)
+2026-11-22 00:24:17  cmaes_s1_24: done  dp0_ext=71.4 Pa  dp0_O=42.8 Pa  celdas=291374  t=1185.8 s
+2026-11-22 00:24:17  conj_bayes_s1_07: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:24:23  [estudio] cmaes_s1: 24/40  cmaes_s1_24 = 71.4 Pa  (mejor 64.6)
+2026-11-22 00:31:08  conj_llmA_fisico_s1_06: done  dp0_ext=53.2 Pa  dp0_O=34.2 Pa  celdas=297780  t=992.5 s
+2026-11-22 00:31:11  cmaes_s1_25: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:31:12  [estudio] conj_llmA_fisico_s1: 6/40  conj_llmA_fisico_s1_06 = 53.2 Pa  (mejor 52.1)
+2026-11-22 00:35:35  bayes_s1_33: done  dp0_ext=54.4 Pa  dp0_O=33.8 Pa  celdas=294139  t=1145.4 s
+2026-11-22 00:35:36  patron_s1_09: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:36:01  [estudio] bayes_s1: 33/40  bayes_s1_33 = 54.4 Pa  (mejor 53.1)
+2026-11-22 00:37:50  [panel] LLM ollama gemma4:12b: respuesta en 394.9 s
+2026-11-22 00:42:33  conj_bayes_s1_07: done  dp0_ext=61.5 Pa  dp0_O=41.6 Pa  celdas=304664  t=1095.6 s
+2026-11-22 00:42:34  conj_llmA_fisico_s1_07: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:42:41  [estudio] conj_bayes_s1: 7/60  conj_bayes_s1_07 = 61.5 Pa  (mejor 52.1)
+2026-11-22 00:50:31  cmaes_s1_25: done  dp0_ext=68.4 Pa  dp0_O=42.1 Pa  celdas=288963  t=1160.3 s
+2026-11-22 00:50:32  conj_bayes_s1_08: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:50:54  [estudio] cmaes_s1: 25/40  cmaes_s1_25 = 68.4 Pa  (mejor 64.6)
+2026-11-22 00:53:30  patron_s1_09: done  dp0_ext=64.3 Pa  dp0_O=36.5 Pa  celdas=291370  t=1073.7 s
+2026-11-22 00:53:31  bayes_s1_34: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:53:41  [estudio] patron_s1: 9/40  patron_s1_09 = 64.3 Pa  (mejor 64.3)
+2026-11-22 00:59:15  conj_llmA_fisico_s1_07: done  dp0_ext=52.9 Pa  dp0_O=34.7 Pa  celdas=295966  t=1001.6 s
+2026-11-22 00:59:17  cmaes_s1_26: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 00:59:21  [estudio] conj_llmA_fisico_s1: 7/40  conj_llmA_fisico_s1_07 = 52.9 Pa  (mejor 52.1)
+2026-11-22 01:04:46  [panel] LLM ollama gemma4:12b: respuesta en 323.4 s
+2026-11-22 01:09:12  conj_bayes_s1_08: done  dp0_ext=66.3 Pa  dp0_O=43.8 Pa  celdas=315922  t=1120.0 s
+2026-11-22 01:09:15  conj_llmA_fisico_s1_08: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:09:34  [estudio] conj_bayes_s1: 8/60  conj_bayes_s1_08 = 66.3 Pa  (mejor 52.1)
+2026-11-22 01:13:12  bayes_s1_34: done  dp0_ext=53.9 Pa  dp0_O=35.1 Pa  celdas=295039  t=1181.3 s
+2026-11-22 01:13:14  conj_bayes_s1_09: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:13:17  [estudio] bayes_s1: 34/40  bayes_s1_34 = 53.9 Pa  (mejor 53.1)
+2026-11-22 01:17:53  cmaes_s1_26: done  dp0_ext=72.9 Pa  dp0_O=43.5 Pa  celdas=292426  t=1116.1 s
+2026-11-22 01:17:54  bayes_s1_35: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:17:58  [estudio] cmaes_s1: 26/40  cmaes_s1_26 = 72.9 Pa  (mejor 64.6)
+2026-11-22 01:25:49  conj_llmA_fisico_s1_08: done  dp0_ext=52.7 Pa  dp0_O=34.5 Pa  celdas=295955  t=993.8 s
+2026-11-22 01:25:51  cmaes_s1_27: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:26:01  [estudio] conj_llmA_fisico_s1: 8/40  conj_llmA_fisico_s1_08 = 52.7 Pa  (mejor 52.1)
+2026-11-22 01:32:48  conj_bayes_s1_09: done  dp0_ext=64.3 Pa  dp0_O=36.5 Pa  celdas=296908  t=1173.2 s
+2026-11-22 01:32:48  patron_s1_10: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:33:11  [estudio] conj_bayes_s1: 9/60  conj_bayes_s1_09 = 64.3 Pa  (mejor 52.1)
+2026-11-22 01:33:56  [panel] LLM ollama gemma4:12b: respuesta en 473.7 s
+2026-11-22 01:38:42  bayes_s1_35: done  dp0_ext=53.1 Pa  dp0_O=34.2 Pa  celdas=295028  t=1248.7 s
+2026-11-22 01:38:44  conj_bayes_s1_10: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:38:53  [estudio] bayes_s1: 35/40  bayes_s1_35 = 53.1 Pa  (mejor 53.1)
+2026-11-22 01:44:46  cmaes_s1_27: done  dp0_ext=82.4 Pa  dp0_O=43.7 Pa  celdas=289401  t=1135.2 s
+2026-11-22 01:44:48  conj_llmA_fisico_s1_09: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:45:01  [estudio] cmaes_s1: 27/40  cmaes_s1_27 = 82.4 Pa  (mejor 64.6)
+2026-11-22 01:50:28  patron_s1_10: done  dp0_ext=66.8 Pa  dp0_O=37.6 Pa  celdas=290567  t=1060.1 s
+2026-11-22 01:50:29  bayes_s1_36: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:50:30  [estudio] patron_s1: 10/40  patron_s1_10 = 66.8 Pa  (mejor 64.3)
+2026-11-22 01:55:12  conj_bayes_s1_10: done  dp0_ext=62.2 Pa  dp0_O=41.6 Pa  celdas=303791  t=988.4 s
+2026-11-22 01:55:14  cmaes_s1_28: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 01:55:35  [estudio] conj_bayes_s1: 10/60  conj_bayes_s1_10 = 62.2 Pa  (mejor 52.1)
+2026-11-22 02:00:56  conj_llmA_fisico_s1_09: done  dp0_ext=53.2 Pa  dp0_O=34.4 Pa  celdas=295944  t=967.9 s
+2026-11-22 02:00:57  conj_bayes_s1_11: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:01:19  [estudio] conj_llmA_fisico_s1: 9/40  conj_llmA_fisico_s1_09 = 53.2 Pa  (mejor 52.1)
+2026-11-22 02:10:33  bayes_s1_36: done  dp0_ext=54.5 Pa  dp0_O=35.2 Pa  celdas=294459  t=1204.6 s
+2026-11-22 02:10:35  patron_s1_11: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:10:39  [estudio] bayes_s1: 36/40  bayes_s1_36 = 54.5 Pa  (mejor 53.1)
+2026-11-22 02:11:13  [panel] LLM ollama gemma4:12b: respuesta en 592.4 s
+2026-11-22 02:15:13  cmaes_s1_28: done  dp0_ext=78.6 Pa  dp0_O=44.1 Pa  celdas=289998  t=1199.4 s
+2026-11-22 02:15:15  conj_llmA_fisico_s1_10: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:15:36  [estudio] cmaes_s1: 28/40  cmaes_s1_28 = 78.6 Pa  (mejor 64.6)
+2026-11-22 02:20:42  conj_bayes_s1_11: done  dp0_ext=55.4 Pa  dp0_O=37.4 Pa  celdas=299882  t=1185.2 s
+2026-11-22 02:20:43  bayes_s1_37: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:20:51  [estudio] conj_bayes_s1: 11/60  conj_bayes_s1_11 = 55.4 Pa  (mejor 52.1)
+2026-11-22 02:27:44  patron_s1_11: done  dp0_ext=70.6 Pa  dp0_O=37.3 Pa  celdas=290242  t=1028.7 s
+2026-11-22 02:27:45  conj_bayes_s1_12: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:28:07  [estudio] patron_s1: 11/40  patron_s1_11 = 70.6 Pa  (mejor 64.3)
+2026-11-22 02:31:41  conj_llmA_fisico_s1_10: done  dp0_ext=53.6 Pa  dp0_O=34.2 Pa  celdas=297049  t=985.7 s
+2026-11-22 02:31:41  cmaes_s1_29: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:32:03  [estudio] conj_llmA_fisico_s1: 10/40  conj_llmA_fisico_s1_10 = 53.6 Pa  (mejor 52.1)
+2026-11-22 02:39:05  [panel] LLM ollama gemma4:12b: respuesta en 421.0 s
+2026-11-22 02:39:20  bayes_s1_37: done  dp0_ext=53.2 Pa  dp0_O=34.1 Pa  celdas=294998  t=1117.5 s
+2026-11-22 02:39:23  conj_llmA_fisico_s1_11: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:39:30  [estudio] bayes_s1: 37/40  bayes_s1_37 = 53.2 Pa  (mejor 53.1)
+2026-11-22 02:46:54  conj_bayes_s1_12: done  dp0_ext=56.4 Pa  dp0_O=38.5 Pa  celdas=298791  t=1149.5 s
+2026-11-22 02:46:56  bayes_s1_38: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:47:12  [estudio] conj_bayes_s1: 12/60  conj_bayes_s1_12 = 56.4 Pa  (mejor 52.1)
+2026-11-22 02:51:07  cmaes_s1_29: done  dp0_ext=71.3 Pa  dp0_O=39.8 Pa  celdas=289425  t=1165.3 s
+2026-11-22 02:51:07  conj_bayes_s1_13: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:51:18  [estudio] cmaes_s1: 29/40  cmaes_s1_29 = 71.3 Pa  (mejor 64.6)
+2026-11-22 02:56:12  conj_llmA_fisico_s1_11: done  dp0_ext=53.7 Pa  dp0_O=35.1 Pa  celdas=299008  t=1009.2 s
+2026-11-22 02:56:14  cmaes_s1_30: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 02:56:17  [estudio] conj_llmA_fisico_s1: 11/40  conj_llmA_fisico_s1_11 = 53.7 Pa  (mejor 52.1)
+2026-11-22 03:05:16  [panel] LLM ollama gemma4:12b: respuesta en 538.8 s
+2026-11-22 03:07:30  bayes_s1_38: done  dp0_ext=53.7 Pa  dp0_O=34.8 Pa  celdas=295485  t=1233.5 s
+2026-11-22 03:07:31  conj_llmA_fisico_s1_12: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:07:53  [estudio] bayes_s1: 38/40  bayes_s1_38 = 53.7 Pa  (mejor 53.1)
+2026-11-22 03:10:24  conj_bayes_s1_13: done  dp0_ext=72.0 Pa  dp0_O=49.3 Pa  celdas=308076  t=1156.4 s
+2026-11-22 03:10:24  bayes_s1_39: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:10:29  [estudio] conj_bayes_s1: 13/60  conj_bayes_s1_13 = 72.0 Pa  (mejor 52.1)
+2026-11-22 03:15:57  cmaes_s1_30: done  dp0_ext=62.9 Pa  dp0_O=38.9 Pa  celdas=293898  t=1183.0 s
+2026-11-22 03:15:58  conj_bayes_s1_14: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:15:59  [estudio] cmaes_s1: 30/40  cmaes_s1_30 = 62.9 Pa  (mejor 62.9)
+2026-11-22 03:23:55  conj_llmA_fisico_s1_12: done  dp0_ext=53.5 Pa  dp0_O=34.5 Pa  celdas=295940  t=984.1 s
+2026-11-22 03:23:55  cmaes_s1_31: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:24:18  [estudio] conj_llmA_fisico_s1: 12/40  conj_llmA_fisico_s1_12 = 53.5 Pa  (mejor 52.1)
+2026-11-22 03:30:27  bayes_s1_39: done  dp0_ext=53.8 Pa  dp0_O=34.5 Pa  celdas=295486  t=1202.4 s
+2026-11-22 03:30:30  patron_s1_12: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:30:51  [estudio] bayes_s1: 39/40  bayes_s1_39 = 53.8 Pa  (mejor 53.1)
+2026-11-22 03:30:55  [panel] LLM ollama gemma4:12b: respuesta en 395.2 s
+2026-11-22 03:34:25  conj_bayes_s1_14: done  dp0_ext=55.8 Pa  dp0_O=38.9 Pa  celdas=296010  t=1106.5 s
+2026-11-22 03:34:26  conj_llmA_fisico_s1_13: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:34:36  [estudio] conj_bayes_s1: 14/60  conj_bayes_s1_14 = 55.8 Pa  (mejor 52.1)
+2026-11-22 03:42:42  cmaes_s1_31: done  dp0_ext=71.4 Pa  dp0_O=40.7 Pa  celdas=293327  t=1127.1 s
+2026-11-22 03:42:43  conj_bayes_s1_15: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:43:05  [estudio] cmaes_s1: 31/40  cmaes_s1_31 = 71.4 Pa  (mejor 62.9)
+2026-11-22 03:47:34  patron_s1_12: done  dp0_ext=63.7 Pa  dp0_O=38.3 Pa  celdas=291249  t=1024.5 s
+2026-11-22 03:47:37  bayes_s1_40: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:47:47  [estudio] patron_s1: 12/40  patron_s1_12 = 63.7 Pa  (mejor 63.7)
+2026-11-22 03:50:49  conj_llmA_fisico_s1_13: done  dp0_ext=53.8 Pa  dp0_O=35.3 Pa  celdas=295975  t=982.0 s
+2026-11-22 03:50:51  cmaes_s1_32: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 03:50:56  [estudio] conj_llmA_fisico_s1: 13/40  conj_llmA_fisico_s1_13 = 53.8 Pa  (mejor 52.1)
+2026-11-22 03:57:50  [panel] LLM ollama gemma4:12b: respuesta en 411.7 s
+2026-11-22 04:02:25  conj_bayes_s1_15: done  dp0_ext=62.6 Pa  dp0_O=38.2 Pa  celdas=303639  t=1182.4 s
+2026-11-22 04:02:28  conj_llmA_fisico_s1_14: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:02:29  [estudio] conj_bayes_s1: 15/60  conj_bayes_s1_15 = 62.6 Pa  (mejor 52.1)
+2026-11-22 04:07:41  bayes_s1_40: done  dp0_ext=54.7 Pa  dp0_O=35.3 Pa  celdas=295458  t=1203.6 s
+2026-11-22 04:07:41  conj_bayes_s1_16: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:08:00  [estudio] bayes_s1: 40/40  bayes_s1_40 = 54.7 Pa  (mejor 53.1)
+2026-11-22 04:08:00  [estudio] bayes_s1: terminado
+2026-11-22 04:08:15  [estudio] llmA_fisico_s1: empieza con 8 casos ya calculados (espacio base)
+2026-11-22 04:11:01  cmaes_s1_32: done  dp0_ext=73.9 Pa  dp0_O=42.2 Pa  celdas=293219  t=1209.7 s
+2026-11-22 04:11:03  patron_s1_13: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:11:28  [estudio] cmaes_s1: 32/40  cmaes_s1_32 = 73.9 Pa  (mejor 62.9)
+2026-11-22 04:18:14  [panel] LLM ollama gemma4:12b: respuesta en 596.3 s
+2026-11-22 04:22:35  [panel] LLM ollama gemma4:12b: respuesta en 255.0 s
+2026-11-22 04:22:44  conj_llmA_fisico_s1_14: done  dp0_ext=54.3 Pa  dp0_O=34.7 Pa  celdas=297004  t=1215.4 s
+2026-11-22 04:22:44  cmaes_s1_33: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:22:49  [estudio] conj_llmA_fisico_s1: 14/40  conj_llmA_fisico_s1_14 = 54.3 Pa  (mejor 52.1)
+2026-11-22 04:32:42  conj_bayes_s1_16: done  dp0_ext=58.2 Pa  dp0_O=38.2 Pa  celdas=298255  t=1501.0 s
+2026-11-22 04:32:43  llmA_fisico_s1_01: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:32:54  [estudio] conj_bayes_s1: 16/60  conj_bayes_s1_16 = 58.2 Pa  (mejor 52.1)
+2026-11-22 04:34:21  patron_s1_13: done  dp0_ext=66.5 Pa  dp0_O=39.2 Pa  celdas=290976  t=1397.7 s
+2026-11-22 04:34:24  conj_bayes_s1_17: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:34:28  [estudio] patron_s1: 13/40  patron_s1_13 = 66.5 Pa  (mejor 63.7)
+2026-11-22 04:39:04  [panel] LLM ollama gemma4:12b: respuesta en 973.7 s
+2026-11-22 04:45:24  cmaes_s1_33: done  dp0_ext=73.2 Pa  dp0_O=41.4 Pa  celdas=290873  t=1359.9 s
+2026-11-22 04:45:25  conj_llmA_fisico_s1_15: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:45:47  [estudio] cmaes_s1: 33/40  cmaes_s1_33 = 73.2 Pa  (mejor 62.9)
+2026-11-22 04:52:27  llmA_fisico_s1_01: done  dp0_ext=72.5 Pa  dp0_O=42.6 Pa  celdas=292249  t=1183.5 s
+2026-11-22 04:52:28  cmaes_s1_34: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:52:50  [estudio] llmA_fisico_s1: 1/40  llmA_fisico_s1_01 = 72.5 Pa  (mejor 72.4)
+2026-11-22 04:54:48  conj_bayes_s1_17: done  dp0_ext=69.1 Pa  dp0_O=45.9 Pa  celdas=316763  t=1224.1 s
+2026-11-22 04:54:51  patron_s1_14: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 04:55:12  [estudio] conj_bayes_s1: 17/60  conj_bayes_s1_17 = 69.1 Pa  (mejor 52.1)
+2026-11-22 04:58:13  [panel] LLM ollama gemma4:12b: respuesta en 320.7 s
+2026-11-22 05:03:23  conj_llmA_fisico_s1_15: done  dp0_ext=53.3 Pa  dp0_O=35.3 Pa  celdas=296107  t=1077.9 s
+2026-11-22 05:03:25  conj_bayes_s1_18: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:03:34  [estudio] conj_llmA_fisico_s1: 15/40  conj_llmA_fisico_s1_15 = 53.3 Pa  (mejor 52.1)
+2026-11-22 05:10:36  [panel] LLM ollama gemma4:12b: respuesta en 419.3 s
+2026-11-22 05:13:22  cmaes_s1_34: done  dp0_ext=69.2 Pa  dp0_O=41.0 Pa  celdas=293864  t=1253.0 s
+2026-11-22 05:13:22  conj_llmA_fisico_s1_16: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:13:32  [estudio] cmaes_s1: 34/40  cmaes_s1_34 = 69.2 Pa  (mejor 62.9)
+2026-11-22 05:14:45  patron_s1_14: done  dp0_ext=70.6 Pa  dp0_O=38.5 Pa  celdas=290875  t=1193.7 s
+2026-11-22 05:14:46  cmaes_s1_35: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:14:49  [estudio] patron_s1: 14/40  patron_s1_14 = 70.6 Pa  (mejor 63.7)
+2026-11-22 05:23:06  conj_bayes_s1_18: done  dp0_ext=61.3 Pa  dp0_O=39.9 Pa  celdas=296269  t=1180.4 s
+2026-11-22 05:23:07  llmA_fisico_s1_02: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:23:28  [estudio] conj_bayes_s1: 18/60  conj_bayes_s1_18 = 61.3 Pa  (mejor 52.1)
+2026-11-22 05:30:06  conj_llmA_fisico_s1_16: done  dp0_ext=53.2 Pa  dp0_O=34.7 Pa  celdas=296124  t=1004.6 s
+2026-11-22 05:30:07  conj_bayes_s1_19: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:30:30  [estudio] conj_llmA_fisico_s1: 16/40  conj_llmA_fisico_s1_16 = 53.2 Pa  (mejor 52.1)
+2026-11-22 05:32:31  cmaes_s1_35: done  dp0_ext=70.1 Pa  dp0_O=41.8 Pa  celdas=290556  t=1065.1 s
+2026-11-22 05:32:33  patron_s1_15: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:32:53  [estudio] cmaes_s1: 35/40  cmaes_s1_35 = 70.1 Pa  (mejor 62.9)
+2026-11-22 05:36:31  [panel] LLM ollama gemma4:12b: respuesta en 360.3 s
+2026-11-22 05:42:17  llmA_fisico_s1_02: done  dp0_ext=73.3 Pa  dp0_O=42.8 Pa  celdas=292556  t=1149.8 s
+2026-11-22 05:42:19  conj_llmA_fisico_s1_17: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:42:37  [estudio] llmA_fisico_s1: 2/40  llmA_fisico_s1_02 = 73.3 Pa  (mejor 72.4)
+2026-11-22 05:48:06  [panel] LLM ollama gemma4:12b: respuesta en 326.3 s
+2026-11-22 05:51:53  conj_bayes_s1_19: done  dp0_ext=131.5 Pa  dp0_O=49.1 Pa  celdas=295792  t=1305.4 s
+2026-11-22 05:51:53  cmaes_s1_36: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:51:55  [estudio] conj_bayes_s1: 19/60  conj_bayes_s1_19 = 131.5 Pa  (mejor 52.1)
+2026-11-22 05:52:29  patron_s1_15: done  dp0_ext=65.2 Pa  dp0_O=38.1 Pa  celdas=294565  t=1196.0 s
+2026-11-22 05:52:30  conj_bayes_s1_20: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 05:52:36  [estudio] patron_s1: 15/40  patron_s1_15 = 65.2 Pa  (mejor 63.7)
+2026-11-22 06:00:07  conj_llmA_fisico_s1_17: done  dp0_ext=52.8 Pa  dp0_O=34.7 Pa  celdas=296005  t=1067.6 s
+2026-11-22 06:00:09  llmA_fisico_s1_03: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:00:29  [estudio] conj_llmA_fisico_s1: 17/40  conj_llmA_fisico_s1_17 = 52.8 Pa  (mejor 52.1)
+2026-11-22 06:05:41  [panel] LLM ollama gemma4:12b: respuesta en 309.9 s
+2026-11-22 06:10:20  cmaes_s1_36: done  dp0_ext=77.2 Pa  dp0_O=41.8 Pa  celdas=290834  t=1106.1 s
+2026-11-22 06:10:23  conj_llmA_fisico_s1_18: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:10:29  [estudio] cmaes_s1: 36/40  cmaes_s1_36 = 77.2 Pa  (mejor 62.9)
+2026-11-22 06:11:43  conj_bayes_s1_20: done  dp0_ext=55.4 Pa  dp0_O=38.0 Pa  celdas=297792  t=1152.8 s
+2026-11-22 06:11:44  cmaes_s1_37: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:11:47  [estudio] conj_bayes_s1: 20/60  conj_bayes_s1_20 = 55.4 Pa  (mejor 52.1)
+2026-11-22 06:18:35  llmA_fisico_s1_03: done  dp0_ext=67.3 Pa  dp0_O=42.7 Pa  celdas=293872  t=1105.9 s
+2026-11-22 06:18:38  conj_bayes_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:18:52  [estudio] llmA_fisico_s1: 3/40  llmA_fisico_s1_03 = 67.3 Pa  (mejor 67.3)
+2026-11-22 06:24:38  [panel] LLM ollama gemma4:12b: respuesta en 344.6 s
+2026-11-22 06:28:31  conj_llmA_fisico_s1_18: done  dp0_ext=53.1 Pa  dp0_O=34.9 Pa  celdas=295906  t=1088.2 s
+2026-11-22 06:28:32  llmA_fisico_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:28:54  [estudio] conj_llmA_fisico_s1: 18/40  conj_llmA_fisico_s1_18 = 53.1 Pa  (mejor 52.1)
+2026-11-22 06:30:47  cmaes_s1_37: done  dp0_ext=74.9 Pa  dp0_O=43.9 Pa  celdas=291197  t=1142.0 s
+2026-11-22 06:30:49  patron_s1_16: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:31:12  [estudio] cmaes_s1: 37/40  cmaes_s1_37 = 74.9 Pa  (mejor 62.9)
+2026-11-22 06:37:34  [panel] LLM ollama gemma4:12b: respuesta en 518.5 s
+2026-11-22 06:40:00  conj_bayes_s1_21: done  dp0_ext=64.2 Pa  dp0_O=40.2 Pa  celdas=310004  t=1282.4 s
+2026-11-22 06:40:03  conj_llmA_fisico_s1_19: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:40:05  [estudio] conj_bayes_s1: 21/60  conj_bayes_s1_21 = 64.2 Pa  (mejor 52.1)
+2026-11-22 06:48:23  llmA_fisico_s1_04: done  dp0_ext=69.4 Pa  dp0_O=42.8 Pa  celdas=293964  t=1191.2 s
+2026-11-22 06:48:25  conj_bayes_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:48:46  [estudio] llmA_fisico_s1: 4/40  llmA_fisico_s1_04 = 69.4 Pa  (mejor 67.3)
+2026-11-22 06:51:17  patron_s1_16: done  dp0_ext=65.9 Pa  dp0_O=40.5 Pa  celdas=291599  t=1227.2 s
+2026-11-22 06:51:19  cmaes_s1_38: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:51:28  [estudio] patron_s1: 16/40  patron_s1_16 = 65.9 Pa  (mejor 63.7)
+2026-11-22 06:54:05  [panel] LLM ollama gemma4:12b: respuesta en 318.1 s
+2026-11-22 06:58:26  conj_llmA_fisico_s1_19: done  dp0_ext=54.5 Pa  dp0_O=34.8 Pa  celdas=298822  t=1102.8 s
+2026-11-22 06:58:28  llmA_fisico_s1_05: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 06:58:30  [estudio] conj_llmA_fisico_s1: 19/40  conj_llmA_fisico_s1_19 = 54.5 Pa  (mejor 52.1)
+2026-11-22 07:06:23  [panel] LLM ollama gemma4:12b: respuesta en 471.6 s
+2026-11-22 07:09:00  conj_bayes_s1_22: done  dp0_ext=130.3 Pa  dp0_O=95.6 Pa  celdas=312281  t=1234.6 s
+2026-11-22 07:09:00  conj_llmA_fisico_s1_20: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:09:23  [estudio] conj_bayes_s1: 22/60  conj_bayes_s1_22 = 130.3 Pa  (mejor 52.1)
+2026-11-22 07:11:24  cmaes_s1_38: done  dp0_ext=81.7 Pa  dp0_O=46.9 Pa  celdas=291450  t=1204.9 s
+2026-11-22 07:11:25  conj_bayes_s1_23: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:11:35  [estudio] cmaes_s1: 38/40  cmaes_s1_38 = 81.7 Pa  (mejor 62.9)
+2026-11-22 07:17:49  llmA_fisico_s1_05: done  dp0_ext=69.1 Pa  dp0_O=43.7 Pa  celdas=293840  t=1160.6 s
+2026-11-22 07:17:51  cmaes_s1_39: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:18:02  [estudio] llmA_fisico_s1: 5/40  llmA_fisico_s1_05 = 69.1 Pa  (mejor 67.3)
+2026-11-22 07:25:11  [panel] LLM ollama gemma4:12b: respuesta en 428.5 s
+2026-11-22 07:27:13  conj_llmA_fisico_s1_20: done  dp0_ext=53.0 Pa  dp0_O=34.2 Pa  celdas=295960  t=1092.4 s
+2026-11-22 07:27:14  llmA_fisico_s1_06: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:27:35  [estudio] conj_llmA_fisico_s1: 20/40  conj_llmA_fisico_s1_20 = 53.0 Pa  (mejor 52.1)
+2026-11-22 07:33:11  conj_bayes_s1_23: done  dp0_ext=54.6 Pa  dp0_O=34.2 Pa  celdas=298042  t=1305.4 s
+2026-11-22 07:33:13  patron_s1_17: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:33:39  [estudio] conj_bayes_s1: 23/60  conj_bayes_s1_23 = 54.6 Pa  (mejor 52.1)
+2026-11-22 07:34:32  [panel] LLM ollama gemma4:12b: respuesta en 416.6 s
+2026-11-22 07:39:04  cmaes_s1_39: done  dp0_ext=60.0 Pa  dp0_O=36.6 Pa  celdas=293056  t=1272.0 s
+2026-11-22 07:39:06  conj_bayes_s1_24: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:39:15  [estudio] cmaes_s1: 39/40  cmaes_s1_39 = 60.0 Pa  (mejor 60.0)
+2026-11-22 07:46:30  llmA_fisico_s1_06: done  dp0_ext=69.5 Pa  dp0_O=42.5 Pa  celdas=293977  t=1155.9 s
+2026-11-22 07:46:33  conj_llmA_fisico_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:46:52  [estudio] llmA_fisico_s1: 6/40  llmA_fisico_s1_06 = 69.5 Pa  (mejor 67.3)
+2026-11-22 07:52:10  [panel] LLM ollama gemma4:12b: respuesta en 317.4 s
+2026-11-22 07:52:31  patron_s1_17: done  dp0_ext=64.9 Pa  dp0_O=39.0 Pa  celdas=292888  t=1158.1 s
+2026-11-22 07:52:33  cmaes_s1_40: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:52:36  [estudio] patron_s1: 17/40  patron_s1_17 = 64.9 Pa  (mejor 63.7)
+2026-11-22 07:57:41  conj_bayes_s1_24: done  dp0_ext=79.7 Pa  dp0_O=59.0 Pa  celdas=310871  t=1114.6 s
+2026-11-22 07:57:42  llmA_fisico_s1_07: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 07:57:44  [estudio] conj_bayes_s1: 24/60  conj_bayes_s1_24 = 79.7 Pa  (mejor 52.1)
+2026-11-22 08:04:28  conj_llmA_fisico_s1_21: done  dp0_ext=53.5 Pa  dp0_O=34.7 Pa  celdas=295982  t=1075.1 s
+2026-11-22 08:04:29  conj_bayes_s1_25: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:04:52  [estudio] conj_llmA_fisico_s1: 21/40  conj_llmA_fisico_s1_21 = 53.5 Pa  (mejor 52.1)
+2026-11-22 08:11:58  cmaes_s1_40: done  dp0_ext=76.2 Pa  dp0_O=41.7 Pa  celdas=290331  t=1164.6 s
+2026-11-22 08:11:59  patron_s1_18: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:12:25  [estudio] cmaes_s1: 40/40  cmaes_s1_40 = 76.2 Pa  (mejor 60.0)
+2026-11-22 08:12:25  [estudio] cmaes_s1: terminado
+2026-11-22 08:12:36  [estudio] llmA_ciego_s1: empieza con 8 casos ya calculados (espacio base)
+2026-11-22 08:19:27  llmA_fisico_s1_07: done  dp0_ext=70.8 Pa  dp0_O=42.9 Pa  celdas=294070  t=1304.6 s
+2026-11-22 08:19:39  [panel] LLM ollama gemma4:12b: respuesta en 885.8 s
+2026-11-22 08:19:46  conj_llmA_fisico_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:19:54  [estudio] llmA_fisico_s1: 7/40  llmA_fisico_s1_07 = 70.8 Pa  (mejor 67.3)
+2026-11-22 08:24:29  [panel] LLM ollama gemma4:12b: respuesta en 287.4 s
+2026-11-22 08:29:43  [panel] LLM ollama gemma4:12b: respuesta en 311.0 s
+2026-11-22 08:30:09  conj_bayes_s1_25: done  dp0_ext=70.6 Pa  dp0_O=46.9 Pa  celdas=317514  t=1539.9 s
+2026-11-22 08:30:10  llmA_ciego_s1_01: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:30:32  [estudio] conj_bayes_s1: 25/60  conj_bayes_s1_25 = 70.6 Pa  (mejor 52.1)
+2026-11-22 08:32:51  patron_s1_18: done  dp0_ext=64.9 Pa  dp0_O=38.2 Pa  celdas=291628  t=1251.8 s
+2026-11-22 08:32:54  conj_bayes_s1_26: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:33:10  [estudio] patron_s1: 18/40  patron_s1_18 = 64.9 Pa  (mejor 63.7)
+2026-11-22 08:39:20  conj_llmA_fisico_s1_22: done  dp0_ext=52.9 Pa  dp0_O=34.5 Pa  celdas=295917  t=1173.8 s
+2026-11-22 08:39:23  llmA_fisico_s1_08: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:39:44  [estudio] conj_llmA_fisico_s1: 22/40  conj_llmA_fisico_s1_22 = 52.9 Pa  (mejor 52.1)
+2026-11-22 08:49:13  [panel] LLM ollama gemma4:12b: respuesta en 566.3 s
+2026-11-22 08:49:35  llmA_ciego_s1_01: done  dp0_ext=72.6 Pa  dp0_O=42.5 Pa  celdas=292819  t=1164.6 s
+2026-11-22 08:49:38  conj_llmA_fisico_s1_23: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:49:48  [estudio] llmA_ciego_s1: 1/40  llmA_ciego_s1_01 = 72.6 Pa  (mejor 72.4)
+2026-11-22 08:54:00  conj_bayes_s1_26: done  dp0_ext=56.2 Pa  dp0_O=37.7 Pa  celdas=295856  t=1266.0 s
+2026-11-22 08:54:02  patron_s1_19: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 08:54:27  [estudio] conj_bayes_s1: 26/60  conj_bayes_s1_26 = 56.2 Pa  (mejor 52.1)
+2026-11-22 08:55:32  [panel] LLM ollama gemma4:12b: respuesta en 343.7 s
+2026-11-22 09:00:44  llmA_fisico_s1_08: done  dp0_ext=70.2 Pa  dp0_O=44.0 Pa  celdas=294090  t=1280.9 s
+2026-11-22 09:00:47  conj_bayes_s1_27: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:01:07  [estudio] llmA_fisico_s1: 8/40  llmA_fisico_s1_08 = 70.2 Pa  (mejor 67.3)
+2026-11-22 09:08:47  [panel] LLM ollama gemma4:12b: respuesta en 458.6 s
+2026-11-22 09:10:18  conj_llmA_fisico_s1_23: done  dp0_ext=53.8 Pa  dp0_O=34.4 Pa  celdas=295927  t=1240.1 s
+2026-11-22 09:10:19  llmA_ciego_s1_02: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:10:21  [estudio] conj_llmA_fisico_s1: 23/40  conj_llmA_fisico_s1_23 = 53.8 Pa  (mejor 52.1)
+2026-11-22 09:13:33  patron_s1_19: done  dp0_ext=64.3 Pa  dp0_O=38.0 Pa  celdas=291097  t=1170.5 s
+2026-11-22 09:13:35  llmA_fisico_s1_09: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:13:43  [estudio] patron_s1: 19/40  patron_s1_19 = 64.3 Pa  (mejor 63.7)
+2026-11-22 09:21:05  [panel] LLM ollama gemma4:12b: respuesta en 641.9 s
+2026-11-22 09:23:36  conj_bayes_s1_27: done  dp0_ext=64.3 Pa  dp0_O=43.7 Pa  celdas=295440  t=1369.2 s
+2026-11-22 09:23:37  conj_llmA_fisico_s1_24: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:24:00  [estudio] conj_bayes_s1: 27/60  conj_bayes_s1_27 = 64.3 Pa  (mejor 52.1)
+2026-11-22 09:31:50  llmA_ciego_s1_02: done  dp0_ext=73.1 Pa  dp0_O=44.5 Pa  celdas=292264  t=1290.2 s
+2026-11-22 09:31:53  conj_bayes_s1_28: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:32:13  [estudio] llmA_ciego_s1: 2/40  llmA_ciego_s1_02 = 73.1 Pa  (mejor 72.4)
+2026-11-22 09:32:56  llmA_fisico_s1_09: done  dp0_ext=66.8 Pa  dp0_O=43.0 Pa  celdas=294118  t=1160.6 s
+2026-11-22 09:32:56  patron_s1_20: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:33:08  [estudio] llmA_fisico_s1: 9/40  llmA_fisico_s1_09 = 66.8 Pa  (mejor 66.8)
+2026-11-22 09:36:22  [panel] LLM ollama gemma4:12b: respuesta en 247.9 s
+2026-11-22 09:42:44  [panel] LLM ollama gemma4:12b: respuesta en 378.4 s
+2026-11-22 09:42:55  conj_llmA_fisico_s1_24: done  dp0_ext=53.4 Pa  dp0_O=34.6 Pa  celdas=295965  t=1158.5 s
+2026-11-22 09:42:57  llmA_ciego_s1_03: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:43:04  [estudio] conj_llmA_fisico_s1: 24/40  conj_llmA_fisico_s1_24 = 53.4 Pa  (mejor 52.1)
+2026-11-22 09:48:59  [panel] LLM ollama gemma4:12b: respuesta en 354.1 s
+2026-11-22 09:54:05  conj_bayes_s1_28: done  dp0_ext=60.7 Pa  dp0_O=38.0 Pa  celdas=299703  t=1332.0 s
+2026-11-22 09:54:06  conj_llmA_fisico_s1_25: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:54:28  [estudio] conj_bayes_s1: 28/60  conj_bayes_s1_28 = 60.7 Pa  (mejor 52.1)
+2026-11-22 09:54:34  patron_s1_20: done  dp0_ext=67.9 Pa  dp0_O=39.1 Pa  celdas=291043  t=1297.5 s
+2026-11-22 09:54:36  llmA_fisico_s1_10: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 09:54:48  [estudio] patron_s1: 20/40  patron_s1_20 = 67.9 Pa  (mejor 63.7)
+2026-11-22 10:02:02  llmA_ciego_s1_03: done  dp0_ext=72.0 Pa  dp0_O=43.7 Pa  celdas=292622  t=1145.2 s
+2026-11-22 10:02:02  conj_bayes_s1_29: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 10:02:15  [estudio] llmA_ciego_s1: 3/40  llmA_ciego_s1_03 = 72.0 Pa  (mejor 72.0)
+2026-11-22 10:07:52  [panel] LLM ollama gemma4:12b: respuesta en 334.6 s
+2026-11-22 10:11:48  conj_llmA_fisico_s1_25: done  dp0_ext=53.2 Pa  dp0_O=34.3 Pa  celdas=295889  t=1061.7 s
+2026-11-22 10:11:49  llmA_ciego_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 10:12:06  [estudio] conj_llmA_fisico_s1: 25/40  conj_llmA_fisico_s1_25 = 53.2 Pa  (mejor 52.1)
+2026-11-22 10:13:40  llmA_fisico_s1_10: done  dp0_ext=68.3 Pa  dp0_O=42.3 Pa  celdas=294021  t=1143.6 s
+2026-11-22 10:13:41  patron_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 10:14:04  [estudio] llmA_fisico_s1: 10/40  llmA_fisico_s1_10 = 68.3 Pa  (mejor 66.8)
+2026-11-22 10:22:06  [panel] LLM ollama gemma4:12b: respuesta en 599.2 s
+2026-11-22 10:26:17  conj_bayes_s1_29: done  dp0_ext=58.6 Pa  dp0_O=39.5 Pa  celdas=291324  t=1454.6 s
+2026-11-22 10:26:26  [panel] LLM ollama gemma4:12b: respuesta en 257.2 s
+2026-11-22 10:26:47  [estudio] conj_bayes_s1: 29/60  conj_bayes_s1_29 = 58.6 Pa  (mejor 52.1)
+2026-11-22 10:36:13  llmA_ciego_s1_04: FALLO  runcase: llmA_ciego_s1_04 cells 292491 Mesh OK
+FALLO reconstructPar (ver log.recon)
+
+2026-11-22 10:36:29  [estudio] llmA_ciego_s1: 4/40  llmA_ciego_s1_04 = 224.2 Pa  (mejor 72.0)
+2026-11-22 10:36:29  [panel] LLM ollama: en espera mientras Isaac Sim esté abierto
+2026-11-22 10:38:36  patron_s1_21: FALLO  runcase: patron_s1_21 cells 290961 MESH CHECKS FAILED
+FALLO reconstructPar (ver log.recon)
+
+2026-11-22 10:38:37  conj_bayes_s1_30: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:38:43  [estudio] patron_s1: 21/40  patron_s1_21 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:39:17  conj_bayes_s1_30: FALLO  runcase: conj_bayes_s1_30 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:39:17  conj_llmA_fisico_s1_26: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:39:38  [estudio] conj_bayes_s1: 30/60  conj_bayes_s1_30 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:39:48  conj_llmA_fisico_s1_26: FALLO  runcase: conj_llmA_fisico_s1_26 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:39:50  conj_bayes_s1_31: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:39:57  [estudio] conj_llmA_fisico_s1: 26/40  conj_llmA_fisico_s1_26 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:40:20  conj_bayes_s1_31: FALLO  runcase: conj_bayes_s1_31 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:40:22  llmA_fisico_s1_11: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:40:33  [estudio] conj_bayes_s1: 31/60  conj_bayes_s1_31 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:40:42  llmA_fisico_s1_11: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:40:42  conj_bayes_s1_32: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:40:43  [estudio] llmA_fisico_s1: 11/40  llmA_fisico_s1_11 = 224.2 Pa  (mejor 66.8)
+2026-11-22 10:41:11  conj_bayes_s1_32: FALLO  runcase: conj_bayes_s1_32 fondo ampliado 2 celdas hasta x=-0.0110 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:41:12  patron_s1_22: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:41:25  [estudio] conj_bayes_s1: 32/60  conj_bayes_s1_32 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:41:32  patron_s1_22: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:41:35  conj_bayes_s1_33: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:41:42  [estudio] patron_s1: 22/40  patron_s1_22 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:42:04  conj_bayes_s1_33: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:42:04  patron_s1_23: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:42:18  [estudio] conj_bayes_s1: 33/60  conj_bayes_s1_33 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:42:25  patron_s1_23: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:42:28  Cola vacía: espero trabajos nuevos.
+2026-11-22 10:42:29  [estudio] patron_s1: 23/40  patron_s1_23 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:42:43  conj_bayes_s1_34: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:43:13  conj_bayes_s1_34: FALLO  runcase: conj_bayes_s1_34 fondo ampliado 2 celdas hasta x=-0.0110 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:43:15  patron_s1_24: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:43:33  patron_s1_24: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:43:34  [estudio] conj_bayes_s1: 34/60  conj_bayes_s1_34 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:43:35  Cola vacía: espero trabajos nuevos.
+2026-11-22 10:43:38  [estudio] patron_s1: 24/40  patron_s1_24 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:43:50  conj_bayes_s1_35: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:44:25  conj_bayes_s1_35: FALLO  runcase: conj_bayes_s1_35 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:44:26  patron_s1_25: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:44:26  [estudio] conj_bayes_s1: 35/60  conj_bayes_s1_35 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:44:45  patron_s1_25: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:44:46  conj_bayes_s1_36: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:44:47  [estudio] patron_s1: 25/40  patron_s1_25 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:45:19  conj_bayes_s1_36: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:45:21  patron_s1_26: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:45:40  [estudio] conj_bayes_s1: 36/60  conj_bayes_s1_36 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:45:40  patron_s1_26: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:45:42  Cola vacía: espero trabajos nuevos.
+2026-11-22 10:45:57  [estudio] patron_s1: 26/40  patron_s1_26 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:45:57  conj_bayes_s1_37: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:46:29  conj_bayes_s1_37: FALLO  runcase: conj_bayes_s1_37 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:46:32  [estudio] conj_bayes_s1: 37/60  conj_bayes_s1_37 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:46:32  patron_s1_27: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:46:52  patron_s1_27: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:46:52  conj_bayes_s1_38: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:47:07  [estudio] patron_s1: 27/40  patron_s1_27 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:47:23  conj_bayes_s1_38: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:47:25  patron_s1_28: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:47:26  [estudio] conj_bayes_s1: 38/60  conj_bayes_s1_38 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:47:44  patron_s1_28: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:47:45  conj_bayes_s1_39: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:47:54  [estudio] patron_s1: 28/40  patron_s1_28 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:48:16  conj_bayes_s1_39: FALLO  runcase: conj_bayes_s1_39 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:48:17  patron_s1_29: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:48:19  [estudio] conj_bayes_s1: 39/60  conj_bayes_s1_39 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:48:38  patron_s1_29: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:48:40  conj_bayes_s1_40: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:48:43  [estudio] patron_s1: 29/40  patron_s1_29 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:49:11  conj_bayes_s1_40: FALLO  runcase: conj_bayes_s1_40 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:49:13  patron_s1_30: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:49:14  [estudio] conj_bayes_s1: 40/60  conj_bayes_s1_40 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:49:33  patron_s1_30: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:49:33  conj_bayes_s1_41: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:49:53  [estudio] patron_s1: 30/40  patron_s1_30 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:50:06  conj_bayes_s1_41: FALLO  runcase: conj_bayes_s1_41 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:50:08  [estudio] conj_bayes_s1: 41/60  conj_bayes_s1_41 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:50:08  patron_s1_31: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:50:28  patron_s1_31: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:50:29  conj_bayes_s1_42: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:50:41  [estudio] patron_s1: 31/40  patron_s1_31 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:50:58  conj_bayes_s1_42: FALLO  runcase: conj_bayes_s1_42 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:51:01  patron_s1_32: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:51:02  [estudio] conj_bayes_s1: 42/60  conj_bayes_s1_42 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:51:21  patron_s1_32: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:51:21  conj_bayes_s1_43: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:51:29  [estudio] patron_s1: 32/40  patron_s1_32 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:51:51  conj_bayes_s1_43: FALLO  runcase: conj_bayes_s1_43 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:51:54  patron_s1_33: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:51:56  [estudio] conj_bayes_s1: 43/60  conj_bayes_s1_43 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:52:14  patron_s1_33: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:52:14  conj_bayes_s1_44: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:52:17  [estudio] patron_s1: 33/40  patron_s1_33 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:52:45  conj_bayes_s1_44: FALLO  runcase: conj_bayes_s1_44 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:52:47  patron_s1_34: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:52:50  [estudio] conj_bayes_s1: 44/60  conj_bayes_s1_44 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:53:07  patron_s1_34: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:53:07  conj_bayes_s1_45: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:53:27  [estudio] patron_s1: 34/40  patron_s1_34 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:53:35  conj_bayes_s1_45: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:53:36  patron_s1_35: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:53:47  [estudio] conj_bayes_s1: 45/60  conj_bayes_s1_45 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:53:56  patron_s1_35: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:53:56  Cola vacía: espero trabajos nuevos.
+2026-11-22 10:54:11  conj_bayes_s1_46: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:54:16  [estudio] patron_s1: 35/40  patron_s1_35 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:54:41  conj_bayes_s1_46: FALLO  runcase: conj_bayes_s1_46 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:54:42  [estudio] conj_bayes_s1: 46/60  conj_bayes_s1_46 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:54:44  patron_s1_36: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:55:02  patron_s1_36: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:55:04  conj_bayes_s1_47: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:55:04  [estudio] patron_s1: 36/40  patron_s1_36 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:55:32  conj_bayes_s1_47: FALLO  runcase: conj_bayes_s1_47 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:55:33  patron_s1_37: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:55:35  [estudio] conj_bayes_s1: 47/60  conj_bayes_s1_47 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:55:51  patron_s1_37: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:55:52  [estudio] patron_s1: 37/40  patron_s1_37 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:55:53  conj_bayes_s1_48: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:56:20  conj_bayes_s1_48: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:56:23  patron_s1_38: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:56:28  [estudio] conj_bayes_s1: 48/60  conj_bayes_s1_48 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:56:41  patron_s1_38: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:56:43  conj_bayes_s1_49: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:57:00  [estudio] patron_s1: 38/40  patron_s1_38 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:57:11  conj_bayes_s1_49: FALLO  runcase: conj_bayes_s1_49 fondo ampliado 1 celdas hasta x=-0.0180 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:57:12  patron_s1_39: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:57:22  [estudio] conj_bayes_s1: 49/60  conj_bayes_s1_49 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:57:32  patron_s1_39: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:57:33  conj_bayes_s1_50: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:57:50  [estudio] patron_s1: 39/40  patron_s1_39 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:57:53  conj_bayes_s1_50: FALLO  runcase: conj_bayes_s1_50 fondo ampliado 2 celdas hasta x=-0.0110 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:57:55  [estudio] conj_bayes_s1: 50/60  conj_bayes_s1_50 = 188.0 Pa  (mejor 52.1)
+2026-11-22 10:57:56  patron_s1_40: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:58:13  patron_s1_40: FALLO  runcase: FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:58:16  [estudio] patron_s1: 40/40  patron_s1_40 = 224.2 Pa  (mejor 63.7)
+2026-11-22 10:58:16  [estudio] patron_s1: terminado
+2026-11-22 10:58:16  conj_bayes_s1_51: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 10:58:22  [panel] parada pedida: termina el caso en curso y se detiene
+2026-11-22 10:58:37  conj_bayes_s1_51: FALLO  runcase: conj_bayes_s1_51 fondo ampliado 3 celdas hasta x=-0.0040 m
+FALLO blockMesh (ver log.blockMesh)
+
+2026-11-22 10:58:39  STOP encontrado: termino.
+2026-11-22 10:59:06  [panel] panel reiniciado para cargar código nuevo (el trabajador sigue)
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_30.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_31.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_32.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_33.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_34.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_35.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_36.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_37.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_38.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_39.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_40.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_41.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_42.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_43.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_44.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_45.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_46.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_47.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_48.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_49.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_50.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_bayes_s1_51.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 4610_conj_llmA_fisico_s1_26.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_llmA_ciego_s1_04.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_llmA_fisico_s1_11.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_21.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_22.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_23.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_24.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_25.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_26.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_27.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_28.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_29.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_30.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_31.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_32.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_33.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_34.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_35.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_36.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_37.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_38.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_39.json: fallidos → cancelados
+2026-11-22 11:07:18  [panel] 5010_patron_s1_40.json: fallidos → cancelados
+2026-11-22 11:07:33  [panel] trabajador arrancado
+2026-11-22 11:07:47  Trabajador iniciado en DESKTOP-RI929MO (16 hilos en WSL, prioridad nice 19). Cola: /mnt/c/ms_airbox/cola
+2026-11-22 11:07:47  check1912_D_ref2: empiezo (h=0.007, iter=1000, modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos)
+2026-11-22 11:07:50  [estudio] conj_bayes_s1: se retoma con 29/60 simulaciones hechas
+2026-11-22 11:07:50  [estudio] patron_s1: se retoma con 20/40 simulaciones hechas
+2026-11-22 11:07:57  [estudio] patron_s1: estado reconstruido (20 evaluaciones, todas coinciden)
+2026-11-22 11:07:57  [estudio] llmA_fisico_s1: se retoma con 10/40 simulaciones hechas
+chas
+2026-11-22 11:08:02  [estudio] llmA_ciego_s1: se retoma con 3/40 simulaciones hechas
+2026-11-22 11:13:29  [estudio] conj_bayes_s1: estado reconstruido (29 evaluaciones, todas coinciden)
+2026-11-22 11:16:41  conj_bayes_s1_30: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 11:16:43  patron_s1_21: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 11:21:29  [panel] LLM ollama gemma4:12b: respuesta en 1341.0 s
+2026-11-22 11:26:41  [panel] LLM ollama gemma4:12b: respuesta en 312.2 s
+2026-11-22 11:30:17  check1912_D_ref2: done  dp0_ext=57.2 Pa  dp0_O=35.6 Pa  celdas=295654  t=1349.2 s
+2026-11-22 11:32:16  [panel] LLM ollama gemma4:12b: respuesta en 334.4 s
+2026-11-22 11:38:37  [panel] LLM ollama gemma4:12b: respuesta en 378.7 s
+2026-11-22 11:38:56  conj_llmA_fisico_s1_26: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 11:42:58  [panel] LLM ollama gemma4:12b: respuesta en 260.3 s
+2026-11-22 11:50:14  patron_s1_21: done  dp0_ext=68.3 Pa  dp0_O=39.9 Pa  celdas=290961  t=2007.7 s
+2026-11-22 11:50:15  llmA_ciego_s1_04: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 11:50:26  conj_bayes_s1_30: done  dp0_ext=54.3 Pa  dp0_O=36.5 Pa  celdas=296514  t=2024.1 s
+2026-11-22 11:50:28  [estudio] patron_s1: 21/40  patron_s1_21 = 68.3 Pa  (mejor 63.7)
+2026-11-22 11:50:36  patron_s1_22: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 11:50:38  [estudio] conj_bayes_s1: 30/60  conj_bayes_s1_30 = 54.3 Pa  (mejor 52.1)
+2026-11-22 11:50:41  [panel] LLM ollama gemma4:12b: respuesta en 462.9 s
+2026-11-22 12:06:08  conj_llmA_fisico_s1_26: done  dp0_ext=53.8 Pa  dp0_O=34.9 Pa  celdas=295979  t=1631.1 s
+2026-11-22 12:06:08  conj_bayes_s1_31: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 12:06:33  [estudio] conj_llmA_fisico_s1: 26/40  conj_llmA_fisico_s1_26 = 53.8 Pa  (mejor 52.1)
+2026-11-22 12:12:40  [panel] LLM ollama gemma4:12b: respuesta en 365.3 s
+2026-11-22 12:15:57  patron_s1_22: done  dp0_ext=66.1 Pa  dp0_O=38.2 Pa  celdas=293113  t=1520.8 s
+2026-11-22 12:16:00  conj_llmA_fisico_s1_27: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 12:16:19  llmA_ciego_s1_04: done  dp0_ext=72.1 Pa  dp0_O=41.7 Pa  celdas=292486  t=1563.8 s
+2026-11-22 12:16:20  [estudio] patron_s1: 22/40  patron_s1_22 = 66.1 Pa  (mejor 63.7)
+2026-11-22 12:16:20  llmA_fisico_s1_11: empiezo (h=0.007, iter=1000, modo normal · 3 a la vez × 4 procesos)
+2026-11-22 12:16:31  [estudio] llmA_ciego_s1: 4/40  llmA_ciego_s1_04 = 72.1 Pa  (mejor 72.0)
+2026-11-22 12:20:47  [panel] trabajador detenido de inmediato; el caso en curso se repetirá al arrancar (detenidos: 45 procesos)
+2026-11-22 12:22:21  [panel] LLM ollama gemma4:12b: respuesta en 349.9 s
+2026-11-22 12:23:50  [panel] panel apagado

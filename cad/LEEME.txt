@@ -1,0 +1,18 @@
+Geometrías del airbox MS9 (21/11/2026) — VOLUMEN DE AIRE (interior), no la pieza con paredes.
+
+Ficheros por diseño:
+  *_aire_plenum_runner_coords_moto.step    plenum + runner, ya colocado en las coordenadas del conjunto CAD_MS9 (mm).
+                                            Insértalo en el ensamblaje con origen en el origen: cae en su sitio.
+  *_aire_plenum_runner_coords_airbox.step  lo mismo en las coordenadas propias del estudio CFD (mm).
+  *_aire_completo_coords_moto.stl          todo el dominio de aire (toma RAM + conducto + plenum + runner + 2D de
+                                            extensión tras la mariposa), en coordenadas del conjunto, mm. Para verlo rápido.
+
+Diseños:
+  variante_D_ref2_57.2Pa                 referencia (labio 10 mm, R 55, pared trasera -40)
+  mejor_base_bayes_s1_21_53.1Pa          mejor de la comparación en el espacio original (rb 13,5; R 57,4; plenum 2,61 L)
+  mejor_ampliado_amp_bayes_s1_20_52.1Pa  mejor del espacio ampliado por el CAD (rb 11,6; R 60,3; pared trasera 5 mm más atrás)
+  (Δp0 con mezcla; malla gruesa; diferencias de ±1,5 Pa están dentro del ruido.)
+
+Para pasar a pieza en SolidWorks: abrir el STEP (Archivo > Abrir, tipo STEP) y aplicar Vaciado/Engrosar hacia fuera
+3 mm (pared), quitando las caras de entrada/salida. El conducto de entrada no cambia respecto a v5.
+Traslación usada (conjunto = estudio + t): t = [1038.24, 442.15, 615.76] mm.

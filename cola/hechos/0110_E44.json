@@ -1,0 +1,54 @@
+{
+ "job": {
+  "name": "E44",
+  "params": {
+   "rb": 5.0,
+   "R": 38.0,
+   "D": 44.0,
+   "x_rear": -53.3,
+   "Lt": 0.0,
+   "r_plan": 100.0,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "L2": 0.0,
+   "z_left": -79.2,
+   "z_right": 80.8
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "keep_case": false,
+  "nota": "Referencia: variante E (≈ v5) con D = 44"
+ },
+ "inicio": "2026-11-19 15:01:12",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 17.7,
+ "geom_info": {
+  "rb": 5.0,
+  "R": 38.0,
+  "D": 44.0,
+  "x_rear": -53.3,
+  "Lt": 0.0,
+  "r_plan": 100.0,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "L2": 0.0,
+  "z_left": -79.2,
+  "z_right": 80.8,
+  "name": "E44",
+  "vol_total_L": 6.770715422186587,
+  "vol_plenum_box_L": 2.4690579797371934,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235557683,
+  "entry_xz": [
+   -75.6,
+   36.6
+  ],
+  "Lv": 29.0
+ },
+ "vol_plenum_L": 2.433,
+ "status": "infeasible",
+ "nota": "volumen de plenum 2.43 L < 2.5 L",
+ "modo": "modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos"
+}

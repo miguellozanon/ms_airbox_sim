@@ -1,0 +1,77 @@
+{
+ "job": {
+  "name": "E44_ref",
+  "params": {
+   "rb": 5,
+   "R": 38,
+   "L2": 0,
+   "D": 44,
+   "x_rear": -53.3,
+   "z_left": -79.2,
+   "z_right": 80.8,
+   "Lt": 0,
+   "r_plan": 100,
+   "r_edge": 3,
+   "theta": 0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "keep_case": false,
+  "ignorar_volumen": true,
+  "nota": "Referencia de partida: variante E (~v5) con D = 44; incumple el volumen (2,43 L) y se calcula igualmente"
+ },
+ "inicio": "2026-11-19 15:21:03",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 16.7,
+ "geom_info": {
+  "rb": 5,
+  "R": 38,
+  "L2": 0,
+  "D": 44,
+  "x_rear": -53.3,
+  "z_left": -79.2,
+  "z_right": 80.8,
+  "Lt": 0,
+  "r_plan": 100,
+  "r_edge": 3,
+  "theta": 0,
+  "name": "E44_ref",
+  "vol_total_L": 6.770715422186587,
+  "vol_plenum_box_L": 2.4690579797371934,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235557683,
+  "entry_xz": [
+   -75.6,
+   36.6
+  ],
+  "Lv": 29.0
+ },
+ "vol_plenum_L": 2.433,
+ "nota": "referencia: volumen 2.43 L < 2.5 L (calculado igualmente)",
+ "celdas": 283175,
+ "malla": {
+  "no_ortog_max": 62.781049,
+  "asimetria_max": 3.8455136,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 855.9,
+ "metrics": {
+  "caso": "E44_ref",
+  "dp0_O": 46.4,
+  "dp0_O_std": 1.0,
+  "dp0_ext": 86.6,
+  "conducto": 9.9,
+  "plenum": 6.2,
+  "runner_O": 30.3,
+  "mezcla_ext": 40.2,
+  "backflow_O": 0.059,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 886.6,
+ "fin": "2026-11-19 15:35:49",
+ "modo": "modo compartido (Isaac Sim, ROS 2) · 1 a la vez × 4 procesos"
+}

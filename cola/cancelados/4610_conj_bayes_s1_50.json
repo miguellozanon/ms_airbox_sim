@@ -1,0 +1,29 @@
+{
+ "job": {
+  "name": "conj_bayes_s1_50",
+  "params": {
+   "D": 44.0,
+   "z_right": 87.78,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 15.25,
+   "R": 52.99,
+   "L2": 3.89,
+   "x_rear": -29.02,
+   "z_left": -82.94,
+   "Lt": 27.81,
+   "r_plan": 88.34,
+   "c_sB": 0.94,
+   "c_dy": 8.03,
+   "c_sw": 1.07,
+   "c_sh": 1.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio conjunto/conj_bayes_s1 (bayes, espacio conjunto), evaluación 50/60"
+ },
+ "status": "failed",
+ "error": "runcase: conj_bayes_s1_50 fondo ampliado 2 celdas hasta x=-0.0110 m\nFALLO blockMesh (ver log.blockMesh)\n",
+ "trace": "Traceback (most recent call last):\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 278, in job_thread\n    res = run_job(job, NP)\n          ^^^^^^^^^^^^^^^^\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 261, in run_job\n    raise RuntimeError('runcase: ' + (r.stdout[-600:] + r.stderr[-600:]))\nRuntimeError: runcase: conj_bayes_s1_50 fondo ampliado 2 celdas hasta x=-0.0110 m\nFALLO blockMesh (ver log.blockMesh)\n\n",
+ "fin": "2026-11-22 10:57:53"
+}

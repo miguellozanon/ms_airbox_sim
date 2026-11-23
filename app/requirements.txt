@@ -1,0 +1,14 @@
+# Librerías de Python del airbox (entorno ~/airbox_env en WSL). El trabajador las instala solo si este fichero cambia.
+cadquery==2.8.0
+gmsh==4.15.2
+trimesh==5.2.1
+manifold3d==3.5.5
+shapely>=2.0
+mapbox_earcut
+rtree
+networkx
+scipy
+numpy
+matplotlib
+optuna
+cma

@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Airbox MS9 · visor 3D</title>
+<style>
+:root{--bg:#f4f5f7;--card:#fff;--ink:#1d2330;--quiet:#5d6677;--line:#e0e3e8;--soft:#eef0f3;--acc:#c2410c;--acc-soft:#fff1e8;--b:#2563eb;--ok:#16794a}
+@media (prefers-color-scheme:dark){:root{--bg:#14171c;--card:#1c2027;--ink:#e7eaf0;--quiet:#9aa3b2;--line:#2c323c;--soft:#232831;--acc:#fb8a4c;--acc-soft:#3a2416;--b:#6ea0ff;--ok:#4cc38a}}
+*{box-sizing:border-box}body{margin:0;font:13.5px/1.45 "Segoe UI",system-ui,sans-serif;background:var(--bg);color:var(--ink);height:100vh;display:flex;flex-direction:column}
+header{display:flex;align-items:center;gap:12px;padding:8px 18px;border-bottom:1px solid var(--line);background:var(--card)}
+header h1{font-size:15px;margin:0;font-weight:650}header h1 span{color:var(--quiet);font-weight:400}header a{color:var(--quiet);font-size:12.5px}
+.wrap{flex:1;display:flex;min-height:0}
+aside{width:340px;flex:none;overflow:auto;padding:12px 14px;border-right:1px solid var(--line);background:var(--card)}
+#view{flex:1;position:relative;min-width:0}#view canvas{display:block}
+h3{font-size:12px;text-transform:uppercase;letter-spacing:.04em;color:var(--quiet);margin:14px 0 6px;font-weight:650}
+select,input[type=range]{width:100%}select{font:inherit;padding:5px 6px;border:1px solid var(--line);border-radius:6px;background:var(--bg);color:var(--ink)}
+label{display:flex;align-items:center;gap:7px;margin:3px 0;cursor:pointer}.sw{width:12px;height:12px;border-radius:3px;flex:none}
+button{font:inherit;font-size:12.5px;padding:4px 9px;border-radius:6px;border:1px solid var(--line);background:var(--card);color:var(--ink);cursor:pointer}button:hover{border-color:var(--acc)}
+.row{display:flex;gap:6px;flex-wrap:wrap;align-items:center;margin:4px 0}
+.card{border:1px solid var(--line);border-radius:8px;padding:8px 10px;margin-top:8px}.card b.t{display:flex;align-items:center;gap:6px;margin-bottom:4px}
+table{width:100%;border-collapse:collapse;font-size:12px}td{padding:2px 0}td.n{text-align:right;font-variant-numeric:tabular-nums}.q{color:var(--quiet)}
+#msg{position:absolute;left:14px;top:12px;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 10px;font-size:12.5px;display:none}
+#legend{position:absolute;right:14px;bottom:12px;font-size:12px;color:var(--quiet);background:var(--card);border:1px solid var(--line);border-radius:8px;padding:6px 10px}
+</style>
+<script type="importmap">{"imports":{"three":"/static/three.module.min.js"}}</script>
+</head><body>
+<header><h1>Airbox MS9 <span>· visor 3D del volumen de aire</span></h1><span style="flex:1"></span><a href="/">← volver al panel</a></header>
+<div class="wrap"><aside>
+<h3>Diseños</h3>
+<div class="row"><span class="sw" style="background:var(--acc)"></span><b style="width:18px">A</b><select id="selA"></select></div>
+<div class="row"><span class="sw" style="background:var(--b)"></span><b style="width:18px">B</b><select id="selB"></select></div>
+<div class="row"><button id="bBest">A = mejor</button><button id="bBestAmp">A = mejor ampliado</button><button id="bBestConj">A = mejor con conducto nuevo</button><button id="bD">B = variante D</button><button id="bSwap">A ⇄ B</button></div>
+<div id="info"></div>
+<h3>Mostrar</h3>
+<div id="layers"></div>
+<label><input type="checkbox" id="cEnv" checked><span class="sw" style="background:#16a34a"></span>Envolvente permitida (CAD)</label>
+<label><input type="checkbox" id="cAxes"><span class="sw" style="background:#999"></span>Ejes (x atrás, y arriba, z lateral)</label>
+<h3>Corte</h3>
+<label><input type="checkbox" id="cCut">Corte por un plano</label>
+<div class="row"><select id="cutAxis" style="width:90px"><option value="z">z (lateral)</option><option value="x">x (largo)</option><option value="y">y (alto)</option></select><input type="range" id="cutPos" min="-120" max="120" step="1" value="40" style="flex:1"><span id="cutVal" class="q" style="width:46px;text-align:right">40</span></div>
+<h3>Vista</h3>
+<div class="row"><button data-v="iso">Isométrica</button><button data-v="lado">Lateral</button><button data-v="arriba">Superior</button><button data-v="atras">Trasera</button><button data-v="runner">Runner</button></div>
+<p class="q" style="font-size:12px;margin-top:14px">Cada diseño se dibuja entero: conducto desde la toma RAM, plenum y runner. Los casos sin «conducto nuevo» llevan el conducto v5. Activa «Conducto v5 como referencia» para ver, en gris, dónde ha cambiado. Es el volumen de aire (interior), no la pieza con paredes. Coordenadas del estudio CFD en mm; en el conjunto de la moto: + t = (1038,24; 442,15; 615,76). Ratón: girar (izq.), desplazar (der.), zoom (rueda).</p>
+</aside><div id="view"><div id="msg"></div><div id="legend"></div></div></div>
+<script type="module">
+import * as THREE from 'three';
+import {OrbitControls} from '/static/OrbitControls.js';
+import {STLLoader} from '/static/STLLoader.js';
+const $=s=>document.querySelector(s), css=n=>getComputedStyle(document.documentElement).getPropertyValue(n).trim();
+const view=$('#view'), renderer=new THREE.WebGLRenderer({antialias:true}); renderer.setPixelRatio(devicePixelRatio); renderer.localClippingEnabled=true;
+view.appendChild(renderer.domElement);
+const scene=new THREE.Scene(); scene.background=new THREE.Color(css('--bg'));
+const camera=new THREE.PerspectiveCamera(35,1,1,20000); camera.position.set(250,520,420);
+const controls=new OrbitControls(camera,renderer.domElement); controls.target.set(-120,330,0); controls.enableDamping=true;
+scene.add(new THREE.HemisphereLight(0xffffff,0x667788,1.6)); const dl=new THREE.DirectionalLight(0xffffff,1.6); dl.position.set(300,600,400); scene.add(dl);
+const dl2=new THREE.DirectionalLight(0xffffff,0.6); dl2.position.set(-400,200,-300); scene.add(dl2);
+const loader=new STLLoader(), clip=new THREE.Plane(new THREE.Vector3(0,0,-1),40);
+const groups={}; let RES=[], CTX=null, meshA=null, meshB=null, env=null, DUCT_GEO=null;
+function mat(color,op=1,clipped=true,off=0){return new THREE.MeshStandardMaterial({color,roughness:.55,metalness:.05,side:THREE.DoubleSide,transparent:op<1,opacity:op,depthWrite:op>=.6,clippingPlanes:clipped&&$('#cCut').checked?[clip]:[],
+ polygonOffset:off!==0,polygonOffsetFactor:off,polygonOffsetUnits:off})}
+function resize(){const w=view.clientWidth,h=view.clientHeight;renderer.setSize(w,h);camera.aspect=w/h;camera.updateProjectionMatrix()}
+addEventListener('resize',resize);resize();
+(function loop(){controls.update();renderer.render(scene,camera);requestAnimationFrame(loop)})();
+function msg(t){const m=$('#msg');m.style.display=t?'block':'none';m.textContent=t||''}
+async function getSTL(url){const r=await fetch(url);if(r.status!==200){let j={};try{j=await r.json()}catch(e){}throw Object.assign(new Error(j.error||('HTTP '+r.status)),{status:r.status,pend:j.pendiente})}return loader.parse(await r.arrayBuffer())}
+async function caseGeom(name){for(let i=0;i<90;i++){try{return await getSTL('/api/vista?caso='+encodeURIComponent(name))}catch(e){if(e.status===202){msg('Preparando la geometría de '+name+'… (la genera el trabajador a partir del STEP)');await new Promise(r=>setTimeout(r,2000));continue}throw e}}throw new Error('el trabajador no ha preparado la vista (¿está en marcha?)')}
+function fmt(v,d=1){return v==null||v===''?'—':(typeof v==='number'?v.toLocaleString('es-ES',{minimumFractionDigits:d,maximumFractionDigits:d}):v)}
+function isAmp(r){return (r.p_z_right>80.81)||(r.p_x_rear>-39.99)||(r.p_rb>14.001)||(r.p_R>60.001)||(r.p_z_left<-79.21)}
+function isConj(r){return ['c_sB','c_dy','c_sw','c_sh'].some(k=>r['p_'+k]!=null&&Math.abs(r['p_'+k]-(k==='c_dy'?0:1))>1e-6)}
+function label(r){return `${r.nombre} — ${fmt(r.dp0_ext)} Pa${isConj(r)?' · conducto nuevo':(isAmp(r)?' · ampl.':'')}`}
+function infoCard(r,tag,color){if(!r)return'';const P=[['rb','labio r_b'],['R','curva R'],['L2','recta L2'],['x_rear','pared trasera x'],['z_left','pared izq. z'],['z_right','pared der. z'],['Lt','transición L_t'],['r_plan','redondeo plano']];
+ const C=[['c_sB','conducto: escala tramo toma–chasis',1,''],['c_dy','conducto: subida del valle',0,' mm'],['c_sw','conducto: ancho de salida',1,' ×'],['c_sh','conducto: alto de salida',1,' ×']];
+ const crow=C.map(([k,l,d,u])=>`<tr><td class="q">${l}</td><td class="n">${r['p_'+k]==null?(d===0?'0':'1')+' (v5)':fmt(r['p_'+k],2)}${u}</td></tr>`).join('');
+ return `<div class="card"><b class="t"><span class="sw" style="background:${color}"></span>${tag} · ${r.nombre}</b><table>
+ <tr><td>Δp0 con mezcla</td><td class="n"><b>${fmt(r.dp0_ext)} Pa</b></td></tr><tr><td>Δp0 hasta mariposa</td><td class="n">${fmt(r.dp0_O)} Pa</td></tr>
+ <tr><td class="q">mezcla · runner · plenum</td><td class="n q">${fmt(r.mezcla_ext)} · ${fmt(r.runner_O)} · ${fmt(r.plenum)}</td></tr><tr><td>Volumen del plenum</td><td class="n">${fmt(r.vol_plenum_L,2)} L</td></tr>
+ ${P.map(([k,l])=>`<tr><td class="q">${l}</td><td class="n">${r['p_'+k]==null?(k==='z_right'?'80,8':'—'):fmt(r['p_'+k],2)} mm</td></tr>`).join('')}${crow}</table></div>`}
+function drawInfo(){const a=RES.find(r=>r.nombre===$('#selA').value),b=RES.find(r=>r.nombre===$('#selB').value);$('#info').innerHTML=infoCard(a,'A',css('--acc'))+infoCard(b,'B',css('--b'));
+ $('#legend').innerHTML=(a?`<b style="color:${css('--acc')}">A</b> ${a.nombre} ${fmt(a.dp0_ext)} Pa`:'')+(b?` &nbsp; <b style="color:${css('--b')}">B</b> ${b.nombre} ${fmt(b.dp0_ext)} Pa`:'')}
+async function setCase(which){const name=$(which==='A'?'#selA':'#selB').value;let old=which==='A'?meshA:meshB;
+ if(old){scene.remove(old);old.traverse(o=>{if(o.isMesh&&o.geometry!==DUCT_GEO)o.geometry.dispose()})}
+ if(which==='A')meshA=null;else meshB=null;drawInfo();syncURL();if(!name)return;
+ try{const g=await caseGeom(name);g.computeVertexNormals();
+  const M=()=>which==='A'?mat(new THREE.Color(css('--acc')),1,true,-1):mat(new THREE.Color(css('--b')),.38,true,2);
+  const grp=new THREE.Group(),m=new THREE.Mesh(g,M());m.renderOrder=which==='A'?1:2;grp.add(m);
+  // conducto: los casos con conducto nuevo lo traen en su geometría; al resto se les pone el v5 en su color,
+  // para que A y B se comparen enteros (toma RAM -> mariposa)
+  const r=RES.find(x=>x.nombre===name);
+  if(r&&!isConj(r)&&DUCT_GEO){const d=new THREE.Mesh(DUCT_GEO,M());d.renderOrder=m.renderOrder;grp.add(d)}
+  if((which==='A'?$('#selA'):$('#selB')).value!==name){g.dispose();return}scene.add(grp);if(which==='A')meshA=grp;else meshB=grp;refreshClip();msg('')}catch(e){msg(name+': '+e.message)}}
+function syncURL(){const u=new URLSearchParams();if($('#selA').value)u.set('a',$('#selA').value);if($('#selB').value)u.set('b',$('#selB').value);history.replaceState(null,'','/vista?'+u)}
+function refreshClip(){const on=$('#cCut').checked,ax=$('#cutAxis').value,v=+$('#cutPos').value;$('#cutVal').textContent=v;
+ clip.normal.set(ax==='x'?-1:0,ax==='y'?-1:0,ax==='z'?-1:0);clip.constant=v;
+ scene.traverse(o=>{if(o.isMesh&&o.userData.clipped!==false){o.material.clippingPlanes=on?[clip]:[];o.material.needsUpdate=true}})}
+function setView(v){const t=new THREE.Vector3(-120,330,0),d={iso:[370,190,420],lado:[0,40,760],arriba:[0,760,1],atras:[760,60,0],runner:[160,-60,330]}[v];
+ if(v==='runner')t.set(-60,300,40);controls.target.copy(t);camera.position.set(t.x+d[0],t.y+d[1],t.z+d[2]);camera.up.set(0,1,0)}
+async function loadContext(){CTX=await (await fetch('/static/contexto/contexto.json')).json();
+ try{DUCT_GEO=await getSTL('/static/contexto/'+CTX.conducto);DUCT_GEO.computeVertexNormals()}catch(e){}
+ const L=[{k:'conducto',files:[CTX.conducto],n:'Conducto v5 como referencia (malla gris), para ver qué ha cambiado',c:'#e5e7eb',op:1,on:false,wire:true},
+  {k:'motor',files:['admision_motor.stl','motor.stl'],n:'Motor y admisión',c:'#5d6677',op:.85,on:true},
+  {k:'chasis',files:['chasis.stl','soporte_motor_der.stl','soporte_motor_izq.stl'],n:'Chasis y soportes del motor',c:'#7c8592',op:.85,on:false},
+  {k:'subchasis',files:['subchasis.stl'],n:'Subchasis (ideas)',c:'#8d99a6',op:.6,on:false},
+  {k:'tapa',files:['tapa_cubre.stl','carenado_lateral.stl'],n:'Tapa «Cubre» y carenado',c:'#a9b4c2',op:.22,on:false}];
+ $('#layers').innerHTML=L.map(l=>`<label><input type="checkbox" data-k="${l.k}" ${l.on?'checked':''}><span class="sw" style="background:${l.c}"></span>${l.n}</label>`).join('');
+ for(const l of L){const g=new THREE.Group();g.visible=l.on;groups[l.k]=g;scene.add(g);
+  Promise.all(l.files.map(f=>getSTL('/static/contexto/'+f).then(geo=>{geo.computeVertexNormals();
+   const m=l.wire?new THREE.LineSegments(new THREE.EdgesGeometry(geo,20),new THREE.LineBasicMaterial({color:l.c,transparent:true,opacity:.55})):new THREE.Mesh(geo,mat(new THREE.Color(l.c),l.op,false));
+   m.userData.clipped=false;g.add(m)}).catch(()=>{})))}
+ $('#layers').onchange=e=>{const k=e.target.dataset.k;if(k)groups[k].visible=e.target.checked};
+ const E=CTX.envolvente;env=new THREE.Group();
+ const box=new THREE.Box3(new THREE.Vector3(E.x_entrada,E.y_suelo,E.z_left_min),new THREE.Vector3(E.x_rear_max,E.y_techo,E.z_right_max));
+ env.add(new THREE.Box3Helper(box,0x16a34a));
+ const pl=(x,c,o)=>{const m=new THREE.Mesh(new THREE.PlaneGeometry(E.z_right_max-E.z_left_min,E.y_techo-E.y_suelo),new THREE.MeshBasicMaterial({color:c,transparent:true,opacity:o,side:THREE.DoubleSide,depthWrite:false}));m.rotation.y=Math.PI/2;m.position.set(x,(E.y_suelo+E.y_techo)/2,(E.z_left_min+E.z_right_max)/2);m.userData.clipped=false;return m};
+ env.add(pl(E.x_rear_max,0x16a34a,.12));env.add(pl(E.airbox4_exterior_x,0xf59e0b,.10));scene.add(env)}
+async function init(){
+ RES=(await (await fetch('/api/resultados')).json()).filter(r=>r.estado==='done'&&typeof r.dp0_ext==='number').sort((a,b)=>a.dp0_ext-b.dp0_ext);
+ const opts=RES.map(r=>`<option value="${r.nombre}">${label(r)}</option>`).join('');$('#selA').innerHTML=opts;$('#selB').innerHTML='<option value="">— ninguno —</option>'+opts;
+ const u=new URLSearchParams(location.search),D=RES.find(r=>r.nombre==='D_ref2');
+ $('#selA').value=u.get('a')&&RES.some(r=>r.nombre===u.get('a'))?u.get('a'):(RES[0]||{}).nombre||'';$('#selB').value=u.get('b')!=null?u.get('b'):(D?D.nombre:'');
+ $('#selA').onchange=()=>setCase('A');$('#selB').onchange=()=>setCase('B');
+ $('#bBest').onclick=()=>{$('#selA').value=RES[0].nombre;setCase('A')};
+ $('#bBestAmp').onclick=()=>{const r=RES.find(isAmp);if(r){$('#selA').value=r.nombre;setCase('A')}};
+ $('#bBestConj').onclick=()=>{const r=RES.find(isConj);if(r){$('#selA').value=r.nombre;setCase('A')}else msg('Todavía no hay casos con el conducto modificado')};
+ $('#bD').onclick=()=>{if(D){$('#selB').value=D.nombre;setCase('B')}};
+ $('#bSwap').onclick=()=>{const a=$('#selA').value,b=$('#selB').value;if(!b)return;$('#selA').value=b;$('#selB').value=a;setCase('A');setCase('B')};
+ $('#cEnv').onchange=e=>{if(env)env.visible=e.target.checked};
+ const axes=new THREE.AxesHelper(120);axes.position.set(-205,320,-90);axes.visible=false;scene.add(axes);$('#cAxes').onchange=e=>axes.visible=e.target.checked;
+ $('#cCut').onchange=refreshClip;$('#cutAxis').onchange=()=>{const ax=$('#cutAxis').value,r={z:[-120,120,40],x:[-300,20,-60],y:[200,450,330]}[ax];Object.assign($('#cutPos'),{min:r[0],max:r[1],value:r[2]});refreshClip()};$('#cutPos').oninput=refreshClip;
+ document.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>setView(b.dataset.v));
+ setView('iso');await loadContext();setCase('A');setCase('B')}
+init().catch(e=>msg('Error: '+e.message));
+</script></body></html>

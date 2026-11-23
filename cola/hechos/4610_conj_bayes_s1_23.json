@@ -1,0 +1,83 @@
+{
+ "job": {
+  "name": "conj_bayes_s1_23",
+  "params": {
+   "D": 44.0,
+   "z_right": 81.35,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 16.34,
+   "R": 58.14,
+   "L2": 0.7,
+   "x_rear": -37.84,
+   "z_left": -68.67,
+   "Lt": 0.15,
+   "r_plan": 79.97,
+   "c_sB": 1.0,
+   "c_dy": 2.97,
+   "c_sw": 1.22,
+   "c_sh": 0.91
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio conjunto/conj_bayes_s1 (bayes, espacio conjunto), evaluación 23/60"
+ },
+ "inicio": "2026-11-22 07:11:25",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 29.2,
+ "geom_info": {
+  "D": 44.0,
+  "z_right": 81.35,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 16.34,
+  "R": 58.14,
+  "L2": 0.7,
+  "x_rear": -37.84,
+  "z_left": -68.67,
+  "Lt": 0.15,
+  "r_plan": 79.97,
+  "c_sB": 1.0,
+  "c_dy": 2.97,
+  "c_sw": 1.22,
+  "c_sh": 0.91,
+  "name": "conj_bayes_s1_23",
+  "Lt_efectivo": 0.0,
+  "vol_total_L": 7.052350757905877,
+  "vol_plenum_box_L": 2.6405457475559477,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235557683,
+  "entry_xz": [
+   -62.9,
+   39.4
+  ],
+  "Lv": 10.1
+ },
+ "vol_plenum_L": 2.607,
+ "celdas": 298042,
+ "malla": {
+  "no_ortog_max": 62.780993,
+  "asimetria_max": 3.4184038,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 1263.1,
+ "metrics": {
+  "caso": "conj_bayes_s1_23",
+  "dp0_O": 34.2,
+  "dp0_O_std": 1.7,
+  "dp0_ext": 54.6,
+  "conducto": 9.7,
+  "plenum": 3.8,
+  "runner_O": 20.6,
+  "mezcla_ext": 20.4,
+  "backflow_O": 0.023,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 1305.4,
+ "fin": "2026-11-22 07:33:10",
+ "modo": "modo normal · 3 a la vez × 4 procesos"
+}

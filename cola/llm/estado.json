@@ -1,0 +1,15 @@
+{
+ "t": 1795346609.3207772,
+ "actualizado": "2026-11-22 12:23:29",
+ "ollama": true,
+ "modelos": [
+  "qwen3:8b",
+  "qwen2.5-coder:7b",
+  "qwen3.5:27b",
+  "qwen3.8:27b",
+  "gemma4:12b",
+  "qwen3.5:4b",
+  "gemma4:26b"
+ ],
+ "anthropic_clave": false
+}

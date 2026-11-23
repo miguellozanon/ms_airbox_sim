@@ -1,0 +1,5 @@
+== 2026-11-22 11:07:40 prueba de MPI (mpirun -np 2 hostname)
+-- con: HWLOC_COMPONENTS=-gl,-cuda,-nvml,-opencl,-levelzero,-rsmi
+DESKTOP-RI929MO
+DESKTOP-RI929MO
+   código 0

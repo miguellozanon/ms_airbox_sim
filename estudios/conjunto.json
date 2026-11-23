@@ -1,0 +1,47 @@
+{
+ "_nota": "Optimización conjunta plenum + runner + conducto de entrada (21/11/2026, para fabricar ambos). 12 variables: las 8 del espacio ampliado + 4 del conducto (conducto.py): boca oval del v5 y paso por la pipa del chasis fijos; c_sB abombado del tramo toma-chasis, c_dy subida del valle tras el chasis, c_sw/c_sh ancho/alto de la salida al plenum. Holgura >= 10 mm (o la del v5 si era menor) con chasis, eje de dirección, motor, carenado frontal, tapa y horquilla/tijas barridas hasta ±30° de giro. Empieza con doe30_conj + los 15 mejores casos ya calculados (conducto v5). Prioridad 4600.",
+ "activo": true,
+ "esperar_muestreo": true,
+ "espacio": "conjunto",
+ "muestreo": "doe30_conj.json",
+ "n_inicial": "todos",
+ "mejores_previos": 15,
+ "objetivo": "dp0_ext",
+ "presupuesto": 60,
+ "simultaneas": 2,
+ "prioridad": 4600,
+ "h": 0.007,
+ "niter": 1000,
+ "llm": {
+  "backend": "ollama",
+  "modelo": "gemma4:12b",
+  "temperatura": 1.0,
+  "num_ctx": 24576,
+  "think": true
+ },
+ "ejecuciones": [
+  {
+   "id": "conj_bayes_s1",
+   "metodo": "bayes",
+   "semilla": 1
+  },
+  {
+   "id": "conj_llmA_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "presupuesto": 40,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "conj_bayes_s2",
+   "metodo": "bayes",
+   "semilla": 2
+  }
+ ]
+}

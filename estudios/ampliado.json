@@ -1,0 +1,58 @@
+{
+ "_nota": "Búsqueda del mejor diseño en el espacio ampliado por la envolvente del CAD (8 variables: rb<=20, R<=68, x_rear<=-15 [22 mm más allá del Airbox4, margen blando con el depósito], z_left>=-84, z_right<=89 [dentro de la envolvente actual]). Empieza con el muestreo doe24_amp (24 Sobol) + los 10 mejores casos ya calculados que caben en el espacio. prioridad 4600: sus casos pasan por delante de la comparación (5000+). | 21/11 16:50: en pausa, sustituido por el estudio conjunto (conjunto.json), que incluye este espacio y el conducto.",
+ "activo": false,
+ "esperar_muestreo": true,
+ "espacio": "ampliado",
+ "muestreo": "doe24_amp.json",
+ "n_inicial": "todos",
+ "mejores_previos": 10,
+ "objetivo": "dp0_ext",
+ "presupuesto": 40,
+ "simultaneas": 2,
+ "prioridad": 4600,
+ "h": 0.007,
+ "niter": 1000,
+ "llm": {
+  "backend": "ollama",
+  "modelo": "gemma4:12b",
+  "temperatura": 1.0,
+  "num_ctx": 24576,
+  "think": true
+ },
+ "ejecuciones": [
+  {
+   "id": "amp_bayes_s1",
+   "metodo": "bayes",
+   "semilla": 1
+  },
+  {
+   "id": "amp_llmA_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "amp_bayes_s2",
+   "metodo": "bayes",
+   "semilla": 2
+  },
+  {
+   "id": "amp_llmC_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "llm": {
+    "backend": "anthropic",
+    "modelo": "claude-opus-5-5",
+    "temperatura": 1.0
+   },
+   "activa": false,
+   "_nota": "en suspenso: sin acceso a la API de Anthropic por ahora (20/11/2026)"
+  }
+ ]
+}

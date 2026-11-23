@@ -1,0 +1,3 @@
+FoamFile { version 2.0; format ascii; class dictionary; object U; class volVectorField; }
+dimensions [0 1 -1 0 0 0 0]; internalField uniform (0 0 0);
+boundaryField { inlet { type pressureInletOutletVelocity; value uniform (0 0 0); } outlet { type flowRateOutletVelocity; volumetricFlowRate QVOL; value uniform (0 0 0); } wall { type noSlip; } }

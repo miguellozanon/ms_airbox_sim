@@ -1,0 +1,7 @@
+{
+ "np_caso": 4,
+ "casos_normal": 3,
+ "casos_compartido": 1,
+ "pausar_con_isaac": false,
+ "distro": "Ubuntu-24.04"
+}

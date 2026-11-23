@@ -1,0 +1,458 @@
+[
+ {
+  "name": "amp001",
+  "params": {
+   "rb": 17.29,
+   "R": 31.51,
+   "L2": 4.09,
+   "x_rear": -38.8,
+   "z_left": -75.23,
+   "z_right": 87.74,
+   "Lt": 33.13,
+   "r_plan": 27.55,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 1; volumen estimado 2.83 L"
+ },
+ {
+  "name": "amp002",
+  "params": {
+   "rb": 14.02,
+   "R": 52.74,
+   "L2": 11.26,
+   "x_rear": -20.71,
+   "z_left": -81.87,
+   "z_right": 86.4,
+   "Lt": 1.96,
+   "r_plan": 5.23,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 2; volumen estimado 3.4 L"
+ },
+ {
+  "name": "amp003",
+  "params": {
+   "rb": 10.55,
+   "R": 40.63,
+   "L2": 15.8,
+   "x_rear": -17.57,
+   "z_left": -79.28,
+   "z_right": 88.45,
+   "Lt": 29.27,
+   "r_plan": 89.88,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 3; volumen estimado 3.15 L"
+ },
+ {
+  "name": "amp004",
+  "params": {
+   "rb": 0.51,
+   "R": 25.0,
+   "L2": 14.77,
+   "x_rear": -34.52,
+   "z_left": -68.89,
+   "z_right": 82.16,
+   "Lt": 38.75,
+   "r_plan": 47.11,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 4; volumen estimado 2.66 L"
+ },
+ {
+  "name": "amp005",
+  "params": {
+   "rb": 2.38,
+   "R": 54.04,
+   "L2": 9.2,
+   "x_rear": -17.47,
+   "z_left": -75.38,
+   "z_right": 80.88,
+   "Lt": 7.96,
+   "r_plan": 12.89,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 5; volumen estimado 3.19 L"
+ },
+ {
+  "name": "amp006",
+  "params": {
+   "rb": 12.49,
+   "R": 56.21,
+   "L2": 0.2,
+   "x_rear": -31.45,
+   "z_left": -72.49,
+   "z_right": 87.17,
+   "Lt": 19.75,
+   "r_plan": 74.41,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 6; volumen estimado 2.84 L"
+ },
+ {
+  "name": "amp007",
+  "params": {
+   "rb": 13.41,
+   "R": 20.32,
+   "L2": 6.92,
+   "x_rear": -28.62,
+   "z_left": -69.93,
+   "z_right": 85.11,
+   "Lt": 31.49,
+   "r_plan": 33.21,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 7; volumen estimado 2.87 L"
+ },
+ {
+  "name": "amp008",
+  "params": {
+   "rb": 3.28,
+   "R": 41.96,
+   "L2": 3.72,
+   "x_rear": -24.73,
+   "z_left": -78.29,
+   "z_right": 82.92,
+   "Lt": 20.81,
+   "r_plan": 79.5,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 8; volumen estimado 2.97 L"
+ },
+ {
+  "name": "amp009",
+  "params": {
+   "rb": 15.76,
+   "R": 42.93,
+   "L2": 9.6,
+   "x_rear": -33.13,
+   "z_left": -82.43,
+   "z_right": 82.85,
+   "Lt": 12.33,
+   "r_plan": 76.96,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 9; volumen estimado 2.94 L"
+ },
+ {
+  "name": "amp010",
+  "params": {
+   "rb": 5.65,
+   "R": 22.79,
+   "L2": 1.09,
+   "x_rear": -19.0,
+   "z_left": -65.79,
+   "z_right": 88.85,
+   "Lt": 0.35,
+   "r_plan": 35.74,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 10; volumen estimado 3.13 L"
+ },
+ {
+  "name": "amp011",
+  "params": {
+   "rb": 9.7,
+   "R": 58.71,
+   "L2": 6.87,
+   "x_rear": -21.94,
+   "z_left": -67.89,
+   "z_right": 86.8,
+   "Lt": 28.37,
+   "r_plan": 69.13,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 11; volumen estimado 2.91 L"
+ },
+ {
+  "name": "amp012",
+  "params": {
+   "rb": 19.82,
+   "R": 55.04,
+   "L2": 2.56,
+   "x_rear": -25.65,
+   "z_left": -79.99,
+   "z_right": 84.89,
+   "Lt": 38.94,
+   "r_plan": 18.15,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 12; volumen estimado 3.09 L"
+ },
+ {
+  "name": "amp013",
+  "params": {
+   "rb": 17.92,
+   "R": 24.12,
+   "L2": 18.16,
+   "x_rear": -23.36,
+   "z_left": -71.78,
+   "z_right": 83.6,
+   "Lt": 9.41,
+   "r_plan": 46.14,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 13; volumen estimado 3.02 L"
+ },
+ {
+  "name": "amp014",
+  "params": {
+   "rb": 7.87,
+   "R": 38.25,
+   "L2": 12.44,
+   "x_rear": -30.04,
+   "z_left": -76.39,
+   "z_right": 85.51,
+   "Lt": 17.59,
+   "r_plan": 90.86,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 14; volumen estimado 2.85 L"
+ },
+ {
+  "name": "amp015",
+  "params": {
+   "rb": 10.89,
+   "R": 45.13,
+   "L2": 5.94,
+   "x_rear": -35.99,
+   "z_left": -64.67,
+   "z_right": 81.89,
+   "Lt": 35.74,
+   "r_plan": 24.2,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 15; volumen estimado 2.61 L"
+ },
+ {
+  "name": "amp016",
+  "params": {
+   "rb": 4.88,
+   "R": 29.42,
+   "L2": 7.59,
+   "x_rear": -49.82,
+   "z_left": -80.47,
+   "z_right": 86.09,
+   "Lt": 4.97,
+   "r_plan": 28.14,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 16; volumen estimado 2.8 L"
+ },
+ {
+  "name": "amp017",
+  "params": {
+   "rb": 16.78,
+   "R": 34.37,
+   "L2": 16.69,
+   "x_rear": -25.95,
+   "z_left": -77.44,
+   "z_right": 82.0,
+   "Lt": 0.81,
+   "r_plan": 65.22,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 17; volumen estimado 3.04 L"
+ },
+ {
+  "name": "amp018",
+  "params": {
+   "rb": 4.46,
+   "R": 52.25,
+   "L2": 0.54,
+   "x_rear": -39.78,
+   "z_left": -68.53,
+   "z_right": 85.65,
+   "Lt": 22.66,
+   "r_plan": 45.16,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 18; volumen estimado 2.68 L"
+ },
+ {
+  "name": "amp019",
+  "params": {
+   "rb": 6.81,
+   "R": 30.51,
+   "L2": 12.7,
+   "x_rear": -22.3,
+   "z_left": -70.33,
+   "z_right": 88.04,
+   "Lt": 11.48,
+   "r_plan": 22.06,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 19; volumen estimado 3.13 L"
+ },
+ {
+  "name": "amp020",
+  "params": {
+   "rb": 11.01,
+   "R": 25.95,
+   "L2": 3.42,
+   "x_rear": -45.88,
+   "z_left": -81.53,
+   "z_right": 81.42,
+   "Lt": 16.63,
+   "r_plan": 2.5,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 20; volumen estimado 2.79 L"
+ },
+ {
+  "name": "amp021",
+  "params": {
+   "rb": 1.05,
+   "R": 40.14,
+   "L2": 7.26,
+   "x_rear": -42.09,
+   "z_left": -66.29,
+   "z_right": 87.71,
+   "Lt": 6.07,
+   "r_plan": 59.73,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 21; volumen estimado 2.66 L"
+ },
+ {
+  "name": "amp022",
+  "params": {
+   "rb": 17.72,
+   "R": 46.29,
+   "L2": 11.22,
+   "x_rear": -34.21,
+   "z_left": -74.89,
+   "z_right": 84.04,
+   "Lt": 27.96,
+   "r_plan": 30.3,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 22; volumen estimado 2.86 L"
+ },
+ {
+  "name": "amp023",
+  "params": {
+   "rb": 19.55,
+   "R": 26.58,
+   "L2": 5.55,
+   "x_rear": -15.2,
+   "z_left": -66.84,
+   "z_right": 83.27,
+   "Lt": 18.75,
+   "r_plan": 8.56,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 23; volumen estimado 3.07 L"
+ },
+ {
+  "name": "amp024",
+  "params": {
+   "rb": 9.66,
+   "R": 36.45,
+   "L2": 3.76,
+   "x_rear": -31.75,
+   "z_left": -80.98,
+   "z_right": 85.21,
+   "Lt": 9.27,
+   "r_plan": 54.46,
+   "D": 44.0,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 8D (ampliado), punto 24; volumen estimado 3.06 L"
+ }
+]

@@ -1,0 +1,59 @@
+{
+ "piezas": [
+  {
+   "archivo": "chasis.stl",
+   "nombre": "chasis",
+   "color": "#7c8592"
+  },
+  {
+   "archivo": "soporte_motor_der.stl",
+   "nombre": "soporte motor der",
+   "color": "#8d99a6"
+  },
+  {
+   "archivo": "soporte_motor_izq.stl",
+   "nombre": "soporte motor izq",
+   "color": "#8d99a6"
+  },
+  {
+   "archivo": "subchasis.stl",
+   "nombre": "subchasis",
+   "color": "#8d99a6"
+  },
+  {
+   "archivo": "motor.stl",
+   "nombre": "motor",
+   "color": "#5d6677"
+  },
+  {
+   "archivo": "admision_motor.stl",
+   "nombre": "admision motor",
+   "color": "#6b7a8f"
+  },
+  {
+   "archivo": "carenado_lateral.stl",
+   "nombre": "carenado lateral",
+   "color": "#a9b4c2"
+  },
+  {
+   "archivo": "tapa_cubre.stl",
+   "nombre": "tapa cubre",
+   "color": "#a9b4c2"
+  }
+ ],
+ "conducto": "conducto.stl",
+ "t_conjunto": [
+  1038.238331908962,
+  442.1502169252822,
+  615.7567831135805
+ ],
+ "envolvente": {
+  "x_rear_max": -15,
+  "z_left_min": -84,
+  "z_right_max": 89,
+  "y_suelo": 319.6,
+  "y_techo": 429.6,
+  "x_entrada": -205.0,
+  "airbox4_exterior_x": -34.3
+ }
+}

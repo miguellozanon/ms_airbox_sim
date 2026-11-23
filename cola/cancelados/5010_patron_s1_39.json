@@ -1,0 +1,25 @@
+{
+ "job": {
+  "name": "patron_s1_39",
+  "params": {
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 14.0,
+   "R": 46.69,
+   "L2": 4.65,
+   "x_rear": -41.77,
+   "z_left": -69.0,
+   "Lt": 18.86,
+   "r_plan": 33.11
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio comparacion/patron_s1 (patron, espacio base), evaluación 39/40"
+ },
+ "status": "failed",
+ "error": "runcase: FALLO blockMesh (ver log.blockMesh)\n",
+ "trace": "Traceback (most recent call last):\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 278, in job_thread\n    res = run_job(job, NP)\n          ^^^^^^^^^^^^^^^^\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 261, in run_job\n    raise RuntimeError('runcase: ' + (r.stdout[-600:] + r.stderr[-600:]))\nRuntimeError: runcase: FALLO blockMesh (ver log.blockMesh)\n\n",
+ "fin": "2026-11-22 10:57:32"
+}

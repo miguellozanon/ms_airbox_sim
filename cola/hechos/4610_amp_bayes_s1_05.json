@@ -1,0 +1,75 @@
+{
+ "job": {
+  "name": "amp_bayes_s1_05",
+  "params": {
+   "D": 44.0,
+   "z_right": 81.91,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 18.87,
+   "R": 54.47,
+   "L2": 0.98,
+   "x_rear": -40.85,
+   "z_left": -83.39,
+   "Lt": 4.29,
+   "r_plan": 14.07
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio ampliado/amp_bayes_s1 (bayes, espacio ampliado), evaluación 5/40"
+ },
+ "inicio": "2026-11-21 09:09:32",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 8.8,
+ "geom_info": {
+  "D": 44.0,
+  "z_right": 81.91,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 18.87,
+  "R": 54.47,
+  "L2": 0.98,
+  "x_rear": -40.85,
+  "z_left": -83.39,
+  "Lt": 4.29,
+  "r_plan": 14.07,
+  "name": "amp_bayes_s1_05",
+  "Lt_efectivo": 4.29,
+  "vol_total_L": 7.299718546312805,
+  "vol_plenum_box_L": 2.9793313308984373,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743235557683,
+  "entry_xz": [
+   -64.9,
+   39.0
+  ],
+  "Lv": 13.4
+ },
+ "vol_plenum_L": 2.961,
+ "celdas": 304290,
+ "malla": {
+  "no_ortog_max": 62.780847,
+  "asimetria_max": 3.5037733,
+  "checks_fallidos": 0,
+  "mesh_ok": true
+ },
+ "t_cfd_s": 555.7,
+ "metrics": {
+  "caso": "amp_bayes_s1_05",
+  "dp0_O": 37.5,
+  "dp0_O_std": 1.0,
+  "dp0_ext": 59.9,
+  "conducto": 9.8,
+  "plenum": 8.2,
+  "runner_O": 19.5,
+  "mezcla_ext": 22.4,
+  "backflow_O": 0.024,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 572.3,
+ "fin": "2026-11-21 09:19:04",
+ "modo": "modo compartido (Isaac Sim) · 1 a la vez × 4 procesos"
+}

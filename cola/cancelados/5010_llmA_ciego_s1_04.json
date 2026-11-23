@@ -1,0 +1,25 @@
+{
+ "job": {
+  "name": "llmA_ciego_s1_04",
+  "params": {
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0,
+   "rb": 7.8,
+   "R": 47.6,
+   "L2": 2.2,
+   "x_rear": -41.42,
+   "z_left": -70.3,
+   "Lt": 20.5,
+   "r_plan": 33.7
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "estudio comparacion/llmA_ciego_s1 (llm_ciego, espacio base), evaluación 4/40"
+ },
+ "status": "failed",
+ "error": "runcase: llmA_ciego_s1_04 cells 292491 Mesh OK\nFALLO reconstructPar (ver log.recon)\n",
+ "trace": "Traceback (most recent call last):\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 278, in job_thread\n    res = run_job(job, NP)\n          ^^^^^^^^^^^^^^^^\n  File \"/home/laptop/ms_airbox/lanzador.py\", line 261, in run_job\n    raise RuntimeError('runcase: ' + (r.stdout[-600:] + r.stderr[-600:]))\nRuntimeError: runcase: llmA_ciego_s1_04 cells 292491 Mesh OK\nFALLO reconstructPar (ver log.recon)\n\n",
+ "fin": "2026-11-22 10:36:13"
+}

@@ -1,0 +1,209 @@
+{
+ "_nota": "Comparación de optimizadores en el espacio base (7 variables). activo=false lo pausa. llmA_* = gemma4:12b (Ollama local, principal), llmB_* = qwen3.5:4b (Ollama, contraste de tamaño), llmC_* = Claude por la API (en suspenso). Las llamadas LLM las hace el panel de Windows (puente cola\\\\llm) y esperan mientras Isaac Sim esté abierto.",
+ "activo": true,
+ "esperar_muestreo": true,
+ "objetivo": "dp0_ext",
+ "presupuesto": 40,
+ "n_inicial": 8,
+ "simultaneas": 3,
+ "h": 0.007,
+ "niter": 1000,
+ "llm": {
+  "backend": "ollama",
+  "modelo": "gemma4:12b",
+  "temperatura": 1.0,
+  "num_ctx": 24576,
+  "think": true
+ },
+ "ejecuciones": [
+  {
+   "id": "bayes_s1",
+   "metodo": "bayes",
+   "semilla": 1
+  },
+  {
+   "id": "cmaes_s1",
+   "metodo": "cmaes",
+   "semilla": 1
+  },
+  {
+   "id": "patron_s1",
+   "metodo": "patron",
+   "semilla": 1
+  },
+  {
+   "id": "llmA_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmA_ciego_s1",
+   "metodo": "llm_ciego",
+   "semilla": 1,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmB_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "qwen3.5:4b",
+    "temperatura": 0.6,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmC_fisico_s1",
+   "metodo": "llm_fisico",
+   "semilla": 1,
+   "llm": {
+    "backend": "anthropic",
+    "modelo": "claude-opus-5-5",
+    "temperatura": 1.0
+   },
+   "activa": false,
+   "_nota": "en suspenso: sin acceso a la API de Anthropic por ahora (20/11/2026)"
+  },
+  {
+   "id": "bayes_s2",
+   "metodo": "bayes",
+   "semilla": 2
+  },
+  {
+   "id": "cmaes_s2",
+   "metodo": "cmaes",
+   "semilla": 2
+  },
+  {
+   "id": "patron_s2",
+   "metodo": "patron",
+   "semilla": 2
+  },
+  {
+   "id": "llmA_fisico_s2",
+   "metodo": "llm_fisico",
+   "semilla": 2,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmA_ciego_s2",
+   "metodo": "llm_ciego",
+   "semilla": 2,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmB_fisico_s2",
+   "metodo": "llm_fisico",
+   "semilla": 2,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "qwen3.5:4b",
+    "temperatura": 0.6,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmC_fisico_s2",
+   "metodo": "llm_fisico",
+   "semilla": 2,
+   "llm": {
+    "backend": "anthropic",
+    "modelo": "claude-opus-5-5",
+    "temperatura": 1.0
+   },
+   "activa": false,
+   "_nota": "en suspenso: sin acceso a la API de Anthropic por ahora (20/11/2026)"
+  },
+  {
+   "id": "bayes_s3",
+   "metodo": "bayes",
+   "semilla": 3
+  },
+  {
+   "id": "cmaes_s3",
+   "metodo": "cmaes",
+   "semilla": 3
+  },
+  {
+   "id": "patron_s3",
+   "metodo": "patron",
+   "semilla": 3
+  },
+  {
+   "id": "llmA_fisico_s3",
+   "metodo": "llm_fisico",
+   "semilla": 3,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmA_ciego_s3",
+   "metodo": "llm_ciego",
+   "semilla": 3,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "gemma4:12b",
+    "temperatura": 1.0,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmB_fisico_s3",
+   "metodo": "llm_fisico",
+   "semilla": 3,
+   "llm": {
+    "backend": "ollama",
+    "modelo": "qwen3.5:4b",
+    "temperatura": 0.6,
+    "num_ctx": 24576,
+    "think": true
+   }
+  },
+  {
+   "id": "llmC_fisico_s3",
+   "metodo": "llm_fisico",
+   "semilla": 3,
+   "llm": {
+    "backend": "anthropic",
+    "modelo": "claude-opus-5-5",
+    "temperatura": 1.0
+   },
+   "activa": false,
+   "_nota": "en suspenso: sin acceso a la API de Anthropic por ahora (20/11/2026)"
+  }
+ ]
+}

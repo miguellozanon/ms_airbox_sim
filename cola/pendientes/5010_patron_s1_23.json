@@ -1,0 +1,19 @@
+{
+ "name": "patron_s1_23",
+ "params": {
+  "D": 44.0,
+  "z_right": 80.8,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 14.0,
+  "R": 46.69,
+  "L2": 4.65,
+  "x_rear": -41.77,
+  "z_left": -69.71,
+  "Lt": 18.86,
+  "r_plan": 33.11
+ },
+ "h": 0.007,
+ "niter": 1000,
+ "nota": "estudio comparacion/patron_s1 (patron, espacio base), evaluación 23/40"
+}

@@ -1,0 +1,2852 @@
+[
+ {
+  "name": "doe001",
+  "params": {
+   "rb": 2.13,
+   "R": 42.27,
+   "L2": 2.32,
+   "x_rear": -41.64,
+   "z_left": -75.34,
+   "Lt": 12.73,
+   "r_plan": 24.45,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 1; volumen estimado 2.75 L"
+ },
+ {
+  "name": "doe002",
+  "params": {
+   "rb": 13.28,
+   "R": 32.61,
+   "L2": 13.17,
+   "x_rear": -42.09,
+   "z_left": -67.32,
+   "Lt": 3.64,
+   "r_plan": 20.02,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 2; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe003",
+  "params": {
+   "rb": 10.81,
+   "R": 29.53,
+   "L2": 1.41,
+   "x_rear": -44.29,
+   "z_left": -77.79,
+   "Lt": 19.47,
+   "r_plan": 30.32,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 3; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe004",
+  "params": {
+   "rb": 6.22,
+   "R": 31.24,
+   "L2": 9.92,
+   "x_rear": -40.42,
+   "z_left": -70.32,
+   "Lt": 24.46,
+   "r_plan": 5.97,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 4; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe005",
+  "params": {
+   "rb": 12.78,
+   "R": 37.04,
+   "L2": 4.31,
+   "x_rear": -41.47,
+   "z_left": -68.55,
+   "Lt": 0.15,
+   "r_plan": 46.41,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 5; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe006",
+  "params": {
+   "rb": 5.13,
+   "R": 23.46,
+   "L2": 7.05,
+   "x_rear": -45.32,
+   "z_left": -76.24,
+   "Lt": 35.14,
+   "r_plan": 20.32,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 6; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe007",
+  "params": {
+   "rb": 12.17,
+   "R": 20.2,
+   "L2": 11.07,
+   "x_rear": -47.17,
+   "z_left": -72.75,
+   "Lt": 16.75,
+   "r_plan": 3.14,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 7; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe008",
+  "params": {
+   "rb": 1.13,
+   "R": 22.33,
+   "L2": 16.42,
+   "x_rear": -41.76,
+   "z_left": -79.17,
+   "Lt": 4.14,
+   "r_plan": 54.57,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 8; volumen estimado 2.79 L"
+ },
+ {
+  "name": "doe009",
+  "params": {
+   "rb": 10.47,
+   "R": 45.72,
+   "L2": 6.69,
+   "x_rear": -40.72,
+   "z_left": -73.08,
+   "Lt": 32.04,
+   "r_plan": 27.76,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 9; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe010",
+  "params": {
+   "rb": 12.28,
+   "R": 32.48,
+   "L2": 7.5,
+   "x_rear": -44.74,
+   "z_left": -71.79,
+   "Lt": 20.65,
+   "r_plan": 6.92,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 10; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe011",
+  "params": {
+   "rb": 2.34,
+   "R": 30.07,
+   "L2": 4.96,
+   "x_rear": -42.33,
+   "z_left": -78.23,
+   "Lt": 38.34,
+   "r_plan": 57.04,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 11; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe012",
+  "params": {
+   "rb": 4.36,
+   "R": 21.48,
+   "L2": 11.46,
+   "x_rear": -43.97,
+   "z_left": -71.29,
+   "Lt": 18.06,
+   "r_plan": 8.98,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 12; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe013",
+  "params": {
+   "rb": 6.62,
+   "R": 35.82,
+   "L2": 3.14,
+   "x_rear": -45.65,
+   "z_left": -73.82,
+   "Lt": 3.81,
+   "r_plan": 40.67,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 13; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe014",
+  "params": {
+   "rb": 10.13,
+   "R": 25.04,
+   "L2": 5.02,
+   "x_rear": -44.91,
+   "z_left": -74.97,
+   "Lt": 14.62,
+   "r_plan": 3.59,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 14; volumen estimado 2.69 L"
+ },
+ {
+  "name": "doe015",
+  "params": {
+   "rb": 5.01,
+   "R": 42.93,
+   "L2": 6.24,
+   "x_rear": -41.01,
+   "z_left": -78.13,
+   "Lt": 17.57,
+   "r_plan": 47.75,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 15; volumen estimado 2.75 L"
+ },
+ {
+  "name": "doe016",
+  "params": {
+   "rb": 6.3,
+   "R": 27.49,
+   "L2": 2.48,
+   "x_rear": -42.01,
+   "z_left": -76.6,
+   "Lt": 7.0,
+   "r_plan": 54.13,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 16; volumen estimado 2.73 L"
+ },
+ {
+  "name": "doe017",
+  "params": {
+   "rb": 10.71,
+   "R": 48.77,
+   "L2": 0.61,
+   "x_rear": -40.1,
+   "z_left": -75.88,
+   "Lt": 36.89,
+   "r_plan": 1.43,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 17; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe018",
+  "params": {
+   "rb": 5.7,
+   "R": 22.87,
+   "L2": 10.04,
+   "x_rear": -41.39,
+   "z_left": -74.42,
+   "Lt": 9.28,
+   "r_plan": 80.9,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 18; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe019",
+  "params": {
+   "rb": 8.17,
+   "R": 37.77,
+   "L2": 7.93,
+   "x_rear": -41.84,
+   "z_left": -65.68,
+   "Lt": 5.3,
+   "r_plan": 19.72,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 19; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe020",
+  "params": {
+   "rb": 11.68,
+   "R": 31.81,
+   "L2": 14.55,
+   "x_rear": -40.55,
+   "z_left": -77.43,
+   "Lt": 14.95,
+   "r_plan": 91.66,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 20; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe021",
+  "params": {
+   "rb": 3.7,
+   "R": 24.85,
+   "L2": 2.58,
+   "x_rear": -55.98,
+   "z_left": -78.89,
+   "Lt": 1.82,
+   "r_plan": 3.91,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 21; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe022",
+  "params": {
+   "rb": 8.54,
+   "R": 33.03,
+   "L2": 3.94,
+   "x_rear": -44.11,
+   "z_left": -76.57,
+   "Lt": 25.82,
+   "r_plan": 33.23,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 22; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe023",
+  "params": {
+   "rb": 2.19,
+   "R": 26.32,
+   "L2": 7.45,
+   "x_rear": -40.23,
+   "z_left": -68.81,
+   "Lt": 10.81,
+   "r_plan": 9.28,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 23; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe024",
+  "params": {
+   "rb": 3.15,
+   "R": 24.2,
+   "L2": 4.53,
+   "x_rear": -40.32,
+   "z_left": -77.26,
+   "Lt": 20.0,
+   "r_plan": 89.4,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 24; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe025",
+  "params": {
+   "rb": 13.32,
+   "R": 23.33,
+   "L2": 8.01,
+   "x_rear": -46.73,
+   "z_left": -74.67,
+   "Lt": 2.3,
+   "r_plan": 40.39,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 25; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe026",
+  "params": {
+   "rb": 6.17,
+   "R": 20.33,
+   "L2": 13.9,
+   "x_rear": -44.76,
+   "z_left": -78.18,
+   "Lt": 20.85,
+   "r_plan": 35.71,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 26; volumen estimado 2.7 L"
+ },
+ {
+  "name": "doe027",
+  "params": {
+   "rb": 8.85,
+   "R": 27.5,
+   "L2": 8.89,
+   "x_rear": -41.29,
+   "z_left": -78.81,
+   "Lt": 35.56,
+   "r_plan": 61.44,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 27; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe028",
+  "params": {
+   "rb": 7.51,
+   "R": 42.06,
+   "L2": 2.65,
+   "x_rear": -42.29,
+   "z_left": -75.59,
+   "Lt": 29.86,
+   "r_plan": 42.96,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 28; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe029",
+  "params": {
+   "rb": 1.89,
+   "R": 26.14,
+   "L2": 12.99,
+   "x_rear": -43.19,
+   "z_left": -73.74,
+   "Lt": 16.3,
+   "r_plan": 63.01,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 29; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe030",
+  "params": {
+   "rb": 4.06,
+   "R": 45.05,
+   "L2": 3.23,
+   "x_rear": -41.42,
+   "z_left": -69.72,
+   "Lt": 11.68,
+   "r_plan": 53.56,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 30; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe031",
+  "params": {
+   "rb": 11.74,
+   "R": 36.01,
+   "L2": 1.59,
+   "x_rear": -46.31,
+   "z_left": -76.88,
+   "Lt": 38.44,
+   "r_plan": 23.15,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 31; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe032",
+  "params": {
+   "rb": 5.39,
+   "R": 24.61,
+   "L2": 9.49,
+   "x_rear": -42.41,
+   "z_left": -69.37,
+   "Lt": 3.45,
+   "r_plan": 47.49,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 32; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe033",
+  "params": {
+   "rb": 1.56,
+   "R": 36.53,
+   "L2": 5.93,
+   "x_rear": -40.65,
+   "z_left": -74.7,
+   "Lt": 21.14,
+   "r_plan": 72.26,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 33; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe034",
+  "params": {
+   "rb": 7.27,
+   "R": 30.49,
+   "L2": 0.29,
+   "x_rear": -41.75,
+   "z_left": -72.68,
+   "Lt": 4.25,
+   "r_plan": 75.54,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 34; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe035",
+  "params": {
+   "rb": 13.72,
+   "R": 28.69,
+   "L2": 3.86,
+   "x_rear": -43.45,
+   "z_left": -71.38,
+   "Lt": 21.62,
+   "r_plan": 0.01,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 35; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe036",
+  "params": {
+   "rb": 4.31,
+   "R": 31.96,
+   "L2": 7.21,
+   "x_rear": -47.33,
+   "z_left": -79.14,
+   "Lt": 16.63,
+   "r_plan": 26.11,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 36; volumen estimado 2.7 L"
+ },
+ {
+  "name": "doe037",
+  "params": {
+   "rb": 6.64,
+   "R": 25.12,
+   "L2": 18.03,
+   "x_rear": -41.03,
+   "z_left": -65.97,
+   "Lt": 0.27,
+   "r_plan": 23.44,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 37; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe038",
+  "params": {
+   "rb": 10.08,
+   "R": 35.89,
+   "L2": 11.15,
+   "x_rear": -40.27,
+   "z_left": -67.59,
+   "Lt": 10.69,
+   "r_plan": 36.36,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 38; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe039",
+  "params": {
+   "rb": 7.82,
+   "R": 21.56,
+   "L2": 4.08,
+   "x_rear": -46.1,
+   "z_left": -77.5,
+   "Lt": 7.44,
+   "r_plan": 13.98,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 39; volumen estimado 2.74 L"
+ },
+ {
+  "name": "doe040",
+  "params": {
+   "rb": 3.79,
+   "R": 20.99,
+   "L2": 8.41,
+   "x_rear": -40.95,
+   "z_left": -72.53,
+   "Lt": 14.83,
+   "r_plan": 62.68,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 40; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe041",
+  "params": {
+   "rb": 10.85,
+   "R": 22.66,
+   "L2": 14.7,
+   "x_rear": -42.54,
+   "z_left": -76.52,
+   "Lt": 33.31,
+   "r_plan": 61.13,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 41; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe042",
+  "params": {
+   "rb": 8.94,
+   "R": 33.75,
+   "L2": 1.33,
+   "x_rear": -43.14,
+   "z_left": -68.26,
+   "Lt": 13.09,
+   "r_plan": 9.57,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 42; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe043",
+  "params": {
+   "rb": 8.61,
+   "R": 23.53,
+   "L2": 19.74,
+   "x_rear": -40.69,
+   "z_left": -69.22,
+   "Lt": 29.51,
+   "r_plan": 0.47,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 43; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe044",
+  "params": {
+   "rb": 0.28,
+   "R": 29.44,
+   "L2": 14.11,
+   "x_rear": -41.67,
+   "z_left": -70.76,
+   "Lt": 5.11,
+   "r_plan": 47.14,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 44; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe045",
+  "params": {
+   "rb": 2.75,
+   "R": 32.53,
+   "L2": 1.1,
+   "x_rear": -47.96,
+   "z_left": -74.33,
+   "Lt": 11.78,
+   "r_plan": 2.51,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 45; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe046",
+  "params": {
+   "rb": 13.59,
+   "R": 34.94,
+   "L2": 6.37,
+   "x_rear": -41.11,
+   "z_left": -75.57,
+   "Lt": 9.09,
+   "r_plan": 52.27,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 46; volumen estimado 2.72 L"
+ },
+ {
+  "name": "doe047",
+  "params": {
+   "rb": 4.58,
+   "R": 23.0,
+   "L2": 4.33,
+   "x_rear": -43.09,
+   "z_left": -72.71,
+   "Lt": 25.57,
+   "r_plan": 41.55,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 47; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe048",
+  "params": {
+   "rb": 7.68,
+   "R": 34.89,
+   "L2": 2.82,
+   "x_rear": -48.95,
+   "z_left": -75.14,
+   "Lt": 2.06,
+   "r_plan": 20.82,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 48; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe049",
+  "params": {
+   "rb": 11.41,
+   "R": 20.69,
+   "L2": 17.57,
+   "x_rear": -41.43,
+   "z_left": -76.34,
+   "Lt": 6.32,
+   "r_plan": 33.72,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 49; volumen estimado 2.78 L"
+ },
+ {
+  "name": "doe050",
+  "params": {
+   "rb": 2.51,
+   "R": 36.18,
+   "L2": 0.46,
+   "x_rear": -41.86,
+   "z_left": -71.42,
+   "Lt": 7.96,
+   "r_plan": 66.87,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 50; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe051",
+  "params": {
+   "rb": 0.08,
+   "R": 28.51,
+   "L2": 2.57,
+   "x_rear": -44.9,
+   "z_left": -76.85,
+   "Lt": 12.28,
+   "r_plan": 56.44,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 51; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe052",
+  "params": {
+   "rb": 3.99,
+   "R": 27.27,
+   "L2": 13.18,
+   "x_rear": -40.46,
+   "z_left": -77.89,
+   "Lt": 28.13,
+   "r_plan": 18.67,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 52; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe053",
+  "params": {
+   "rb": 11.14,
+   "R": 29.03,
+   "L2": 9.95,
+   "x_rear": -42.05,
+   "z_left": -74.72,
+   "Lt": 9.98,
+   "r_plan": 7.72,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 53; volumen estimado 2.75 L"
+ },
+ {
+  "name": "doe054",
+  "params": {
+   "rb": 6.51,
+   "R": 35.01,
+   "L2": 5.42,
+   "x_rear": -43.89,
+   "z_left": -78.84,
+   "Lt": 14.23,
+   "r_plan": 21.28,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 54; volumen estimado 2.77 L"
+ },
+ {
+  "name": "doe055",
+  "params": {
+   "rb": 13.05,
+   "R": 31.71,
+   "L2": 1.04,
+   "x_rear": -42.97,
+   "z_left": -77.3,
+   "Lt": 31.16,
+   "r_plan": 31.21,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 55; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe056",
+  "params": {
+   "rb": 2.69,
+   "R": 21.02,
+   "L2": 2.35,
+   "x_rear": -49.12,
+   "z_left": -78.66,
+   "Lt": 16.56,
+   "r_plan": 6.62,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 56; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe057",
+  "params": {
+   "rb": 9.41,
+   "R": 23.88,
+   "L2": 13.96,
+   "x_rear": -41.81,
+   "z_left": -73.45,
+   "Lt": 1.47,
+   "r_plan": 7.42,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 57; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe058",
+  "params": {
+   "rb": 2.59,
+   "R": 22.43,
+   "L2": 7.9,
+   "x_rear": -43.71,
+   "z_left": -75.54,
+   "Lt": 20.43,
+   "r_plan": 18.35,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 58; volumen estimado 2.69 L"
+ },
+ {
+  "name": "doe059",
+  "params": {
+   "rb": 10.02,
+   "R": 25.85,
+   "L2": 3.52,
+   "x_rear": -42.68,
+   "z_left": -77.56,
+   "Lt": 4.81,
+   "r_plan": 34.16,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 59; volumen estimado 2.78 L"
+ },
+ {
+  "name": "doe060",
+  "params": {
+   "rb": 0.57,
+   "R": 39.48,
+   "L2": 1.81,
+   "x_rear": -43.25,
+   "z_left": -74.04,
+   "Lt": 19.07,
+   "r_plan": 44.86,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 60; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe061",
+  "params": {
+   "rb": 3.35,
+   "R": 22.64,
+   "L2": 13.57,
+   "x_rear": -45.11,
+   "z_left": -71.06,
+   "Lt": 2.77,
+   "r_plan": 4.71,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 61; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe062",
+  "params": {
+   "rb": 4.82,
+   "R": 34.05,
+   "L2": 0.04,
+   "x_rear": -44.69,
+   "z_left": -77.53,
+   "Lt": 23.63,
+   "r_plan": 53.49,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 62; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe063",
+  "params": {
+   "rb": 0.95,
+   "R": 30.17,
+   "L2": 10.67,
+   "x_rear": -40.13,
+   "z_left": -76.49,
+   "Lt": 17.13,
+   "r_plan": 21.59,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 63; volumen estimado 2.78 L"
+ },
+ {
+  "name": "doe064",
+  "params": {
+   "rb": 7.99,
+   "R": 33.48,
+   "L2": 7.43,
+   "x_rear": -42.35,
+   "z_left": -72.49,
+   "Lt": 36.01,
+   "r_plan": 4.41,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 64; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe065",
+  "params": {
+   "rb": 12.62,
+   "R": 27.16,
+   "L2": 11.6,
+   "x_rear": -43.61,
+   "z_left": -72.81,
+   "Lt": 14.12,
+   "r_plan": 48.7,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 65; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe066",
+  "params": {
+   "rb": 4.23,
+   "R": 41.2,
+   "L2": 1.5,
+   "x_rear": -42.89,
+   "z_left": -78.44,
+   "Lt": 22.06,
+   "r_plan": 68.79,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 66; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe067",
+  "params": {
+   "rb": 5.57,
+   "R": 29.14,
+   "L2": 5.24,
+   "x_rear": -41.9,
+   "z_left": -75.95,
+   "Lt": 32.74,
+   "r_plan": 25.26,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 67; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe068",
+  "params": {
+   "rb": 9.9,
+   "R": 21.35,
+   "L2": 10.25,
+   "x_rear": -44.43,
+   "z_left": -77.22,
+   "Lt": 28.66,
+   "r_plan": 52.55,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 68; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe069",
+  "params": {
+   "rb": 1.7,
+   "R": 45.45,
+   "L2": 0.36,
+   "x_rear": -45.08,
+   "z_left": -75.04,
+   "Lt": 15.01,
+   "r_plan": 28.98,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 69; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe070",
+  "params": {
+   "rb": 13.87,
+   "R": 22.56,
+   "L2": 0.88,
+   "x_rear": -40.99,
+   "z_left": -78.19,
+   "Lt": 12.18,
+   "r_plan": 22.36,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 70; volumen estimado 2.81 L"
+ },
+ {
+  "name": "doe071",
+  "params": {
+   "rb": 6.94,
+   "R": 21.12,
+   "L2": 17.24,
+   "x_rear": -42.53,
+   "z_left": -74.6,
+   "Lt": 30.96,
+   "r_plan": 2.03,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 71; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe072",
+  "params": {
+   "rb": 1.23,
+   "R": 40.03,
+   "L2": 6.54,
+   "x_rear": -40.86,
+   "z_left": -71.02,
+   "Lt": 35.74,
+   "r_plan": 17.71,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 72; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe073",
+  "params": {
+   "rb": 3.55,
+   "R": 31.5,
+   "L2": 3.83,
+   "x_rear": -41.07,
+   "z_left": -73.63,
+   "Lt": 6.44,
+   "r_plan": 11.14,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 73; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe074",
+  "params": {
+   "rb": 11.85,
+   "R": 35.51,
+   "L2": 9.47,
+   "x_rear": -40.04,
+   "z_left": -71.86,
+   "Lt": 28.32,
+   "r_plan": 39.5,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 74; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe075",
+  "params": {
+   "rb": 7.77,
+   "R": 46.69,
+   "L2": 2.15,
+   "x_rear": -41.77,
+   "z_left": -68.76,
+   "Lt": 18.86,
+   "r_plan": 33.11,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 75; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe076",
+  "params": {
+   "rb": 11.55,
+   "R": 26.5,
+   "L2": 6.16,
+   "x_rear": -47.68,
+   "z_left": -78.56,
+   "Lt": 20.29,
+   "r_plan": 53.01,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 76; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe077",
+  "params": {
+   "rb": 1.39,
+   "R": 25.97,
+   "L2": 1.35,
+   "x_rear": -41.27,
+   "z_left": -73.13,
+   "Lt": 37.59,
+   "r_plan": 1.58,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 77; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe078",
+  "params": {
+   "rb": 8.43,
+   "R": 27.72,
+   "L2": 15.53,
+   "x_rear": -43.24,
+   "z_left": -75.68,
+   "Lt": 19.26,
+   "r_plan": 21.88,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 78; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe079",
+  "params": {
+   "rb": 0.13,
+   "R": 24.3,
+   "L2": 11.17,
+   "x_rear": -42.15,
+   "z_left": -77.45,
+   "Lt": 36.13,
+   "r_plan": 25.63,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 79; volumen estimado 2.69 L"
+ },
+ {
+  "name": "doe080",
+  "params": {
+   "rb": 7.06,
+   "R": 22.01,
+   "L2": 6.99,
+   "x_rear": -40.37,
+   "z_left": -75.4,
+   "Lt": 17.02,
+   "r_plan": 49.06,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 80; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe081",
+  "params": {
+   "rb": 9.27,
+   "R": 47.81,
+   "L2": 0.72,
+   "x_rear": -43.36,
+   "z_left": -71.94,
+   "Lt": 7.54,
+   "r_plan": 55.14,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 81; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe082",
+  "params": {
+   "rb": 3.3,
+   "R": 33.3,
+   "L2": 7.76,
+   "x_rear": -41.69,
+   "z_left": -78.41,
+   "Lt": 1.27,
+   "r_plan": 34.44,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 82; volumen estimado 2.83 L"
+ },
+ {
+  "name": "doe083",
+  "params": {
+   "rb": 8.98,
+   "R": 40.0,
+   "L2": 3.4,
+   "x_rear": -40.67,
+   "z_left": -76.62,
+   "Lt": 23.18,
+   "r_plan": 13.17,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 83; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe084",
+  "params": {
+   "rb": 6.76,
+   "R": 28.06,
+   "L2": 4.39,
+   "x_rear": -51.31,
+   "z_left": -79.06,
+   "Lt": 9.19,
+   "r_plan": 49.47,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 84; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe085",
+  "params": {
+   "rb": 10.27,
+   "R": 22.97,
+   "L2": 7.56,
+   "x_rear": -40.02,
+   "z_left": -75.78,
+   "Lt": 3.67,
+   "r_plan": 73.27,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 85; volumen estimado 2.7 L"
+ },
+ {
+  "name": "doe086",
+  "params": {
+   "rb": 3.09,
+   "R": 20.68,
+   "L2": 14.32,
+   "x_rear": -42.5,
+   "z_left": -73.22,
+   "Lt": 24.48,
+   "r_plan": 52.97,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 86; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe087",
+  "params": {
+   "rb": 13.28,
+   "R": 21.87,
+   "L2": 18.19,
+   "x_rear": -44.58,
+   "z_left": -78.72,
+   "Lt": 37.17,
+   "r_plan": 1.62,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 87; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe088",
+  "params": {
+   "rb": 3.87,
+   "R": 37.64,
+   "L2": 10.46,
+   "x_rear": -40.7,
+   "z_left": -70.97,
+   "Lt": 2.19,
+   "r_plan": 27.72,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 88; volumen estimado 2.72 L"
+ },
+ {
+  "name": "doe089",
+  "params": {
+   "rb": 6.23,
+   "R": 24.48,
+   "L2": 4.95,
+   "x_rear": -46.93,
+   "z_left": -74.14,
+   "Lt": 15.97,
+   "r_plan": 21.94,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 89; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe090",
+  "params": {
+   "rb": 5.84,
+   "R": 25.17,
+   "L2": 12.57,
+   "x_rear": -45.56,
+   "z_left": -76.47,
+   "Lt": 17.75,
+   "r_plan": 49.12,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 90; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe091",
+  "params": {
+   "rb": 1.95,
+   "R": 29.05,
+   "L2": 3.2,
+   "x_rear": -41.12,
+   "z_left": -77.33,
+   "Lt": 21.72,
+   "r_plan": 75.8,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 91; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe092",
+  "params": {
+   "rb": 4.64,
+   "R": 37.43,
+   "L2": 6.04,
+   "x_rear": -46.11,
+   "z_left": -75.51,
+   "Lt": 24.77,
+   "r_plan": 39.09,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 92; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe093",
+  "params": {
+   "rb": 11.19,
+   "R": 30.85,
+   "L2": 0.42,
+   "x_rear": -47.0,
+   "z_left": -77.77,
+   "Lt": 0.46,
+   "r_plan": 11.56,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 93; volumen estimado 2.75 L"
+ },
+ {
+  "name": "doe094",
+  "params": {
+   "rb": 10.14,
+   "R": 39.22,
+   "L2": 0.01,
+   "x_rear": -42.42,
+   "z_left": -71.18,
+   "Lt": 26.12,
+   "r_plan": 24.35,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 94; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe095",
+  "params": {
+   "rb": 0.74,
+   "R": 20.01,
+   "L2": 8.52,
+   "x_rear": -46.3,
+   "z_left": -78.86,
+   "Lt": 11.12,
+   "r_plan": 48.64,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 95; volumen estimado 2.69 L"
+ },
+ {
+  "name": "doe096",
+  "params": {
+   "rb": 7.78,
+   "R": 23.63,
+   "L2": 14.58,
+   "x_rear": -44.22,
+   "z_left": -73.92,
+   "Lt": 32.03,
+   "r_plan": 25.22,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 96; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe097",
+  "params": {
+   "rb": 5.21,
+   "R": 25.84,
+   "L2": 9.58,
+   "x_rear": -41.74,
+   "z_left": -74.48,
+   "Lt": 26.58,
+   "r_plan": 52.59,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 97; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe098",
+  "params": {
+   "rb": 12.05,
+   "R": 27.82,
+   "L2": 13.53,
+   "x_rear": -43.78,
+   "z_left": -78.12,
+   "Lt": 5.28,
+   "r_plan": 72.92,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 98; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe099",
+  "params": {
+   "rb": 8.15,
+   "R": 26.71,
+   "L2": 2.9,
+   "x_rear": -47.34,
+   "z_left": -77.09,
+   "Lt": 34.27,
+   "r_plan": 2.0,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 99; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe100",
+  "params": {
+   "rb": 1.81,
+   "R": 32.8,
+   "L2": 5.64,
+   "x_rear": -43.44,
+   "z_left": -69.63,
+   "Lt": 9.26,
+   "r_plan": 28.05,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 100; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe101",
+  "params": {
+   "rb": 12.38,
+   "R": 39.47,
+   "L2": 5.05,
+   "x_rear": -40.33,
+   "z_left": -79.07,
+   "Lt": 32.32,
+   "r_plan": 63.71,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 101; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe102",
+  "params": {
+   "rb": 1.16,
+   "R": 42.15,
+   "L2": 0.31,
+   "x_rear": -48.71,
+   "z_left": -78.19,
+   "Lt": 9.52,
+   "r_plan": 4.97,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 102; volumen estimado 2.7 L"
+ },
+ {
+  "name": "doe103",
+  "params": {
+   "rb": 9.64,
+   "R": 34.03,
+   "L2": 6.82,
+   "x_rear": -47.63,
+   "z_left": -74.87,
+   "Lt": 5.61,
+   "r_plan": 34.86,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 103; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe104",
+  "params": {
+   "rb": 2.81,
+   "R": 32.27,
+   "L2": 10.05,
+   "x_rear": -45.85,
+   "z_left": -77.92,
+   "Lt": 26.29,
+   "r_plan": 39.54,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 104; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe105",
+  "params": {
+   "rb": 6.67,
+   "R": 33.51,
+   "L2": 0.68,
+   "x_rear": -41.28,
+   "z_left": -77.06,
+   "Lt": 12.92,
+   "r_plan": 85.36,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 105; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe106",
+  "params": {
+   "rb": 7.76,
+   "R": 29.17,
+   "L2": 1.62,
+   "x_rear": -42.96,
+   "z_left": -73.37,
+   "Lt": 15.83,
+   "r_plan": 56.8,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 106; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe107",
+  "params": {
+   "rb": 9.05,
+   "R": 41.19,
+   "L2": 5.36,
+   "x_rear": -41.97,
+   "z_left": -73.97,
+   "Lt": 9.06,
+   "r_plan": 38.22,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 107; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe108",
+  "params": {
+   "rb": 13.33,
+   "R": 32.2,
+   "L2": 2.98,
+   "x_rear": -40.22,
+   "z_left": -70.86,
+   "Lt": 38.13,
+   "r_plan": 31.26,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 108; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe109",
+  "params": {
+   "rb": 3.93,
+   "R": 28.3,
+   "L2": 5.88,
+   "x_rear": -44.12,
+   "z_left": -78.32,
+   "Lt": 3.14,
+   "r_plan": 7.36,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 109; volumen estimado 2.8 L"
+ },
+ {
+  "name": "doe110",
+  "params": {
+   "rb": 10.75,
+   "R": 25.36,
+   "L2": 12.24,
+   "x_rear": -46.39,
+   "z_left": -74.23,
+   "Lt": 24.96,
+   "r_plan": 18.31,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 110; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe111",
+  "params": {
+   "rb": 12.23,
+   "R": 25.0,
+   "L2": 0.24,
+   "x_rear": -45.02,
+   "z_left": -76.77,
+   "Lt": 21.32,
+   "r_plan": 41.91,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 111; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe112",
+  "params": {
+   "rb": 5.89,
+   "R": 35.77,
+   "L2": 8.6,
+   "x_rear": -41.14,
+   "z_left": -69.09,
+   "Lt": 16.32,
+   "r_plan": 16.25,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 112; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe113",
+  "params": {
+   "rb": 3.34,
+   "R": 47.11,
+   "L2": 0.99,
+   "x_rear": -40.92,
+   "z_left": -71.71,
+   "Lt": 25.87,
+   "r_plan": 9.47,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 113; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe114",
+  "params": {
+   "rb": 8.25,
+   "R": 21.1,
+   "L2": 10.86,
+   "x_rear": -41.58,
+   "z_left": -77.69,
+   "Lt": 17.97,
+   "r_plan": 83.2,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 114; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe115",
+  "params": {
+   "rb": 11.76,
+   "R": 29.56,
+   "L2": 6.58,
+   "x_rear": -40.8,
+   "z_left": -65.48,
+   "Lt": 1.99,
+   "r_plan": 4.75,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 115; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe116",
+  "params": {
+   "rb": 9.23,
+   "R": 31.5,
+   "L2": 8.02,
+   "x_rear": -42.0,
+   "z_left": -78.65,
+   "Lt": 24.67,
+   "r_plan": 80.19,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 116; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe117",
+  "params": {
+   "rb": 2.66,
+   "R": 35.54,
+   "L2": 3.64,
+   "x_rear": -43.11,
+   "z_left": -76.38,
+   "Lt": 0.25,
+   "r_plan": 70.64,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 117; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe118",
+  "params": {
+   "rb": 11.26,
+   "R": 20.1,
+   "L2": 15.9,
+   "x_rear": -43.68,
+   "z_left": -69.92,
+   "Lt": 4.23,
+   "r_plan": 28.79,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 118; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe119",
+  "params": {
+   "rb": 0.66,
+   "R": 30.92,
+   "L2": 12.8,
+   "x_rear": -42.88,
+   "z_left": -71.48,
+   "Lt": 14.81,
+   "r_plan": 15.88,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 119; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe120",
+  "params": {
+   "rb": 3.25,
+   "R": 26.5,
+   "L2": 1.98,
+   "x_rear": -44.74,
+   "z_left": -73.61,
+   "Lt": 8.29,
+   "r_plan": 33.78,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 120; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe121",
+  "params": {
+   "rb": 11.92,
+   "R": 44.24,
+   "L2": 1.78,
+   "x_rear": -41.33,
+   "z_left": -78.67,
+   "Lt": 3.89,
+   "r_plan": 14.63,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 121; volumen estimado 2.85 L"
+ },
+ {
+  "name": "doe122",
+  "params": {
+   "rb": 13.2,
+   "R": 25.95,
+   "L2": 5.54,
+   "x_rear": -42.34,
+   "z_left": -76.19,
+   "Lt": 10.67,
+   "r_plan": 83.5,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 122; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe123",
+  "params": {
+   "rb": 12.81,
+   "R": 24.34,
+   "L2": 16.98,
+   "x_rear": -41.22,
+   "z_left": -74.84,
+   "Lt": 13.11,
+   "r_plan": 56.38,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 123; volumen estimado 2.68 L"
+ },
+ {
+  "name": "doe124",
+  "params": {
+   "rb": 1.78,
+   "R": 23.14,
+   "L2": 10.54,
+   "x_rear": -47.86,
+   "z_left": -76.98,
+   "Lt": 5.41,
+   "r_plan": 7.79,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 124; volumen estimado 2.71 L"
+ },
+ {
+  "name": "doe125",
+  "params": {
+   "rb": 9.32,
+   "R": 25.25,
+   "L2": 0.5,
+   "x_rear": -40.43,
+   "z_left": -68.28,
+   "Lt": 7.14,
+   "r_plan": 28.34,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 125; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe126",
+  "params": {
+   "rb": 1.66,
+   "R": 34.14,
+   "L2": 8.4,
+   "x_rear": -44.28,
+   "z_left": -76.03,
+   "Lt": 32.15,
+   "r_plan": 4.05,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 126; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe127",
+  "params": {
+   "rb": 9.7,
+   "R": 24.4,
+   "L2": 12.02,
+   "x_rear": -43.06,
+   "z_left": -67.05,
+   "Lt": 9.06,
+   "r_plan": 5.12,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 127; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe128",
+  "params": {
+   "rb": 7.33,
+   "R": 37.56,
+   "L2": 2.76,
+   "x_rear": -45.33,
+   "z_left": -78.04,
+   "Lt": 12.78,
+   "r_plan": 45.23,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 128; volumen estimado 2.7 L"
+ },
+ {
+  "name": "doe129",
+  "params": {
+   "rb": 2.74,
+   "R": 21.79,
+   "L2": 6.11,
+   "x_rear": -41.46,
+   "z_left": -70.55,
+   "Lt": 27.79,
+   "r_plan": 19.17,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 129; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe130",
+  "params": {
+   "rb": 5.5,
+   "R": 50.45,
+   "L2": 3.51,
+   "x_rear": -40.73,
+   "z_left": -75.06,
+   "Lt": 19.4,
+   "r_plan": 0.31,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 130; volumen estimado 2.75 L"
+ },
+ {
+  "name": "doe131",
+  "params": {
+   "rb": 12.66,
+   "R": 28.03,
+   "L2": 2.05,
+   "x_rear": -41.7,
+   "z_left": -76.36,
+   "Lt": 28.91,
+   "r_plan": 12.47,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 131; volumen estimado 2.72 L"
+ },
+ {
+  "name": "doe132",
+  "params": {
+   "rb": 5.51,
+   "R": 25.66,
+   "L2": 16.07,
+   "x_rear": -43.78,
+   "z_left": -72.39,
+   "Lt": 7.95,
+   "r_plan": 14.02,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 132; volumen estimado 2.69 L"
+ },
+ {
+  "name": "doe133",
+  "params": {
+   "rb": 9.57,
+   "R": 26.81,
+   "L2": 11.42,
+   "x_rear": -45.14,
+   "z_left": -77.4,
+   "Lt": 10.56,
+   "r_plan": 62.65,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 133; volumen estimado 2.65 L"
+ },
+ {
+  "name": "doe134",
+  "params": {
+   "rb": 13.82,
+   "R": 22.32,
+   "L2": 10.43,
+   "x_rear": -42.83,
+   "z_left": -74.18,
+   "Lt": 27.29,
+   "r_plan": 35.34,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 134; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe135",
+  "params": {
+   "rb": 4.78,
+   "R": 45.73,
+   "L2": 0.17,
+   "x_rear": -43.67,
+   "z_left": -76.12,
+   "Lt": 19.04,
+   "r_plan": 58.89,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 135; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe136",
+  "params": {
+   "rb": 6.99,
+   "R": 23.99,
+   "L2": 6.42,
+   "x_rear": -40.66,
+   "z_left": -78.61,
+   "Lt": 5.85,
+   "r_plan": 40.02,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 136; volumen estimado 2.82 L"
+ },
+ {
+  "name": "doe137",
+  "params": {
+   "rb": 8.1,
+   "R": 41.54,
+   "L2": 0.83,
+   "x_rear": -40.54,
+   "z_left": -70.6,
+   "Lt": 21.92,
+   "r_plan": 44.57,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 137; volumen estimado 2.62 L"
+ },
+ {
+  "name": "doe138",
+  "params": {
+   "rb": 10.64,
+   "R": 30.04,
+   "L2": 8.14,
+   "x_rear": -41.28,
+   "z_left": -75.12,
+   "Lt": 10.27,
+   "r_plan": 26.48,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 138; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe139",
+  "params": {
+   "rb": 4.97,
+   "R": 36.66,
+   "L2": 2.5,
+   "x_rear": -40.37,
+   "z_left": -73.35,
+   "Lt": 34.65,
+   "r_plan": 22.78,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 139; volumen estimado 2.66 L"
+ },
+ {
+  "name": "doe140",
+  "params": {
+   "rb": 0.68,
+   "R": 45.5,
+   "L2": 5.21,
+   "x_rear": -41.57,
+   "z_left": -68.34,
+   "Lt": 2.53,
+   "r_plan": 4.51,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 140; volumen estimado 2.67 L"
+ },
+ {
+  "name": "doe141",
+  "params": {
+   "rb": 1.33,
+   "R": 28.84,
+   "L2": 12.5,
+   "x_rear": -43.42,
+   "z_left": -77.16,
+   "Lt": 3.09,
+   "r_plan": 40.35,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 141; volumen estimado 2.76 L"
+ },
+ {
+  "name": "doe142",
+  "params": {
+   "rb": 8.48,
+   "R": 27.48,
+   "L2": 5.66,
+   "x_rear": -41.07,
+   "z_left": -71.65,
+   "Lt": 23.76,
+   "r_plan": 35.64,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 142; volumen estimado 2.64 L"
+ },
+ {
+  "name": "doe143",
+  "params": {
+   "rb": 0.19,
+   "R": 20.82,
+   "L2": 0.02,
+   "x_rear": -40.05,
+   "z_left": -73.92,
+   "Lt": 0.68,
+   "r_plan": 13.61,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 143; volumen estimado 2.8 L"
+ },
+ {
+  "name": "doe144",
+  "params": {
+   "rb": 7.01,
+   "R": 22.88,
+   "L2": 16.86,
+   "x_rear": -42.44,
+   "z_left": -78.94,
+   "Lt": 22.46,
+   "r_plan": 12.04,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 144; volumen estimado 2.77 L"
+ },
+ {
+  "name": "doe145",
+  "params": {
+   "rb": 10.4,
+   "R": 34.53,
+   "L2": 4.57,
+   "x_rear": -41.89,
+   "z_left": -77.99,
+   "Lt": 15.1,
+   "r_plan": 2.89,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 145; volumen estimado 2.79 L"
+ },
+ {
+  "name": "doe146",
+  "params": {
+   "rb": 12.72,
+   "R": 43.34,
+   "L2": 6.94,
+   "x_rear": -40.17,
+   "z_left": -67.79,
+   "Lt": 27.08,
+   "r_plan": 21.39,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 146; volumen estimado 2.6 L"
+ },
+ {
+  "name": "doe147",
+  "params": {
+   "rb": 8.0,
+   "R": 22.04,
+   "L2": 2.44,
+   "x_rear": -44.85,
+   "z_left": -68.7,
+   "Lt": 4.49,
+   "r_plan": 23.5,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 147; volumen estimado 2.61 L"
+ },
+ {
+  "name": "doe148",
+  "params": {
+   "rb": 2.09,
+   "R": 38.46,
+   "L2": 8.93,
+   "x_rear": -41.0,
+   "z_left": -76.2,
+   "Lt": 39.51,
+   "r_plan": 49.6,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 148; volumen estimado 2.63 L"
+ },
+ {
+  "name": "doe149",
+  "params": {
+   "rb": 4.53,
+   "R": 22.11,
+   "L2": 14.51,
+   "x_rear": -41.23,
+   "z_left": -76.76,
+   "Lt": 10.15,
+   "r_plan": 3.56,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 149; volumen estimado 2.8 L"
+ },
+ {
+  "name": "doe150",
+  "params": {
+   "rb": 11.47,
+   "R": 24.19,
+   "L2": 8.62,
+   "x_rear": -43.26,
+   "z_left": -72.3,
+   "Lt": 31.74,
+   "r_plan": 20.73,
+   "D": 44.0,
+   "z_right": 80.8,
+   "r_edge": 3.0,
+   "theta": 0.0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "nota": "DoE Sobol 7D, punto 150; volumen estimado 2.61 L"
+ }
+]

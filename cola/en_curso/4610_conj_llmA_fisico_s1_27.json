@@ -1,0 +1,23 @@
+{
+ "name": "conj_llmA_fisico_s1_27",
+ "params": {
+  "D": 44.0,
+  "z_right": 80.85,
+  "r_edge": 3.0,
+  "theta": 0.0,
+  "rb": 11.63,
+  "R": 60.35,
+  "L2": 0.0,
+  "x_rear": -34.7,
+  "z_left": -69.2,
+  "Lt": 0.0,
+  "r_plan": 100.0,
+  "c_sB": 1.0,
+  "c_dy": 0.0,
+  "c_sw": 1.0,
+  "c_sh": 1.0
+ },
+ "h": 0.007,
+ "niter": 1000,
+ "nota": "estudio conjunto/conj_llmA_fisico_s1 (llm_fisico, espacio conjunto), evaluación 27/40"
+}

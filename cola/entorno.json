@@ -1,0 +1,18 @@
+{
+ "isaac": [],
+ "gpu": {
+  "nombre": "NVIDIA GeForce RTX 5060 Laptop GPU",
+  "vram_usada_gb": 6.7,
+  "vram_total_gb": 8.0,
+  "carga_pct": "0",
+  "temp_c": "53"
+ },
+ "ram": {
+  "total_gb": 31.3,
+  "libre_gb": 10.4,
+  "uso_pct": 66
+ },
+ "cpus": 16,
+ "t": 1795346624.606743,
+ "actualizado": "2026-11-22 12:23:44"
+}

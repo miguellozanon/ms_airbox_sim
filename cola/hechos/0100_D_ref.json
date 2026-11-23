@@ -1,0 +1,63 @@
+{
+ "job": {
+  "name": "D_ref",
+  "params": {
+   "rb": 10,
+   "R": 55,
+   "D": 44,
+   "x_rear": -40,
+   "Lt": 0,
+   "r_plan": 100,
+   "r_edge": 3,
+   "theta": 0
+  },
+  "h": 0.007,
+  "niter": 1000,
+  "keep_case": false,
+  "nota": "Caso de referencia. En el contenedor de Claude: dp0_ext=56.8 Pa, dp0_O=36.2 Pa, 295687 celdas, 863 s con 2 procesos."
+ },
+ "inicio": "2026-11-19 13:27:37",
+ "host": "DESKTOP-RI929MO",
+ "np": 4,
+ "t_geom_s": 24.4,
+ "geom_info": {
+  "rb": 10,
+  "R": 55,
+  "D": 44,
+  "x_rear": -40,
+  "Lt": 0,
+  "r_plan": 100,
+  "r_edge": 3,
+  "theta": 0,
+  "name": "D_ref",
+  "vol_total_L": 7.013702700534138,
+  "vol_plenum_box_L": 2.7031379797371935,
+  "watertight": true,
+  "A_in_cm2": 40.758304290236815,
+  "A_out_cm2": 15.193743566578611,
+  "entry_xz": [
+   -65.5,
+   38.9
+  ],
+  "Lv": 13.3
+ },
+ "vol_plenum_L": 2.667,
+ "celdas": 295661,
+ "t_cfd_s": 715.7,
+ "metrics": {
+  "caso": "D_ref",
+  "dp0_O": 36.7,
+  "dp0_O_std": 0.8,
+  "dp0_ext": 58.3,
+  "conducto": 9.9,
+  "plenum": 5.2,
+  "runner_O": 21.6,
+  "mezcla_ext": 21.7,
+  "backflow_O": 0.01,
+  "n": 6.0
+ },
+ "status": "done",
+ "t_total_s": 752.2,
+ "fin": "2026-11-19 13:40:09",
+ "modo": "modo compartido (Isaac Sim, ROS 2)"
+}
